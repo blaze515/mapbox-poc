@@ -1,0 +1,3311 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.734911,30.2915028 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/280232499",
+    "type":"node",
+    "id":280232499,
+    "amenity":"atm",
+    "name":"University Federal Credit Union",
+    "timestamp":"2016-11-09T18:43:35Z",
+    "version":3,
+    "changeset":43517905,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8048581,30.2030224 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/668901104",
+    "type":"node",
+    "id":668901104,
+    "amenity":"atm",
+    "name":"Wells Fargo Drive Thru ATM",
+    "timestamp":"2013-12-28T19:59:09Z",
+    "version":2,
+    "changeset":19685367,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":1900,
+    "addr:postcode":null,
+    "addr:street":"West William Cannon Drive",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8071916,30.2033005 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/668901122",
+    "type":"node",
+    "id":668901122,
+    "amenity":"atm",
+    "name":"Compass Bank ATM",
+    "timestamp":"2010-03-18T14:46:56Z",
+    "version":1,
+    "changeset":4161860,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":6910,
+    "addr:postcode":null,
+    "addr:street":"Manchaca Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7916826,30.4482425 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/864958878",
+    "type":"node",
+    "id":864958878,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2010-08-17T17:24:34Z",
+    "version":1,
+    "changeset":5519718,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7671271,30.2493483 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919338930",
+    "type":"node",
+    "id":919338930,
+    "amenity":"atm",
+    "name":"Chase Bank",
+    "timestamp":"2010-09-20T05:48:32Z",
+    "version":1,
+    "changeset":5826051,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7537881,30.2392743 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919390899",
+    "type":"node",
+    "id":919390899,
+    "amenity":"atm",
+    "name":"Wells Fargo Bank",
+    "timestamp":"2015-05-09T08:20:51Z",
+    "version":3,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wells Fargo Bank",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7224846,30.3916546 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1227587493",
+    "type":"node",
+    "id":1227587493,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-07T01:02:52Z",
+    "version":2,
+    "changeset":7790498,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"IBC Bank",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7269143,30.4008159 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1227587530",
+    "type":"node",
+    "id":1227587530,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-01T04:03:46Z",
+    "version":1,
+    "changeset":7731837,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7249893,30.3928038 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1235384927",
+    "type":"node",
+    "id":1235384927,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-07T01:02:46Z",
+    "version":1,
+    "changeset":7790498,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wells Fargo",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7350323,30.3147163 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1236793260",
+    "type":"node",
+    "id":1236793260,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-08T01:07:53Z",
+    "version":1,
+    "changeset":7800041,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase Bank",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7395637,30.3998164 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1239441241",
+    "type":"node",
+    "id":1239441241,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-10T03:07:06Z",
+    "version":1,
+    "changeset":7818976,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Capital One Bank",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.740886,30.4001354 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1239441482",
+    "type":"node",
+    "id":1239441482,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-10T03:07:17Z",
+    "version":1,
+    "changeset":7818976,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Regions",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7469879,30.3964397 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1249186571",
+    "type":"node",
+    "id":1249186571,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-17T22:08:53Z",
+    "version":1,
+    "changeset":7892530,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wells Fargo",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7165885,30.4057083 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1250747966",
+    "type":"node",
+    "id":1250747966,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-19T05:25:12Z",
+    "version":1,
+    "changeset":7903294,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Capitol Credit Union",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7035998,30.4005695 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1250748031",
+    "type":"node",
+    "id":1250748031,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-19T05:25:15Z",
+    "version":1,
+    "changeset":7903294,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wells Fargo",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7204518,30.3933158 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1254085989",
+    "type":"node",
+    "id":1254085989,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-21T15:48:43Z",
+    "version":1,
+    "changeset":7926642,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Amplify",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7206002,30.3935948 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1254086048",
+    "type":"node",
+    "id":1254086048,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-21T15:48:44Z",
+    "version":1,
+    "changeset":7926642,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Amplify",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7209612,30.3923496 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1254086055",
+    "type":"node",
+    "id":1254086055,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-04-21T15:48:45Z",
+    "version":1,
+    "changeset":7926642,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"BBVA Compass",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7547029,30.4258053 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1258199436",
+    "type":"node",
+    "id":1258199436,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2013-08-28T21:10:51Z",
+    "version":2,
+    "changeset":17561275,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7073277,30.4149199 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1479752722",
+    "type":"node",
+    "id":1479752722,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2011-10-25T01:09:58Z",
+    "version":1,
+    "changeset":9648603,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.763779,30.2743545 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721292",
+    "type":"node",
+    "id":1481721292,
+    "amenity":"atm",
+    "name":"BBVA Compass",
+    "timestamp":"2014-06-09T22:11:47Z",
+    "version":2,
+    "changeset":22839689,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7494992,30.2687102 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721314",
+    "type":"node",
+    "id":1481721314,
+    "amenity":"atm",
+    "name":"Citi Bank",
+    "timestamp":"2014-06-09T22:14:02Z",
+    "version":2,
+    "changeset":22839714,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7415445,30.2671032 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721331",
+    "type":"node",
+    "id":1481721331,
+    "amenity":"atm",
+    "name":"Prosperity Bank  ATM",
+    "timestamp":"2014-06-09T22:17:42Z",
+    "version":3,
+    "changeset":22839769,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.746684,30.2567056 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481848489",
+    "type":"node",
+    "id":1481848489,
+    "amenity":"atm",
+    "name":"Wells Fargo ATM",
+    "timestamp":"2015-04-24T15:55:31Z",
+    "version":3,
+    "changeset":30457066,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7569077,30.336925 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1528888109",
+    "type":"node",
+    "id":1528888109,
+    "amenity":"atm",
+    "name":"Chase ATM",
+    "timestamp":"2013-06-19T19:28:12Z",
+    "version":2,
+    "changeset":16621165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7619415,30.4296765 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1606806867",
+    "type":"node",
+    "id":1606806867,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2012-01-26T19:05:31Z",
+    "version":1,
+    "changeset":10506077,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7538646,30.3534637 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2352597269",
+    "type":"node",
+    "id":2352597269,
+    "amenity":"atm",
+    "name":"Bank of America",
+    "timestamp":"2013-06-19T19:28:12Z",
+    "version":1,
+    "changeset":16621165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8261565,30.4559119 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2531707263",
+    "type":"node",
+    "id":2531707263,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2013-11-14T03:33:19Z",
+    "version":1,
+    "changeset":18887316,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7717218,30.433908 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2622859378",
+    "type":"node",
+    "id":2622859378,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2014-01-14T23:01:35Z",
+    "version":1,
+    "changeset":20003122,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7296044,30.3602634 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2626566972",
+    "type":"node",
+    "id":2626566972,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2014-01-18T01:29:11Z",
+    "version":1,
+    "changeset":20060468,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.610681,30.4431557 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2649318272",
+    "type":"node",
+    "id":2649318272,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2014-02-02T06:59:53Z",
+    "version":1,
+    "changeset":20328991,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7420565,30.266666 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2683026884",
+    "type":"node",
+    "id":2683026884,
+    "amenity":"atm",
+    "name":"Bitcoin ATM",
+    "timestamp":"2014-04-26T14:33:06Z",
+    "version":4,
+    "changeset":21955558,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":121,
+    "addr:postcode":78701,
+    "addr:street":"East 5th Street",
+    "cuisine":"",
+    "opening_hours":"Mo-Sa 14:00-02:00; Su 12:00-02:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://mylocalbitcoinatm.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7671829,30.2235953 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2700745338",
+    "type":"node",
+    "id":2700745338,
+    "amenity":"atm",
+    "name":"Bitcoin ATM",
+    "timestamp":"2014-03-04T02:34:01Z",
+    "version":1,
+    "changeset":20901731,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":321,
+    "addr:postcode":78704,
+    "addr:street":"West Ben White Boulevard, #203",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Coin Vault ATM",
+    "phone":"",
+    "website":"http://www.coinvaultatm.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7227801,30.4054613 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3155435317",
+    "type":"node",
+    "id":3155435317,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2014-10-28T23:49:55Z",
+    "version":1,
+    "changeset":26402551,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7458302,30.2649727 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3245054372",
+    "type":"node",
+    "id":3245054372,
+    "amenity":"atm",
+    "name":"Wells Fargo",
+    "timestamp":"2014-12-20T20:59:03Z",
+    "version":1,
+    "changeset":27596962,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7534368,30.2371262 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506537230",
+    "type":"node",
+    "id":3506537230,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2015-05-09T08:08:03Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7539169,30.2376569 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506539564",
+    "type":"node",
+    "id":3506539564,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2015-05-09T08:06:55Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7535844,30.2372096 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506541314",
+    "type":"node",
+    "id":3506541314,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2015-05-09T08:07:33Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7542736,30.2374344 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506566671",
+    "type":"node",
+    "id":3506566671,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2015-05-09T08:21:39Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7508629,30.2469162 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4093997762",
+    "type":"node",
+    "id":4093997762,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2016-04-02T22:15:12Z",
+    "version":1,
+    "changeset":38257105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wells Fargo",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7341871,30.2833844 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496338940",
+    "type":"node",
+    "id":4496338940,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2016-11-12T07:40:26Z",
+    "version":1,
+    "changeset":43576151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"University Federal Credit Union",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8297573,30.4830199 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4824304490",
+    "type":"node",
+    "id":4824304490,
+    "amenity":"atm",
+    "name":"ATM Wells Fargo in Randalls",
+    "timestamp":"2018-01-29T00:48:52Z",
+    "version":2,
+    "changeset":55845394,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wells Fargo",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7386138,30.2612134 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4879027984",
+    "type":"node",
+    "id":4879027984,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2017-05-26T18:29:46Z",
+    "version":1,
+    "changeset":49009234,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6681907,30.2021077 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933514996",
+    "type":"node",
+    "id":4933514996,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2017-06-24T03:46:59Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6653784,30.2022444 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933515626",
+    "type":"node",
+    "id":4933515626,
+    "amenity":"atm",
+    "name":"",
+    "timestamp":"2017-06-24T03:47:00Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6965905,30.3230437 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/358532018",
+    "type":"node",
+    "id":358532018,
+    "amenity":"bank",
+    "name":"A+ Federal Credit Union",
+    "timestamp":"2009-03-10T22:10:02Z",
+    "version":1,
+    "changeset":780401,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7741053,30.44163 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/859223247",
+    "type":"node",
+    "id":859223247,
+    "amenity":"bank",
+    "name":"Amplify Credit Union",
+    "timestamp":"2010-08-13T19:01:45Z",
+    "version":1,
+    "changeset":5484809,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7669894,30.4322698 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/860319408",
+    "type":"node",
+    "id":860319408,
+    "amenity":"bank",
+    "name":"Prosperity Bank",
+    "timestamp":"2010-08-14T17:03:22Z",
+    "version":1,
+    "changeset":5492547,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7617473,30.42946 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/860319451",
+    "type":"node",
+    "id":860319451,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2010-08-14T17:03:23Z",
+    "version":1,
+    "changeset":5492547,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7327861,30.3753066 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/860573259",
+    "type":"node",
+    "id":860573259,
+    "amenity":"bank",
+    "name":"Austin Telco Federal Credit Union",
+    "timestamp":"2010-08-14T21:01:20Z",
+    "version":1,
+    "changeset":5494573,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.751535,30.3939956 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/860645928",
+    "type":"node",
+    "id":860645928,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2016-03-25T18:36:15Z",
+    "version":3,
+    "changeset":38068662,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8068211,30.4467725 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/864958861",
+    "type":"node",
+    "id":864958861,
+    "amenity":"bank",
+    "name":"",
+    "timestamp":"2010-08-17T17:24:33Z",
+    "version":1,
+    "changeset":5519718,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.794771,30.4602265 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1069146098",
+    "type":"node",
+    "id":1069146098,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2018-01-30T10:01:20Z",
+    "version":4,
+    "changeset":55888303,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":13752,
+    "addr:postcode":null,
+    "addr:street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7910735,30.4712625 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1072051032",
+    "type":"node",
+    "id":1072051032,
+    "amenity":"bank",
+    "name":"",
+    "timestamp":"2010-12-30T03:45:45Z",
+    "version":1,
+    "changeset":6805617,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Bank of America",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.744873,30.26831 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1225609743",
+    "type":"node",
+    "id":1225609743,
+    "amenity":"bank",
+    "name":"Chase Bank Bldg",
+    "timestamp":"2011-03-30T17:44:35Z",
+    "version":1,
+    "changeset":7718600,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":221,
+    "addr:postcode":null,
+    "addr:street":"W 6th St",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7408304,30.400199 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1239441747",
+    "type":"node",
+    "id":1239441747,
+    "amenity":"bank",
+    "name":"Regions",
+    "timestamp":"2011-04-10T03:07:29Z",
+    "version":1,
+    "changeset":7818976,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7396973,30.3996275 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1239441886",
+    "type":"node",
+    "id":1239441886,
+    "amenity":"bank",
+    "name":"Capital One Bank",
+    "timestamp":"2011-04-10T03:07:35Z",
+    "version":1,
+    "changeset":7818976,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7475534,30.3957686 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1249186615",
+    "type":"node",
+    "id":1249186615,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2011-04-17T22:08:53Z",
+    "version":1,
+    "changeset":7892530,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6780044,30.4877891 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475425656",
+    "type":"node",
+    "id":1475425656,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2016-03-25T11:47:24Z",
+    "version":2,
+    "changeset":38060900,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6737345,30.4067665 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477370125",
+    "type":"node",
+    "id":1477370125,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2011-10-23T00:45:39Z",
+    "version":1,
+    "changeset":9628921,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6771531,30.3765378 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477370217",
+    "type":"node",
+    "id":1477370217,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2011-10-23T00:45:43Z",
+    "version":1,
+    "changeset":9628921,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7074188,30.415242 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1479752718",
+    "type":"node",
+    "id":1479752718,
+    "amenity":"bank",
+    "name":"United Heritage Credit Union",
+    "timestamp":"2011-10-25T01:09:58Z",
+    "version":1,
+    "changeset":9648603,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7533767,30.2394603 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1480283960",
+    "type":"node",
+    "id":1480283960,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2016-03-25T11:47:24Z",
+    "version":3,
+    "changeset":38060900,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":2336,
+    "addr:postcode":78704,
+    "addr:street":"South Congress Avene",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7159228,30.3236815 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1480646365",
+    "type":"node",
+    "id":1480646365,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2011-10-26T00:30:15Z",
+    "version":1,
+    "changeset":9656975,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7462232,30.268762 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633393",
+    "type":"node",
+    "id":1481633393,
+    "amenity":"bank",
+    "name":"Compass Bank",
+    "timestamp":"2011-10-26T20:41:21Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6944985,30.3684825 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204018",
+    "type":"node",
+    "id":1484204018,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2011-10-28T23:56:11Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6936153,30.3682423 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204021",
+    "type":"node",
+    "id":1484204021,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2016-03-25T18:36:15Z",
+    "version":2,
+    "changeset":38068662,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6890218,30.4131703 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484804711",
+    "type":"node",
+    "id":1484804711,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2016-03-25T18:36:15Z",
+    "version":2,
+    "changeset":38068662,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687426,30.4110771 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484804714",
+    "type":"node",
+    "id":1484804714,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2011-10-29T16:23:46Z",
+    "version":1,
+    "changeset":9686091,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6913641,30.4130868 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484805115",
+    "type":"node",
+    "id":1484805115,
+    "amenity":"bank",
+    "name":"CVS Pharmacy",
+    "timestamp":"2017-10-16T02:07:18Z",
+    "version":2,
+    "changeset":52970040,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7791851,30.44043 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1485008852",
+    "type":"node",
+    "id":1485008852,
+    "amenity":"bank",
+    "name":"A+ Credit Union",
+    "timestamp":"2011-10-29T20:09:01Z",
+    "version":1,
+    "changeset":9688204,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7363386,30.3581318 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1606680383",
+    "type":"node",
+    "id":1606680383,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2016-03-25T18:36:15Z",
+    "version":2,
+    "changeset":38068662,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7021549,30.4196648 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1769315550",
+    "type":"node",
+    "id":1769315550,
+    "amenity":"bank",
+    "name":"BBVA Compass",
+    "timestamp":"2016-01-08T23:53:47Z",
+    "version":2,
+    "changeset":36456158,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8235243,30.4568981 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1840613710",
+    "type":"node",
+    "id":1840613710,
+    "amenity":"bank",
+    "name":"Compass Bank",
+    "timestamp":"2012-07-27T22:09:53Z",
+    "version":1,
+    "changeset":12517343,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8238685,30.458063 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1840613712",
+    "type":"node",
+    "id":1840613712,
+    "amenity":"bank",
+    "name":"Capital One",
+    "timestamp":"2012-07-27T22:09:53Z",
+    "version":1,
+    "changeset":12517343,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8243497,30.4561625 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1840613723",
+    "type":"node",
+    "id":1840613723,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2012-07-27T22:09:54Z",
+    "version":1,
+    "changeset":12517343,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8805281,30.201837 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1864566229",
+    "type":"node",
+    "id":1864566229,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2014-03-24T20:25:14Z",
+    "version":2,
+    "changeset":21292777,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7335632,30.3529801 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1889447771",
+    "type":"node",
+    "id":1889447771,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2012-08-30T07:12:45Z",
+    "version":1,
+    "changeset":12913927,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741847,30.287522 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2165721485",
+    "type":"node",
+    "id":2165721485,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2013-02-21T18:51:00Z",
+    "version":1,
+    "changeset":15115452,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8079104,30.3348287 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2352597249",
+    "type":"node",
+    "id":2352597249,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2013-06-19T19:28:12Z",
+    "version":1,
+    "changeset":16621165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.756927,30.3359491 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2352597252",
+    "type":"node",
+    "id":2352597252,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2013-06-19T19:28:12Z",
+    "version":1,
+    "changeset":16621165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8389963,30.2216291 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2493742933",
+    "type":"node",
+    "id":2493742933,
+    "amenity":"bank",
+    "name":"Frost Bank",
+    "timestamp":"2013-10-12T14:01:35Z",
+    "version":1,
+    "changeset":18315545,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.877044,30.2338174 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2514549643",
+    "type":"node",
+    "id":2514549643,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2013-10-30T23:54:12Z",
+    "version":1,
+    "changeset":18627014,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6601008,30.4802439 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2583067126",
+    "type":"node",
+    "id":2583067126,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2013-12-16T23:26:17Z",
+    "version":1,
+    "changeset":19490813,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8252439,30.2914546 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2593365984",
+    "type":"node",
+    "id":2593365984,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2016-03-25T18:36:15Z",
+    "version":2,
+    "changeset":38068662,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7721646,30.43416 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2622990664",
+    "type":"node",
+    "id":2622990664,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2014-01-15T02:20:04Z",
+    "version":1,
+    "changeset":20005264,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8451031,30.1920413 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2623048868",
+    "type":"node",
+    "id":2623048868,
+    "amenity":"bank",
+    "name":"Austin Telco Community Credit Union - Brodie Lane Branch",
+    "timestamp":"2014-01-15T05:20:45Z",
+    "version":1,
+    "changeset":20007172,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":9220,
+    "addr:postcode":78748,
+    "addr:street":"Brodie Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://atfcu.org/index.php/component/content/article/36-locations-a-hours/157-brodie-lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8245194,30.1731629 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637328501",
+    "type":"node",
+    "id":2637328501,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2014-01-25T20:59:59Z",
+    "version":1,
+    "changeset":20200466,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7937846,30.1672971 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637343294",
+    "type":"node",
+    "id":2637343294,
+    "amenity":"bank",
+    "name":"Capital One",
+    "timestamp":"2014-01-25T21:13:17Z",
+    "version":1,
+    "changeset":20200695,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7920063,30.1668241 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637344164",
+    "type":"node",
+    "id":2637344164,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2014-01-25T21:14:06Z",
+    "version":1,
+    "changeset":20200709,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7904291,30.1676427 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637348441",
+    "type":"node",
+    "id":2637348441,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2014-01-25T21:15:59Z",
+    "version":1,
+    "changeset":20200739,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5946488,30.4710063 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2654844279",
+    "type":"node",
+    "id":2654844279,
+    "amenity":"bank",
+    "name":"RBFCU",
+    "timestamp":"2014-02-04T22:33:54Z",
+    "version":1,
+    "changeset":20382536,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687061,30.381763 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2663879182",
+    "type":"node",
+    "id":2663879182,
+    "amenity":"bank",
+    "name":"Southwestern National Bank",
+    "timestamp":"2014-02-09T20:45:23Z",
+    "version":1,
+    "changeset":20472892,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.745476,30.278312 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2675022019",
+    "type":"node",
+    "id":2675022019,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2014-02-16T23:56:48Z",
+    "version":2,
+    "changeset":20607055,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":605,
+    "addr:postcode":null,
+    "addr:street":"West 15th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.739843,30.269441 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2675137642",
+    "type":"node",
+    "id":2675137642,
+    "amenity":"bank",
+    "name":"PlainsCapital Bank",
+    "timestamp":"2014-02-16T16:38:50Z",
+    "version":1,
+    "changeset":20598681,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7917091,30.2363201 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2724064944",
+    "type":"node",
+    "id":2724064944,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2014-03-17T20:17:24Z",
+    "version":1,
+    "changeset":21162366,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8649381,30.1998804 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2738847602",
+    "type":"node",
+    "id":2738847602,
+    "amenity":"bank",
+    "name":"United Heritage Credit Union",
+    "timestamp":"2014-09-15T22:50:11Z",
+    "version":2,
+    "changeset":25468268,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7264185,30.2915794 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2920762441",
+    "type":"node",
+    "id":2920762441,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2014-06-17T18:56:31Z",
+    "version":1,
+    "changeset":22990934,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8634924,30.2298762 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3018372537",
+    "type":"node",
+    "id":3018372537,
+    "amenity":"bank",
+    "name":"A+ Federal Credit Union",
+    "timestamp":"2014-08-15T15:57:36Z",
+    "version":1,
+    "changeset":24770391,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8369565,30.2214073 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3027595457",
+    "type":"node",
+    "id":3027595457,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2014-08-19T14:43:35Z",
+    "version":1,
+    "changeset":24861331,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8376669,30.2205696 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3107898247",
+    "type":"node",
+    "id":3107898247,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2016-05-04T11:58:51Z",
+    "version":2,
+    "changeset":39094359,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7229394,30.4053543 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3155435307",
+    "type":"node",
+    "id":3155435307,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2014-10-28T23:49:55Z",
+    "version":1,
+    "changeset":26402551,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8273074,30.2905464 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3156219180",
+    "type":"node",
+    "id":3156219180,
+    "amenity":"bank",
+    "name":"University Federal Credit Union",
+    "timestamp":"2014-10-29T13:57:26Z",
+    "version":1,
+    "changeset":26412354,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7566819,30.220093 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3328750261",
+    "type":"node",
+    "id":3328750261,
+    "amenity":"bank",
+    "name":"Wells Fargo",
+    "timestamp":"2015-02-03T18:00:52Z",
+    "version":1,
+    "changeset":28594921,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7509611,30.2452827 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506553822",
+    "type":"node",
+    "id":3506553822,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2015-05-09T08:10:32Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.742479,30.267679 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3849778768",
+    "type":"node",
+    "id":3849778768,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2017-08-01T00:25:01Z",
+    "version":2,
+    "changeset":50735962,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":515,
+    "addr:postcode":78701,
+    "addr:street":"Congress Avenue",
+    "cuisine":"",
+    "opening_hours":"Mo-Th 09:00-16:00; Fr 09:00-17:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512 542 9799",
+    "website":"http://locators.bankofamerica.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827567,30.232424 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3873995091",
+    "type":"node",
+    "id":3873995091,
+    "amenity":"bank",
+    "name":"RBFCU",
+    "timestamp":"2015-12-31T03:59:50Z",
+    "version":2,
+    "changeset":36275550,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":5400,
+    "addr:postcode":78749,
+    "addr:street":"South MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.722053,30.3924605 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4458364605",
+    "type":"node",
+    "id":4458364605,
+    "amenity":"bank",
+    "name":"RBFCU",
+    "timestamp":"2016-10-21T20:09:23Z",
+    "version":1,
+    "changeset":43068102,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Randolph-Brooks Federal Credit Union",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7196043,30.40266 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662993",
+    "type":"node",
+    "id":4484662993,
+    "amenity":"bank",
+    "name":"Bank SNB",
+    "timestamp":"2016-11-05T23:30:33Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8324903,30.4826722 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4824315125",
+    "type":"node",
+    "id":4824315125,
+    "amenity":"bank",
+    "name":"Chase",
+    "timestamp":"2018-01-29T11:25:30Z",
+    "version":3,
+    "changeset":55856382,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Chase Bank",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7432771,30.2683979 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4948072431",
+    "type":"node",
+    "id":4948072431,
+    "amenity":"bank",
+    "name":"Horizon Bank",
+    "timestamp":"2017-07-03T04:22:48Z",
+    "version":1,
+    "changeset":49998137,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8314344,30.4805874 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5370114820",
+    "type":"node",
+    "id":5370114820,
+    "amenity":"bank",
+    "name":"Bank of America",
+    "timestamp":"2018-01-29T11:25:29Z",
+    "version":1,
+    "changeset":55856382,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8306068,30.4814078 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5370115656",
+    "type":"node",
+    "id":5370115656,
+    "amenity":"bank",
+    "name":"",
+    "timestamp":"2018-01-29T11:25:29Z",
+    "version":1,
+    "changeset":55856382,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7943017,30.4643186 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5372182426",
+    "type":"node",
+    "id":5372182426,
+    "amenity":"bank",
+    "name":"Chase bank",
+    "timestamp":"2018-01-30T09:56:50Z",
+    "version":1,
+    "changeset":55888163,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":13809,
+    "addr:postcode":null,
+    "addr:street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

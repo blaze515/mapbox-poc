@@ -1,0 +1,701 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6686909,30.2022398 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933514990",
+    "type":"node",
+    "id":4933514990,
+    "amenity":"bureau_de_change",
+    "name":"Travelex",
+    "timestamp":"2017-06-24T03:46:58Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6652121,30.2021911 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933515629",
+    "type":"node",
+    "id":4933515629,
+    "amenity":"bureau_de_change",
+    "name":"Travelex",
+    "timestamp":"2017-06-24T03:47:00Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7303996,30.2838339 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3585224997",
+    "type":"node",
+    "id":3585224997,
+    "amenity":"compressed_air",
+    "name":"",
+    "timestamp":"2015-06-12T17:07:23Z",
+    "version":3,
+    "changeset":31926698,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7404729,30.2888716 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3590371888",
+    "type":"node",
+    "id":3590371888,
+    "amenity":"compressed_air",
+    "name":"",
+    "timestamp":"2015-06-12T17:07:23Z",
+    "version":1,
+    "changeset":31926698,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7389263,30.2897543 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3590371889",
+    "type":"node",
+    "id":3590371889,
+    "amenity":"compressed_air",
+    "name":"",
+    "timestamp":"2015-06-12T17:07:23Z",
+    "version":1,
+    "changeset":31926698,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7400685,30.2901633 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3590371890",
+    "type":"node",
+    "id":3590371890,
+    "amenity":"compressed_air",
+    "name":"",
+    "timestamp":"2015-06-12T17:07:23Z",
+    "version":1,
+    "changeset":31926698,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7519613,30.237425 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3684964571",
+    "type":"node",
+    "id":3684964571,
+    "amenity":"vending_machine",
+    "name":"Redbox",
+    "timestamp":"2015-08-07T05:37:37Z",
+    "version":1,
+    "changeset":33170817,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7187927,30.3415959 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4709191300",
+    "type":"node",
+    "id":4709191300,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-07-17T00:49:24Z",
+    "version":2,
+    "changeset":50337569,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Crestview HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7195218,30.3395381 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4709191305",
+    "type":"node",
+    "id":4709191305,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-02-28T01:27:53Z",
+    "version":1,
+    "changeset":46455524,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7195949,30.3391864 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4709191306",
+    "type":"node",
+    "id":4709191306,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-02-28T01:27:53Z",
+    "version":1,
+    "changeset":46455524,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7189505,30.3390603 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4709191307",
+    "type":"node",
+    "id":4709191307,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-02-28T01:27:53Z",
+    "version":1,
+    "changeset":46455524,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8778467,30.2507607 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231835",
+    "type":"node",
+    "id":4775231835,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:41Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Lantana HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8761247,30.2488507 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231836",
+    "type":"node",
+    "id":4775231836,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:41Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Lantana HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8742472,30.2481255 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231837",
+    "type":"node",
+    "id":4775231837,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:41Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Lantana HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8700468,30.2487835 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231838",
+    "type":"node",
+    "id":4775231838,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:41Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Lantana HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8693495,30.2514689 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231839",
+    "type":"node",
+    "id":4775231839,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:41Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8756902,30.2511839 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231840",
+    "type":"node",
+    "id":4775231840,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:41Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8742901,30.2471523 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4775231843",
+    "type":"node",
+    "id":4775231843,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-04-04T17:58:42Z",
+    "version":1,
+    "changeset":47450240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Lantana HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6686493,30.2022143 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933514991",
+    "type":"node",
+    "id":4933514991,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-06-24T03:46:58Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Benefit",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6685555,30.202183 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933514992",
+    "type":"node",
+    "id":4933514992,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-06-24T03:46:59Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Best Buy Express",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6649921,30.2023847 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933515634",
+    "type":"node",
+    "id":4933515634,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-06-24T03:47:00Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Benefit",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6649532,30.202387 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933515635",
+    "type":"node",
+    "id":4933515635,
+    "amenity":"vending_machine",
+    "name":"",
+    "timestamp":"2017-06-24T03:47:00Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Best Buy Express",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6795853,30.4230316 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1796578501",
+    "type":"node",
+    "id":1796578501,
+    "amenity":"whirlpool",
+    "name":"",
+    "timestamp":"2012-06-21T03:18:43Z",
+    "version":1,
+    "changeset":11964715,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8760776,30.2008883 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2793696842",
+    "type":"node",
+    "id":2793696842,
+    "amenity":"yes",
+    "name":"European Wax Center",
+    "timestamp":"2014-09-21T04:33:06Z",
+    "version":2,
+    "changeset":25571519,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

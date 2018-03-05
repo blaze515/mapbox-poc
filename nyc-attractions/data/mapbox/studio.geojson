@@ -1,0 +1,150 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7371019,30.3567179 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3882681016",
+    "type":"node",
+    "id":3882681016,
+    "amenity":"dojo",
+    "name":"Austin Aikikai",
+    "timestamp":"2015-12-07T23:56:33Z",
+    "version":"1",
+    "changeset":35818610,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":7756,
+    "addr:postcode":78757,
+    "addr:street":"Northcross Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.austinaikikai.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7410455,30.2900551 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3681363133",
+    "type":"node",
+    "id":3681363133,
+    "amenity":"studio",
+    "name":"KUT / KUTX Radio Station",
+    "timestamp":"2015-08-04T20:50:49Z",
+    "version":"1",
+    "changeset":33112480,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8402113,30.4763698 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4179629423",
+    "type":"node",
+    "id":4179629423,
+    "amenity":"studio",
+    "name":"Muv Dance Studio",
+    "timestamp":"2016-05-11T22:29:24Z",
+    "version":"1",
+    "changeset":39254424,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7078267,30.3255535 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4900697792",
+    "type":"node",
+    "id":4900697792,
+    "amenity":"studio",
+    "name":"Rooster Teeth Animation",
+    "timestamp":"2017-06-07T01:21:59Z",
+    "version":"1",
+    "changeset":49322301,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7419293,30.3096925 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5152525199",
+    "type":"node",
+    "id":5152525199,
+    "amenity":"studio",
+    "name":"Castleview Productions",
+    "timestamp":"2017-10-06T20:52:39Z",
+    "version":"1",
+    "changeset":52694564,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":1100,
+    "addr:postcode":78756,
+    "addr:street":"West 41st Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 442-9944",
+    "website":"https://castleviewproductions.com/"
+    }
+  }
+]
+}

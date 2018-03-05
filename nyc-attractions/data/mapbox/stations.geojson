@@ -1,0 +1,1571 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7907716,30.2355602 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3376087171",
+    "type":"node",
+    "id":3376087171,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2015-02-28T07:39:00Z",
+    "version":1,
+    "changeset":29150171,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.736664,30.280982 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3376087173",
+    "type":"node",
+    "id":3376087173,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2015-02-28T07:39:00Z",
+    "version":1,
+    "changeset":29150171,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7371238,30.2856337 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3376087174",
+    "type":"node",
+    "id":3376087174,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2015-02-28T07:39:00Z",
+    "version":1,
+    "changeset":29150171,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7365783,30.2887745 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3376087175",
+    "type":"node",
+    "id":3376087175,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-01-18T03:36:10Z",
+    "version":2,
+    "changeset":36648196,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.688855,30.3972297 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3376087176",
+    "type":"node",
+    "id":3376087176,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-06-22T18:02:01Z",
+    "version":2,
+    "changeset":40210927,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684094,30.4004514 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3376087177",
+    "type":"node",
+    "id":3376087177,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-06-22T18:02:01Z",
+    "version":2,
+    "changeset":40210927,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7334963,30.2855062 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3516596818",
+    "type":"node",
+    "id":3516596818,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-11-10T23:18:22Z",
+    "version":3,
+    "changeset":43547647,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7529171,30.228687 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4476833527",
+    "type":"node",
+    "id":4476833527,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-11-02T14:13:57Z",
+    "version":1,
+    "changeset":43352760,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7358311,30.2898603 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4490850790",
+    "type":"node",
+    "id":4490850790,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-11-09T15:28:45Z",
+    "version":1,
+    "changeset":43514392,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7338475,30.2834628 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496338941",
+    "type":"node",
+    "id":4496338941,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2016-11-12T07:40:26Z",
+    "version":1,
+    "changeset":43576151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7376492,30.2827318 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5416883398",
+    "type":"node",
+    "id":5416883398,
+    "amenity":"bicycle_repair_station",
+    "name":"",
+    "timestamp":"2018-02-16T16:59:10Z",
+    "version":1,
+    "changeset":56419655,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.883233,30.2314411 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1863455209",
+    "type":"node",
+    "id":1863455209,
+    "amenity":"bus_station",
+    "name":"Acc Pinnacle South Entrance",
+    "timestamp":"2012-08-12T19:14:30Z",
+    "version":1,
+    "changeset":12705265,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6654778,30.4413985 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1941797213",
+    "type":"node",
+    "id":1941797213,
+    "amenity":"bus_station",
+    "name":"1426 Wells Branch ID 5764",
+    "timestamp":"2012-10-01T19:15:12Z",
+    "version":1,
+    "changeset":13326347,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7506665,30.2652141 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3014791033",
+    "type":"node",
+    "id":3014791033,
+    "amenity":"bus_station",
+    "name":"Seaholm Station Southbound",
+    "timestamp":"2014-08-13T17:25:55Z",
+    "version":1,
+    "changeset":24728371,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Capital Metropolitan Transportation Authority",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.678611,30.3525 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161145",
+    "type":"node",
+    "id":368161145,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 23",
+    "timestamp":"2009-04-01T06:49:29Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7132294,30.2292699 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161146",
+    "type":"node",
+    "id":368161146,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 22",
+    "timestamp":"2014-12-17T02:04:58Z",
+    "version":2,
+    "changeset":27520271,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.742778,30.418333 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161147",
+    "type":"node",
+    "id":368161147,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 25",
+    "timestamp":"2009-04-01T06:49:30Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7423049,30.1872226 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161148",
+    "type":"node",
+    "id":368161148,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 24",
+    "timestamp":"2012-04-05T00:04:57Z",
+    "version":2,
+    "changeset":11183677,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.758889,30.334722 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161149",
+    "type":"node",
+    "id":368161149,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 19",
+    "timestamp":"2009-04-01T06:49:31Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6903305,30.3172982 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161150",
+    "type":"node",
+    "id":368161150,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 18",
+    "timestamp":"2012-04-05T00:19:36Z",
+    "version":2,
+    "changeset":11183717,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75611,30.370556 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161151",
+    "type":"node",
+    "id":368161151,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 21",
+    "timestamp":"2009-04-01T06:49:31Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8055469,30.2066451 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161152",
+    "type":"node",
+    "id":368161152,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 20",
+    "timestamp":"2016-11-02T01:37:19Z",
+    "version":2,
+    "changeset":43341298,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70944,30.298889 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161153",
+    "type":"node",
+    "id":368161153,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 14",
+    "timestamp":"2009-04-01T06:49:32Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7230003,30.340278 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161155",
+    "type":"node",
+    "id":368161155,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 16",
+    "timestamp":"2009-04-01T06:49:33Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6932608,30.2580355 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161156",
+    "type":"node",
+    "id":368161156,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 15",
+    "timestamp":"2009-04-01T06:49:34Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7092,30.2986 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161159",
+    "type":"node",
+    "id":368161159,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 10",
+    "timestamp":"2009-04-01T06:49:35Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.739426,30.265793 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161160",
+    "type":"node",
+    "id":368161160,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 1",
+    "timestamp":"2015-09-29T15:28:22Z",
+    "version":4,
+    "changeset":34328005,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7294719,30.3064663 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161166",
+    "type":"node",
+    "id":368161166,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 9",
+    "timestamp":"2012-09-28T19:54:22Z",
+    "version":4,
+    "changeset":13289501,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684167,30.278056 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161167",
+    "type":"node",
+    "id":368161167,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 5",
+    "timestamp":"2009-04-01T06:49:38Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7241205,30.2581452 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161168",
+    "type":"node",
+    "id":368161168,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 7",
+    "timestamp":"2009-04-01T06:49:39Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8018727,30.4464326 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161169",
+    "type":"node",
+    "id":368161169,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 38",
+    "timestamp":"2010-12-27T06:00:40Z",
+    "version":2,
+    "changeset":6774435,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755,30.2766606 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161170",
+    "type":"node",
+    "id":368161170,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 4",
+    "timestamp":"2009-04-01T06:49:40Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.76592,30.3999212 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161171",
+    "type":"node",
+    "id":368161171,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 33",
+    "timestamp":"2009-04-01T06:49:40Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7245972,30.2100894 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161172",
+    "type":"node",
+    "id":368161172,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 35",
+    "timestamp":"2014-12-17T02:04:58Z",
+    "version":2,
+    "changeset":27520271,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738689,30.2946009 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161173",
+    "type":"node",
+    "id":368161173,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 3",
+    "timestamp":"2016-08-16T23:07:12Z",
+    "version":4,
+    "changeset":41501101,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.790278,30.266944 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161174",
+    "type":"node",
+    "id":368161174,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 32",
+    "timestamp":"2009-04-01T06:49:41Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6315164,30.293611 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161175",
+    "type":"node",
+    "id":368161175,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 26",
+    "timestamp":"2012-07-18T13:05:52Z",
+    "version":3,
+    "changeset":12282767,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8535259,30.227778 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161176",
+    "type":"node",
+    "id":368161176,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station Number 27",
+    "timestamp":"2009-04-01T06:49:42Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8380746,30.1409927 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/447581788",
+    "type":"node",
+    "id":447581788,
+    "amenity":"fire_station",
+    "name":"Manchaca Volunteer Fire Department",
+    "timestamp":"2009-07-24T23:03:45Z",
+    "version":2,
+    "changeset":1929729,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8978426,30.1833866 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/508662541",
+    "type":"node",
+    "id":508662541,
+    "amenity":"fire_station",
+    "name":"CircleC Fire Station",
+    "timestamp":"2009-09-26T16:47:41Z",
+    "version":2,
+    "changeset":2642447,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7402582,30.3223352 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530781503",
+    "type":"node",
+    "id":530781503,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2009-10-14T19:10:22Z",
+    "version":1,
+    "changeset":2848494,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7264318,30.3266424 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530940304",
+    "type":"node",
+    "id":530940304,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2009-10-14T22:15:54Z",
+    "version":1,
+    "changeset":2850346,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8736721,30.3238607 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1280253059",
+    "type":"node",
+    "id":1280253059,
+    "amenity":"fire_station",
+    "name":"CE-Bar Volunteer Fire Dept.",
+    "timestamp":"2011-05-11T13:23:43Z",
+    "version":1,
+    "changeset":8112242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7969672,30.4588476 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1328904077",
+    "type":"node",
+    "id":1328904077,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2011-06-17T20:42:01Z",
+    "version":1,
+    "changeset":8467971,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7013073,30.4195631 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1769314707",
+    "type":"node",
+    "id":1769314707,
+    "amenity":"fire_station",
+    "name":"Austin Fire Station 28",
+    "timestamp":"2013-08-28T19:55:42Z",
+    "version":2,
+    "changeset":17561148,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6349516,30.4690459 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1849450768",
+    "type":"node",
+    "id":1849450768,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2012-08-03T06:07:57Z",
+    "version":1,
+    "changeset":12593915,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7339986,30.4956367 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1888752156",
+    "type":"node",
+    "id":1888752156,
+    "amenity":"fire_station",
+    "name":"Sam Bass Fire Department",
+    "timestamp":"2015-11-28T04:56:39Z",
+    "version":3,
+    "changeset":35622481,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7724919,30.2772231 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2161648401",
+    "type":"node",
+    "id":2161648401,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2015-11-26T04:11:56Z",
+    "version":2,
+    "changeset":35584283,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7394019,30.2657853 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2161686547",
+    "type":"node",
+    "id":2161686547,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2013-02-18T20:55:23Z",
+    "version":1,
+    "changeset":15082280,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6532374,30.399377 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2438293764",
+    "type":"node",
+    "id":2438293764,
+    "amenity":"fire_station",
+    "name":"Station 40",
+    "timestamp":"2013-08-30T02:38:10Z",
+    "version":1,
+    "changeset":17581793,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7974011,30.2927021 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2641479132",
+    "type":"node",
+    "id":2641479132,
+    "amenity":"fire_station",
+    "name":"West Lake Hills Fire Station",
+    "timestamp":"2014-01-28T21:36:42Z",
+    "version":1,
+    "changeset":20254923,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7868293,30.3577585 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2661667148",
+    "type":"node",
+    "id":2661667148,
+    "amenity":"fire_station",
+    "name":"",
+    "timestamp":"2014-02-08T19:33:21Z",
+    "version":1,
+    "changeset":20452946,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7671429,30.2955327 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2667701733",
+    "type":"node",
+    "id":2667701733,
+    "amenity":"fire_station",
+    "name":"Tarrytown Firestation",
+    "timestamp":"2014-02-11T21:26:46Z",
+    "version":1,
+    "changeset":20511492,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.778911,30.432469 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3863647619",
+    "type":"node",
+    "id":3863647619,
+    "amenity":"fire_station",
+    "name":"Firs station on four iron dr",
+    "timestamp":"2016-07-09T07:29:55Z",
+    "version":2,
+    "changeset":40606879,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

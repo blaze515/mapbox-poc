@@ -1,0 +1,121 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.611604,30.5092115 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/942629283",
+    "type":"node",
+    "id":942629283,
+    "amenity":"Condominium complex",
+    "name":"Forest Creek Condos",
+    "timestamp":"2010-10-09T14:56:58Z",
+    "version":3,
+    "changeset":5993940,
+    "geometry/type":"Point",
+    "addr:city":"Round Rock",
+    "addr:housenumber":3300,
+    "addr:postcode":78664,
+    "addr:street":"Forest Creek Dr",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7486993,30.2624075 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/924281231",
+    "type":"node",
+    "id":924281231,
+    "amenity":"shelter",
+    "name":"",
+    "timestamp":"2010-09-24T17:02:15Z",
+    "version":1,
+    "changeset":5864509,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.58979,30.471598 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3863146055",
+    "type":"node",
+    "id":3863146055,
+    "amenity":"shelter",
+    "name":"",
+    "timestamp":"2018-02-05T04:24:59Z",
+    "version":2,
+    "changeset":56073349,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5837558,30.4764482 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5388443489",
+    "type":"node",
+    "id":5388443489,
+    "amenity":"shelter",
+    "name":"",
+    "timestamp":"2018-02-05T04:24:48Z",
+    "version":1,
+    "changeset":56073349,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

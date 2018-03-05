@@ -1,0 +1,672 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6668264,30.4629024 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1073829864",
+    "type":"node",
+    "id":1073829864,
+    "amenity":"amusement_park",
+    "name":"Austin's Park",
+    "timestamp":"2011-06-21T20:48:46Z",
+    "version":2,
+    "changeset":8508389,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7330609,30.2860412 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368160320",
+    "type":"node",
+    "id":368160320,
+    "amenity":"arts_centre",
+    "name":"Archer M Huntington Art Gallery",
+    "timestamp":"2012-05-05T20:56:12Z",
+    "version":2,
+    "changeset":11511739,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8157521,30.2764768 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3156231649",
+    "type":"node",
+    "id":3156231649,
+    "amenity":"arts_centre",
+    "name":"Westlake Community Performing Arts Center",
+    "timestamp":"2015-06-11T07:49:25Z",
+    "version":4,
+    "changeset":31889934,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":4100,
+    "addr:postcode":78746,
+    "addr:street":"Westbank Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Texas",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7079544,30.3292049 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/533735875",
+    "type":"node",
+    "id":533735875,
+    "amenity":"cinema",
+    "name":"Galaxy Highland 10",
+    "timestamp":"2009-10-16T15:30:42Z",
+    "version":1,
+    "changeset":2865290,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7913816,30.4587481 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1069156740",
+    "type":"node",
+    "id":1069156740,
+    "amenity":"cinema",
+    "name":"Formerly Alamo Drafthouse",
+    "timestamp":"2018-01-30T08:57:51Z",
+    "version":4,
+    "changeset":55886159,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7396232,30.267301 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633325",
+    "type":"node",
+    "id":1481633325,
+    "amenity":"cinema",
+    "name":"Alamo Drafthouse Cinema - The Ritz",
+    "timestamp":"2017-09-11T23:06:10Z",
+    "version":4,
+    "changeset":51957030,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 861-7020",
+    "website":"http://drafthouse.com/austin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8040159,30.4753446 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2614700332",
+    "type":"node",
+    "id":2614700332,
+    "amenity":"cinema",
+    "name":"Alamo Drafthouse Cinema",
+    "timestamp":"2014-01-08T13:06:31Z",
+    "version":1,
+    "changeset":19882081,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8689365,30.1988851 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2728720450",
+    "type":"node",
+    "id":2728720450,
+    "amenity":"cinema",
+    "name":"Alamo Drafthouse Cinema",
+    "timestamp":"2017-09-30T21:01:37Z",
+    "version":2,
+    "changeset":52521826,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.drafthouse.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7636306,30.2557972 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3190597997",
+    "type":"node",
+    "id":3190597997,
+    "amenity":"cinema",
+    "name":"Alamo Drafthouse",
+    "timestamp":"2014-11-16T20:13:15Z",
+    "version":1,
+    "changeset":26830242,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":1120,
+    "addr:postcode":null,
+    "addr:street":"South Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7348892,30.3600465 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3196375766",
+    "type":"node",
+    "id":3196375766,
+    "amenity":"cinema",
+    "name":"Alamo Drafthouse",
+    "timestamp":"2014-11-20T00:16:49Z",
+    "version":1,
+    "changeset":26898475,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7480751,30.2656508 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3248316814",
+    "type":"node",
+    "id":3248316814,
+    "amenity":"cinema",
+    "name":"Violet Crowne",
+    "timestamp":"2014-12-22T20:28:58Z",
+    "version":1,
+    "changeset":27638034,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8073382,30.4706864 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5339525595",
+    "type":"node",
+    "id":5339525595,
+    "amenity":"cinema",
+    "name":"AMC",
+    "timestamp":"2018-01-14T19:41:53Z",
+    "version":1,
+    "changeset":55441166,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.753,30.2294 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368162552",
+    "type":"node",
+    "id":368162552,
+    "amenity":"theatre",
+    "name":"Mary Moody Northern Theater",
+    "timestamp":"2009-04-01T06:57:22Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8453601,30.3088816 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/491137313",
+    "type":"node",
+    "id":491137313,
+    "amenity":"theatre",
+    "name":"One World Theatre",
+    "timestamp":"2009-09-09T15:38:04Z",
+    "version":1,
+    "changeset":2426046,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7374511,30.2662204 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355524436",
+    "type":"node",
+    "id":3355524436,
+    "amenity":"theatre",
+    "name":"Esther's Follies",
+    "timestamp":"2017-05-26T14:48:13Z",
+    "version":2,
+    "changeset":49004527,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512)320-0553",
+    "website":"http://www.esthersfollies.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.745067,30.264852 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3849776324",
+    "type":"node",
+    "id":3849776324,
+    "amenity":"theatre",
+    "name":"Google Fiber Space",
+    "timestamp":"2017-08-03T19:00:22Z",
+    "version":3,
+    "changeset":50817640,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":201,
+    "addr:postcode":78701,
+    "addr:street":"Colorado Street",
+    "cuisine":"",
+    "opening_hours":"Mo-We 10:00-18:00; Th-Sa 10:00-21:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"866 777 7550",
+    "website":"https://fiber.google.com/cities/austin/fiberspace/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7312765,30.2858966 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4320436112",
+    "type":"node",
+    "id":4320436112,
+    "amenity":"theatre",
+    "name":"Bass Concert Hall",
+    "timestamp":"2016-07-26T20:01:22Z",
+    "version":2,
+    "changeset":41046740,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7306801,30.2874336 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4320436113",
+    "type":"node",
+    "id":4320436113,
+    "amenity":"theatre",
+    "name":"Bates Recital Hall",
+    "timestamp":"2016-07-26T20:01:22Z",
+    "version":2,
+    "changeset":41046740,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.638114,30.1342602 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4460999640",
+    "type":"node",
+    "id":4460999640,
+    "amenity":"theatre",
+    "name":"Austin360 Amphitheater",
+    "timestamp":"2016-10-23T21:53:42Z",
+    "version":2,
+    "changeset":43110211,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7419192,30.2692551 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4906384621",
+    "type":"node",
+    "id":4906384621,
+    "amenity":"theatre",
+    "name":"Paramount Theater",
+    "timestamp":"2017-06-09T17:58:01Z",
+    "version":1,
+    "changeset":49404050,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":78701,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://austintheatre.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7399792,30.2660856 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4907998521",
+    "type":"node",
+    "id":4907998521,
+    "amenity":"theatre",
+    "name":"Trinity Hall",
+    "timestamp":"2017-06-10T18:52:30Z",
+    "version":1,
+    "changeset":49426608,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":311,
+    "addr:postcode":78701,
+    "addr:street":"East 5th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"5126348278",
+    "website":"http://trinityhall.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6961519,30.3010359 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4907998528",
+    "type":"node",
+    "id":4907998528,
+    "amenity":"theatre",
+    "name":"Austin Film Society",
+    "timestamp":"2017-06-10T18:53:40Z",
+    "version":1,
+    "changeset":49426625,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":1901,
+    "addr:postcode":78723,
+    "addr:street":"East 51st Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"5123220145",
+    "website":"http://austinfilm.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7576942,30.2641332 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4910909321",
+    "type":"node",
+    "id":4910909321,
+    "amenity":"theatre",
+    "name":"Zach Theatre",
+    "timestamp":"2017-09-07T16:31:17Z",
+    "version":2,
+    "changeset":51817866,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":null,
+    "addr:postcode":78704,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"5124760541",
+    "website":"http://zachtheatre.org"
+    }
+  }
+]
+}

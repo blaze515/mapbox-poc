@@ -1,0 +1,3920 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69291,30.351522 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3157133763",
+    "type":"node",
+    "id":3157133763,
+    "amenity":"college",
+    "name":"Istanbul",
+    "timestamp":"2014-10-29T22:34:50Z",
+    "version":1,
+    "changeset":26424797,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7139571,30.3267582 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3987033662",
+    "type":"node",
+    "id":3987033662,
+    "amenity":"college",
+    "name":"ACC Highland",
+    "timestamp":"2016-02-03T22:25:48Z",
+    "version":2,
+    "changeset":36987505,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"6101",
+    "addr:postcode":78752,
+    "street":"Airport Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.austincc.edu/highland-campus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7851056,30.2331238 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966380868",
+    "type":"node",
+    "id":4966380868,
+    "amenity":"college",
+    "name":"Texas Health and Science University",
+    "timestamp":"2017-09-07T16:31:16Z",
+    "version":2,
+    "changeset":51817866,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4005",
+    "addr:postcode":78704,
+    "street":"Manchaca Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7963755,30.2153827 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966380869",
+    "type":"node",
+    "id":4966380869,
+    "amenity":"college",
+    "name":"Austin Community College: South Austin Campus",
+    "timestamp":"2017-07-12T16:15:08Z",
+    "version":1,
+    "changeset":50234684,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1820",
+    "addr:postcode":78745,
+    "street":"West Stassney Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"ACC",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8833142,30.2316695 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966380870",
+    "type":"node",
+    "id":4966380870,
+    "amenity":"college",
+    "name":"Austin Community College: Pinnacle Campus",
+    "timestamp":"2017-07-12T16:15:08Z",
+    "version":1,
+    "changeset":50234684,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"7748",
+    "addr:postcode":78736,
+    "street":"US-290",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"ACC",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7342106,30.284458 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966380871",
+    "type":"node",
+    "id":4966380871,
+    "amenity":"college",
+    "name":"University of Texas at Austin",
+    "timestamp":"2017-07-12T16:15:08Z",
+    "version":1,
+    "changeset":50234684,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2152",
+    "addr:postcode":78712,
+    "street":"San Jacinto Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"University of Texas",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7223724,30.2648477 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966380872",
+    "type":"node",
+    "id":4966380872,
+    "amenity":"college",
+    "name":"Huston-Tillotson University",
+    "timestamp":"2017-09-07T16:31:08Z",
+    "version":2,
+    "changeset":51817866,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"900",
+    "addr:postcode":78702,
+    "street":"Chicon Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"Huston-Tillotson University",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7544507,30.2300847 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966380873",
+    "type":"node",
+    "id":4966380873,
+    "amenity":"college",
+    "name":"St. Edward's University",
+    "timestamp":"2017-07-12T16:15:09Z",
+    "version":1,
+    "changeset":50234684,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"3001",
+    "addr:postcode":78704,
+    "street":"S Congress",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7559213,30.3948885 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161427",
+    "type":"node",
+    "id":368161427,
+    "amenity":"kindergarten",
+    "name":"Triumphant Love Lutheran Child Development Center",
+    "timestamp":"2013-02-18T21:48:42Z",
+    "version":2,
+    "changeset":15082875,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7303971,30.2687684 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161428",
+    "type":"node",
+    "id":368161428,
+    "amenity":"kindergarten",
+    "name":"Ebenezer Baptist Church Child Development Center",
+    "timestamp":"2011-10-25T14:13:49Z",
+    "version":2,
+    "changeset":9652625,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7410103,30.335239 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161429",
+    "type":"node",
+    "id":368161429,
+    "amenity":"kindergarten",
+    "name":"Grace Garden Child Development Center",
+    "timestamp":"2011-10-26T02:02:45Z",
+    "version":2,
+    "changeset":9657088,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7412129,30.2883148 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161433",
+    "type":"node",
+    "id":368161433,
+    "amenity":"kindergarten",
+    "name":"University United Methodist Church Early Childhood Center",
+    "timestamp":"2015-03-09T08:54:43Z",
+    "version":2,
+    "changeset":29346824,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8462595,30.2172394 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/368161439",
+    "type":"node",
+    "id":368161439,
+    "amenity":"kindergarten",
+    "name":"Abiding Love Lutheran Child Development Center",
+    "timestamp":"2009-04-01T06:51:28Z",
+    "version":1,
+    "changeset":17182,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6350127,30.4294941 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/906639107",
+    "type":"node",
+    "id":906639107,
+    "amenity":"kindergarten",
+    "name":"Goddard School",
+    "timestamp":"2011-03-08T11:13:47Z",
+    "version":2,
+    "changeset":7492963,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7649971,30.3039924 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2667700141",
+    "type":"node",
+    "id":2667700141,
+    "amenity":"kindergarten",
+    "name":"Casis Elementary ",
+    "timestamp":"2014-02-15T13:17:07Z",
+    "version":3,
+    "changeset":20574375,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8863978,30.3890339 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5330270626",
+    "type":"node",
+    "id":5330270626,
+    "amenity":"kindergarten",
+    "name":"The Goddard School",
+    "timestamp":"2018-01-10T01:28:13Z",
+    "version":1,
+    "changeset":55308806,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7355612,30.3040961 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356699377",
+    "type":"node",
+    "id":356699377,
+    "amenity":"school",
+    "name":"Baker School",
+    "timestamp":"2012-01-30T18:56:20Z",
+    "version":2,
+    "changeset":10542629,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"3908",
+    "addr:postcode":78751,
+    "street":"Avenue B",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7641726,30.2818744 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356702209",
+    "type":"node",
+    "id":356702209,
+    "amenity":"school",
+    "name":"Clarksville School",
+    "timestamp":"2009-03-07T14:58:18Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7050041,30.2629869 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356704365",
+    "type":"node",
+    "id":356704365,
+    "amenity":"school",
+    "name":"Daughters of Saint Joseph School",
+    "timestamp":"2009-03-07T15:00:49Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7636172,30.2927073 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356704738",
+    "type":"node",
+    "id":356704738,
+    "amenity":"school",
+    "name":"Dill School",
+    "timestamp":"2009-03-07T15:01:20Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.811118,30.2829848 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356705000",
+    "type":"node",
+    "id":356705000,
+    "amenity":"school",
+    "name":"Eanes School",
+    "timestamp":"2009-03-07T15:02:05Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7222268,30.2632645 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356708616",
+    "type":"node",
+    "id":356708616,
+    "amenity":"school",
+    "name":"Huston Tillotson College",
+    "timestamp":"2009-03-07T15:09:04Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5727794,30.3440959 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356710757",
+    "type":"node",
+    "id":356710757,
+    "amenity":"school",
+    "name":"Manor High School",
+    "timestamp":"2009-03-07T15:13:29Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738894,30.266042 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356714268",
+    "type":"node",
+    "id":356714268,
+    "amenity":"school",
+    "name":"Pasteur Institute",
+    "timestamp":"2009-03-07T15:19:10Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7209525,30.3526801 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356719519",
+    "type":"node",
+    "id":356719519,
+    "amenity":"school",
+    "name":"Redeemer Lutheran School",
+    "timestamp":"2014-10-23T18:00:05Z",
+    "version":5,
+    "changeset":26284150,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1500",
+    "addr:postcode":78757,
+    "street":"West Anderson Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Redeemer Lutheran Church",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6747261,30.3043744 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356720508",
+    "type":"node",
+    "id":356720508,
+    "amenity":"school",
+    "name":"Sacred Heart School",
+    "timestamp":"2012-07-18T13:05:53Z",
+    "version":3,
+    "changeset":12282767,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7005607,30.3318731 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356720517",
+    "type":"node",
+    "id":356720517,
+    "amenity":"school",
+    "name":"Sain Johns School",
+    "timestamp":"2009-03-07T15:39:34Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7236162,30.2938188 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356721070",
+    "type":"node",
+    "id":356721070,
+    "amenity":"school",
+    "name":"Saint Pauls School",
+    "timestamp":"2009-03-07T15:40:50Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.712782,30.254376 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356723475",
+    "type":"node",
+    "id":356723475,
+    "amenity":"school",
+    "name":"San Juan School",
+    "timestamp":"2009-03-07T15:48:37Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6897257,30.2515985 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356725579",
+    "type":"node",
+    "id":356725579,
+    "amenity":"school",
+    "name":"Texas Blind- Deaf and Orphan School",
+    "timestamp":"2009-03-07T15:52:25Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7416728,30.3268729 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356725634",
+    "type":"node",
+    "id":356725634,
+    "amenity":"school",
+    "name":"The Brown School",
+    "timestamp":"2009-03-07T15:52:31Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6369469,30.2715982 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356726018",
+    "type":"node",
+    "id":356726018,
+    "amenity":"school",
+    "name":"Travis State School",
+    "timestamp":"2009-03-07T15:53:10Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7402837,30.3143734 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356726148",
+    "type":"node",
+    "id":356726148,
+    "amenity":"school",
+    "name":"Trinity School",
+    "timestamp":"2012-05-05T21:02:31Z",
+    "version":2,
+    "changeset":11511739,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7888974,30.4060357 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356736877",
+    "type":"node",
+    "id":356736877,
+    "amenity":"school",
+    "name":"Hope House School",
+    "timestamp":"2009-03-07T16:15:13Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6919518,30.4954777 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356745630",
+    "type":"node",
+    "id":356745630,
+    "amenity":"school",
+    "name":"Saint Williams School",
+    "timestamp":"2009-03-07T16:30:53Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6975035,30.2318769 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356749513",
+    "type":"node",
+    "id":356749513,
+    "amenity":"school",
+    "name":"Dolores School",
+    "timestamp":"2009-03-07T16:40:17Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6377794,30.2016006 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356749929",
+    "type":"node",
+    "id":356749929,
+    "amenity":"school",
+    "name":"La Mar School",
+    "timestamp":"2009-03-07T16:41:21Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7630928,30.2407968 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356750574",
+    "type":"node",
+    "id":356750574,
+    "amenity":"school",
+    "name":"San Jose School",
+    "timestamp":"2015-05-09T08:31:07Z",
+    "version":2,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8538947,30.1382671 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356750754",
+    "type":"node",
+    "id":356750754,
+    "amenity":"school",
+    "name":"The Marbridge School",
+    "timestamp":"2009-03-07T16:43:41Z",
+    "version":1,
+    "changeset":749606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8819361,30.0975618 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356804551",
+    "type":"node",
+    "id":356804551,
+    "amenity":"school",
+    "name":"Dahlstrom Middle School",
+    "timestamp":"2017-04-14T15:51:40Z",
+    "version":2,
+    "changeset":47784696,
+    "geometry/type":"Point",
+    "addr:city":"Buda",
+    "housenumber":"3600",
+    "addr:postcode":null,
+    "street":"Ranch to Market Road 967",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"HAYS CISD",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.891197,30.0946 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356804573",
+    "type":"node",
+    "id":356804573,
+    "amenity":"school",
+    "name":"Hays Alternative Impact Center",
+    "timestamp":"2017-04-14T15:51:40Z",
+    "version":2,
+    "changeset":47784696,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"HAYS CISD",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.745891,30.2659899 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356810942",
+    "type":"node",
+    "id":356810942,
+    "amenity":"school",
+    "name":"American Institute for Learning High School",
+    "timestamp":"2015-01-27T12:16:21Z",
+    "version":2,
+    "changeset":28440889,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6871674,30.4083489 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812857",
+    "type":"node",
+    "id":356812857,
+    "amenity":"school",
+    "name":"River Oaks Elementary School",
+    "timestamp":"2010-05-10T13:36:26Z",
+    "version":2,
+    "changeset":4659365,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.735839,30.3035405 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812859",
+    "type":"node",
+    "id":356812859,
+    "amenity":"school",
+    "name":"Robbins Academy",
+    "timestamp":"2009-03-07T18:18:56Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6709349,30.4327942 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812879",
+    "type":"node",
+    "id":356812879,
+    "amenity":"school",
+    "name":"Star Charter School",
+    "timestamp":"2011-10-23T03:44:31Z",
+    "version":2,
+    "changeset":9629262,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7175048,30.2849303 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812890",
+    "type":"node",
+    "id":356812890,
+    "amenity":"school",
+    "name":"Texas Academy of Excellence",
+    "timestamp":"2009-03-07T18:18:58Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7273264,30.2689915 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812893",
+    "type":"node",
+    "id":356812893,
+    "amenity":"school",
+    "name":"Texas Empowerment Academy",
+    "timestamp":"2015-03-09T08:54:43Z",
+    "version":2,
+    "changeset":29346824,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6288935,30.4432582 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812896",
+    "type":"node",
+    "id":356812896,
+    "amenity":"school",
+    "name":"Timmerman Elementary School",
+    "timestamp":"2012-07-18T12:47:27Z",
+    "version":3,
+    "changeset":12282396,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8913978,30.3038161 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812917",
+    "type":"node",
+    "id":356812917,
+    "amenity":"school",
+    "name":"West Ridge Middle School",
+    "timestamp":"2012-07-18T14:37:25Z",
+    "version":3,
+    "changeset":12285324,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6894928,30.4166565 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812934",
+    "type":"node",
+    "id":356812934,
+    "amenity":"school",
+    "name":"Westview Middle School",
+    "timestamp":"2010-05-29T13:07:17Z",
+    "version":2,
+    "changeset":4842350,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.642333,30.4643851 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812941",
+    "type":"node",
+    "id":356812941,
+    "amenity":"school",
+    "name":"Windermere Elementary School",
+    "timestamp":"2012-08-03T06:06:14Z",
+    "version":2,
+    "changeset":12593915,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"1101",
+    "addr:postcode":78660,
+    "street":"Picadilly",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6409398,30.4425947 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356812958",
+    "type":"node",
+    "id":356812958,
+    "amenity":"school",
+    "name":"Pflugerville Middle School",
+    "timestamp":"2010-07-22T14:25:12Z",
+    "version":2,
+    "changeset":5287855,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7299327,30.252726 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813050",
+    "type":"node",
+    "id":356813050,
+    "amenity":"school",
+    "name":"Martin Junior High School",
+    "timestamp":"2013-06-02T21:29:32Z",
+    "version":2,
+    "changeset":16398354,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6766726,30.4327026 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813076",
+    "type":"node",
+    "id":356813076,
+    "amenity":"school",
+    "name":"Northwest Elementary School",
+    "timestamp":"2009-03-07T18:19:17Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7027831,30.3440948 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813078",
+    "type":"node",
+    "id":356813078,
+    "amenity":"school",
+    "name":"Nyos Charter School",
+    "timestamp":"2009-03-07T18:19:17Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6915635,30.4148338 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813110",
+    "type":"node",
+    "id":356813110,
+    "amenity":"school",
+    "name":"Parmer Lane Elementary School",
+    "timestamp":"2010-05-29T13:07:16Z",
+    "version":2,
+    "changeset":4842350,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7290534,30.1655781 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813116",
+    "type":"node",
+    "id":356813116,
+    "amenity":"school",
+    "name":"Hillcrest Elementary School",
+    "timestamp":"2012-10-14T20:16:25Z",
+    "version":5,
+    "changeset":13498064,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6369494,30.4465913 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813128",
+    "type":"node",
+    "id":356813128,
+    "amenity":"school",
+    "name":"Pflugerville Alternative Learning Center",
+    "timestamp":"2009-03-07T18:19:23Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6358383,30.4463135 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813133",
+    "type":"node",
+    "id":356813133,
+    "amenity":"school",
+    "name":"Pflugerville High School",
+    "timestamp":"2012-07-18T12:56:17Z",
+    "version":3,
+    "changeset":12282573,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8030621,30.2721519 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813135",
+    "type":"node",
+    "id":356813135,
+    "amenity":"school",
+    "name":"Hill Country Middle School",
+    "timestamp":"2009-03-07T18:19:24Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6713928,30.3090964 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813138",
+    "type":"node",
+    "id":356813138,
+    "amenity":"school",
+    "name":"Andrews Elementary School",
+    "timestamp":"2009-03-07T18:19:24Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8747307,30.3040941 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813148",
+    "type":"node",
+    "id":356813148,
+    "amenity":"school",
+    "name":"Barton Creek Elementary School",
+    "timestamp":"2012-07-18T14:37:25Z",
+    "version":3,
+    "changeset":12285324,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8038966,30.339927 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813180",
+    "type":"node",
+    "id":356813180,
+    "amenity":"school",
+    "name":"Bridge Point Elementary School",
+    "timestamp":"2009-03-07T18:19:31Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6486166,30.4607574 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813187",
+    "type":"node",
+    "id":356813187,
+    "amenity":"school",
+    "name":"Brookhollow Elementary School",
+    "timestamp":"2009-03-07T18:19:32Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8050065,30.2690965 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813200",
+    "type":"node",
+    "id":356813200,
+    "amenity":"school",
+    "name":"Cedar Creek Elementary School",
+    "timestamp":"2009-03-07T18:19:33Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6601419,30.3882506 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813205",
+    "type":"node",
+    "id":356813205,
+    "amenity":"school",
+    "name":"Copperfield Elementary School",
+    "timestamp":"2009-08-11T21:45:42Z",
+    "version":2,
+    "changeset":2112965,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6244454,30.1707685 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813221",
+    "type":"node",
+    "id":356813221,
+    "amenity":"school",
+    "name":"Del Valle Junior High School",
+    "timestamp":"2009-03-07T18:19:36Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6124634,30.1764112 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813223",
+    "type":"node",
+    "id":356813223,
+    "amenity":"school",
+    "name":"Del Valle Opportunity Center",
+    "timestamp":"2015-01-13T21:22:45Z",
+    "version":2,
+    "changeset":28122158,
+    "geometry/type":"Point",
+    "addr:city":"Del Valle",
+    "housenumber":"5301 B",
+    "addr:postcode":78617,
+    "street":"Ross Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-386-3300",
+    "website":"http://delvalle.tx.schoolwebpages.com/education/school/school.php?sectiondetailid=75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6451015,30.3998598 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813228",
+    "type":"node",
+    "id":356813228,
+    "amenity":"school",
+    "name":"Dessau Elementary School",
+    "timestamp":"2009-07-21T18:01:32Z",
+    "version":2,
+    "changeset":1897072,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7644506,30.2927073 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813230",
+    "type":"node",
+    "id":356813230,
+    "amenity":"school",
+    "name":"Dill Special Programs School",
+    "timestamp":"2009-03-07T18:19:38Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8041733,30.2771517 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813239",
+    "type":"node",
+    "id":356813239,
+    "amenity":"school",
+    "name":"Eanes Elementary School",
+    "timestamp":"2009-03-07T18:19:39Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8161163,30.1529893 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813241",
+    "type":"node",
+    "id":356813241,
+    "amenity":"school",
+    "name":"Eden Park Academy",
+    "timestamp":"2009-03-07T18:19:39Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6739555,30.498962 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813438",
+    "type":"node",
+    "id":356813438,
+    "amenity":"school",
+    "name":"Xenia Voigt Elementary School",
+    "timestamp":"2013-02-13T15:39:32Z",
+    "version":4,
+    "changeset":15018712,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7707232,30.4536152 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813481",
+    "type":"node",
+    "id":356813481,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-17T21:16:40Z",
+    "version":4,
+    "changeset":8468556,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8203941,30.4572025 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813516",
+    "type":"node",
+    "id":356813516,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-17T20:42:01Z",
+    "version":5,
+    "changeset":8467971,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8041419,30.4450896 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813532",
+    "type":"node",
+    "id":356813532,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-17T21:30:30Z",
+    "version":3,
+    "changeset":8468556,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7978233,30.4557759 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813574",
+    "type":"node",
+    "id":356813574,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-18T16:38:04Z",
+    "version":4,
+    "changeset":8475220,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7818289,30.4707088 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813611",
+    "type":"node",
+    "id":356813611,
+    "amenity":"school",
+    "name":"Forest North Elementary School",
+    "timestamp":"2009-03-08T06:21:56Z",
+    "version":2,
+    "changeset":757749,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.643617,30.4979781 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813618",
+    "type":"node",
+    "id":356813618,
+    "amenity":"school",
+    "name":"Gattis Elementary School",
+    "timestamp":"2009-03-07T18:20:22Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8310559,30.4884453 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813666",
+    "type":"node",
+    "id":356813666,
+    "amenity":"school",
+    "name":"Ada Mae Faubion Elementary School",
+    "timestamp":"2010-12-28T12:04:19Z",
+    "version":2,
+    "changeset":6787199,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6911183,30.4896446 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813702",
+    "type":"node",
+    "id":356813702,
+    "amenity":"school",
+    "name":"Bluebonnet Elementary School",
+    "timestamp":"2009-03-07T18:20:29Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8244544,30.4352007 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813735",
+    "type":"node",
+    "id":356813735,
+    "amenity":"school",
+    "name":"Canyon Creek Elementary School",
+    "timestamp":"2012-07-18T14:04:54Z",
+    "version":3,
+    "changeset":12284389,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7843694,30.4283276 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813741",
+    "type":"node",
+    "id":356813741,
+    "amenity":"school",
+    "name":"Canyon Vista Middle School",
+    "timestamp":"2013-03-10T15:08:22Z",
+    "version":4,
+    "changeset":15316095,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7339814,30.4924269 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813761",
+    "type":"node",
+    "id":356813761,
+    "amenity":"school",
+    "name":"Cedar Valley Middle School",
+    "timestamp":"2012-03-09T20:35:49Z",
+    "version":2,
+    "changeset":10925138,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.77259,30.4527921 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356813796",
+    "type":"node",
+    "id":356813796,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-17T21:16:43Z",
+    "version":4,
+    "changeset":8468556,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8087584,30.1964213 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356842784",
+    "type":"node",
+    "id":356842784,
+    "amenity":"school",
+    "name":"Strickland Christian School",
+    "timestamp":"2015-01-24T13:23:58Z",
+    "version":5,
+    "changeset":28372258,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"7415",
+    "addr:postcode":78745,
+    "street":"Manchaca Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-447-1447",
+    "website":"http://www.stricklandschool.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7559857,30.2297496 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356852031",
+    "type":"node",
+    "id":356852031,
+    "amenity":"school",
+    "name":"Saint Edwards University",
+    "timestamp":"2012-11-01T12:14:12Z",
+    "version":2,
+    "changeset":13710007,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7391202,30.2918407 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854681",
+    "type":"node",
+    "id":356854681,
+    "amenity":"school",
+    "name":"All Saints Episcopal Day School",
+    "timestamp":"2009-03-07T19:20:32Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7418557,30.26603 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854690",
+    "type":"node",
+    "id":356854690,
+    "amenity":"school",
+    "name":"American Youthworks Charter School",
+    "timestamp":"2011-02-11T22:53:55Z",
+    "version":2,
+    "changeset":7260162,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8065109,30.4526708 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854696",
+    "type":"node",
+    "id":356854696,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-18T16:38:04Z",
+    "version":5,
+    "changeset":8475220,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7059238,30.3075441 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854723",
+    "type":"node",
+    "id":356854723,
+    "amenity":"school",
+    "name":"Cedars International Academy",
+    "timestamp":"2009-03-07T19:20:37Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7946496,30.1818075 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854727",
+    "type":"node",
+    "id":356854727,
+    "amenity":"school",
+    "name":"Christ Community Christian School",
+    "timestamp":"2009-03-07T19:20:37Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6293031,30.1728612 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854737",
+    "type":"node",
+    "id":356854737,
+    "amenity":"school",
+    "name":"Del Valle Junior High School",
+    "timestamp":"2009-03-07T19:20:39Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7808296,30.2446621 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854741",
+    "type":"node",
+    "id":356854741,
+    "amenity":"school",
+    "name":"Faith United Methodist Preschool",
+    "timestamp":"2012-07-18T14:41:44Z",
+    "version":3,
+    "changeset":12285416,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7583039,30.3695937 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854748",
+    "type":"node",
+    "id":356854748,
+    "amenity":"school",
+    "name":"First Presbyterian Church Day School",
+    "timestamp":"2009-03-07T19:20:39Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7426086,30.2748668 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854755",
+    "type":"node",
+    "id":356854755,
+    "amenity":"school",
+    "name":"First United Methodist Church of Austin Preschool",
+    "timestamp":"2014-12-13T00:27:57Z",
+    "version":4,
+    "changeset":27433203,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7689936,30.2959346 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854766",
+    "type":"node",
+    "id":356854766,
+    "amenity":"school",
+    "name":"Good Shepherd Episcopal School",
+    "timestamp":"2009-03-07T19:20:41Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.749644,30.3980542 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854771",
+    "type":"node",
+    "id":356854771,
+    "amenity":"school",
+    "name":"Great Hills Baptist Church Preschool",
+    "timestamp":"2011-04-18T05:39:58Z",
+    "version":2,
+    "changeset":7893766,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7694446,30.419737 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854800",
+    "type":"node",
+    "id":356854800,
+    "amenity":"school",
+    "name":"Kathy Caraway Elementary School",
+    "timestamp":"2014-01-15T01:42:57Z",
+    "version":2,
+    "changeset":20004849,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7032159,30.3851157 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854818",
+    "type":"node",
+    "id":356854818,
+    "amenity":"school",
+    "name":"McCullough Academy of Excellence",
+    "timestamp":"2009-03-07T19:20:46Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8792398,30.23872 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854828",
+    "type":"node",
+    "id":356854828,
+    "amenity":"school",
+    "name":"Mount Olive Lutheran Church Preschool",
+    "timestamp":"2009-03-07T19:20:47Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.586526,30.4675249 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854834",
+    "type":"node",
+    "id":356854834,
+    "amenity":"school",
+    "name":"Murchison Elementary School",
+    "timestamp":"2010-07-24T21:14:15Z",
+    "version":3,
+    "changeset":5307259,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7561443,30.3741524 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854868",
+    "type":"node",
+    "id":356854868,
+    "amenity":"school",
+    "name":"Saint Matthews Episcopal Day School",
+    "timestamp":"2014-12-10T19:42:27Z",
+    "version":2,
+    "changeset":27384719,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7186294,30.2605728 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854897",
+    "type":"node",
+    "id":356854897,
+    "amenity":"school",
+    "name":"University Of Texas Elementary Charter School",
+    "timestamp":"2009-03-07T19:20:53Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6923256,30.315108 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854902",
+    "type":"node",
+    "id":356854902,
+    "amenity":"school",
+    "name":"Wesley School",
+    "timestamp":"2012-07-18T13:14:18Z",
+    "version":3,
+    "changeset":12282918,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.753871,30.2594637 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/385440987",
+    "type":"node",
+    "id":385440987,
+    "amenity":"school",
+    "name":"Armstrong Community Music School",
+    "timestamp":"2009-04-26T18:58:37Z",
+    "version":1,
+    "changeset":978128,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6432561,30.3982312 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/444963142",
+    "type":"node",
+    "id":444963142,
+    "amenity":"school",
+    "name":"Dessau Middle School",
+    "timestamp":"2009-07-21T18:01:33Z",
+    "version":1,
+    "changeset":1897072,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6868532,30.2997979 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/533890329",
+    "type":"node",
+    "id":533890329,
+    "amenity":"school",
+    "name":"Austin Peace Academy",
+    "timestamp":"2017-05-26T14:48:35Z",
+    "version":2,
+    "changeset":49004527,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8054393,30.5036915 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/672272607",
+    "type":"node",
+    "id":672272607,
+    "amenity":"school",
+    "name":"Cox Elementary",
+    "timestamp":"2010-03-22T18:47:46Z",
+    "version":1,
+    "changeset":4205472,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.747986,30.3759941 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/726614508",
+    "type":"node",
+    "id":726614508,
+    "amenity":"school",
+    "name":"Hill Elementary Playground",
+    "timestamp":"2010-06-05T13:40:40Z",
+    "version":2,
+    "changeset":4908723,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6448665,30.4423357 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/828833607",
+    "type":"node",
+    "id":828833607,
+    "amenity":"school",
+    "name":"Springhill Elementary",
+    "timestamp":"2010-07-22T14:25:11Z",
+    "version":1,
+    "changeset":5287855,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5626669,30.4774346 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/831944281",
+    "type":"node",
+    "id":831944281,
+    "amenity":"school",
+    "name":"Rowe Lane Elementary School",
+    "timestamp":"2010-07-24T21:50:27Z",
+    "version":1,
+    "changeset":5307467,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6130363,30.507825 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/942629565",
+    "type":"node",
+    "id":942629565,
+    "amenity":"school",
+    "name":"Kids R Kids",
+    "timestamp":"2010-10-09T14:55:58Z",
+    "version":2,
+    "changeset":5993940,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7809714,30.274481 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/998943894",
+    "type":"node",
+    "id":998943894,
+    "amenity":"school",
+    "name":"Austin Jiu-Jitsu",
+    "timestamp":"2010-11-22T01:28:28Z",
+    "version":1,
+    "changeset":6428489,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8068999,30.4568626 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1069048408",
+    "type":"node",
+    "id":1069048408,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2011-06-18T16:38:04Z",
+    "version":2,
+    "changeset":8475220,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8966458,30.0968602 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1081169673",
+    "type":"node",
+    "id":1081169673,
+    "amenity":"school",
+    "name":"Carpenter Hill Elementary School",
+    "timestamp":"2014-08-27T21:55:44Z",
+    "version":2,
+    "changeset":25062955,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8337016,30.1522738 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1081532151",
+    "type":"node",
+    "id":1081532151,
+    "amenity":"school",
+    "name":"Jackie's Private Education",
+    "timestamp":"2011-01-04T06:06:30Z",
+    "version":1,
+    "changeset":6857452,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6723872,30.2731608 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1127201286",
+    "type":"node",
+    "id":1127201286,
+    "amenity":"school",
+    "name":"Texas Empowerment Academy",
+    "timestamp":"2011-01-30T00:47:59Z",
+    "version":1,
+    "changeset":7129299,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7215599,30.4006694 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1225774478",
+    "type":"node",
+    "id":1225774478,
+    "amenity":"school",
+    "name":"Le Cordon Bleu College of Culinary Arts Austin",
+    "timestamp":"2011-03-30T19:30:01Z",
+    "version":1,
+    "changeset":7719650,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.730049,30.4083158 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1258973789",
+    "type":"node",
+    "id":1258973789,
+    "amenity":"school",
+    "name":"Hyde Park Baptist High School",
+    "timestamp":"2017-12-25T04:17:48Z",
+    "version":2,
+    "changeset":54899737,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"11400h",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7389169,30.495589 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1667840878",
+    "type":"node",
+    "id":1667840878,
+    "amenity":"school",
+    "name":"Great Oaks Elementary",
+    "timestamp":"2012-03-09T20:35:48Z",
+    "version":1,
+    "changeset":10925138,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7046332,30.4035652 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1769309884",
+    "type":"node",
+    "id":1769309884,
+    "amenity":"school",
+    "name":"Austin Community College",
+    "timestamp":"2012-05-29T09:46:59Z",
+    "version":1,
+    "changeset":11735689,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.643599,30.4649031 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1849448509",
+    "type":"node",
+    "id":1849448509,
+    "amenity":"school",
+    "name":"Windermere Primary School",
+    "timestamp":"2012-08-03T06:06:14Z",
+    "version":1,
+    "changeset":12593915,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"429",
+    "addr:postcode":78660,
+    "street":"Grand Avenue Parkway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8834154,30.2317794 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1863457907",
+    "type":"node",
+    "id":1863457907,
+    "amenity":"school",
+    "name":"Austin Community College Book Store",
+    "timestamp":"2012-08-12T19:16:04Z",
+    "version":1,
+    "changeset":12705265,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7518491,30.5043208 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1909463818",
+    "type":"node",
+    "id":1909463818,
+    "amenity":"school",
+    "name":"Patsy Sommer Elementary School",
+    "timestamp":"2012-09-11T02:23:33Z",
+    "version":1,
+    "changeset":13064214,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7204345,30.3287395 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2124506850",
+    "type":"node",
+    "id":2124506850,
+    "amenity":"school",
+    "name":"",
+    "timestamp":"2013-01-22T21:47:03Z",
+    "version":1,
+    "changeset":14751024,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7468045,30.2155487 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2148532718",
+    "type":"node",
+    "id":2148532718,
+    "amenity":"school",
+    "name":"American Youthworks Charter School",
+    "timestamp":"2013-02-10T02:33:56Z",
+    "version":1,
+    "changeset":14975169,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"1901",
+    "addr:postcode":null,
+    "street":"East Ben White Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6900755,30.3188334 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2148536505",
+    "type":"node",
+    "id":2148536505,
+    "amenity":"school",
+    "name":"Austin Achieve Public School (charter)",
+    "timestamp":"2013-02-10T02:47:24Z",
+    "version":1,
+    "changeset":14975230,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8439959,30.2541778 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2869106776",
+    "type":"node",
+    "id":2869106776,
+    "amenity":"school",
+    "name":"Regents School of Austin",
+    "timestamp":"2014-05-19T19:44:37Z",
+    "version":1,
+    "changeset":22431830,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8154971,30.2740521 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3156223866",
+    "type":"node",
+    "id":3156223866,
+    "amenity":"school",
+    "name":"Westlake High School - Field 3",
+    "timestamp":"2014-10-29T14:05:31Z",
+    "version":2,
+    "changeset":26412532,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7193923,30.3127961 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3242000897",
+    "type":"node",
+    "id":3242000897,
+    "amenity":"school",
+    "name":"The Griffin School",
+    "timestamp":"2015-12-22T21:39:41Z",
+    "version":2,
+    "changeset":36114517,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.730615,30.2870948 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4320436330",
+    "type":"node",
+    "id":4320436330,
+    "amenity":"school",
+    "name":"Butler School of Music",
+    "timestamp":"2016-07-26T20:01:22Z",
+    "version":2,
+    "changeset":41046740,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7390154,30.3339294 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4370109392",
+    "type":"node",
+    "id":4370109392,
+    "amenity":"school",
+    "name":"Capitol School of Austin",
+    "timestamp":"2016-08-27T18:39:17Z",
+    "version":1,
+    "changeset":41742015,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"2011",
+    "addr:postcode":78756,
+    "street":"West Koenig Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 467-7006",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8185931,30.3301109 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356721114",
+    "type":"node",
+    "id":356721114,
+    "amenity":"university",
+    "name":"St. Stephen's Episcopal School",
+    "timestamp":"2017-09-11T23:06:08Z",
+    "version":5,
+    "changeset":51957030,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7387657,30.2816659 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4002831515",
+    "type":"node",
+    "id":4002831515,
+    "amenity":"university",
+    "name":"Sanchez - The College of Education",
+    "timestamp":"2017-09-11T23:06:11Z",
+    "version":3,
+    "changeset":51957030,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1912",
+    "addr:postcode":78712,
+    "street":"Speedway Stop D5000",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"+1 512 4717255",
+    "website":"http://education.utexas.edu/"
+    }
+  }
+]
+}

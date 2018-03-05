@@ -1,0 +1,5312 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8801352,30.1938946 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2738843352",
+    "type":"node",
+    "id":2738843352,
+    "amenity":"clinic",
+    "name":"Austin Diagnostic Clinic: ADC Circle C",
+    "timestamp":"2016-09-13T17:54:21Z",
+    "version":7,
+    "changeset":42132034,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5701-C",
+    "addr:postcode":null,
+    "street":"West Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7892431,30.2379018 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2868784016",
+    "type":"node",
+    "id":2868784016,
+    "amenity":"clinic",
+    "name":"ProMed",
+    "timestamp":"2014-05-19T16:33:39Z",
+    "version":1,
+    "changeset":22428295,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750439,30.351289 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4489047190",
+    "type":"node",
+    "id":4489047190,
+    "amenity":"clinic",
+    "name":"Austin Regional Clinic Far West",
+    "timestamp":"2016-11-08T17:16:49Z",
+    "version":1,
+    "changeset":43493427,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"6835",
+    "addr:postcode":78731,
+    "street":"Austin Center Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7299889,30.3981771 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4754975120",
+    "type":"node",
+    "id":4754975120,
+    "amenity":"clinic",
+    "name":"Austin Family Allergy & Asthma",
+    "timestamp":"2018-01-09T20:11:12Z",
+    "version":5,
+    "changeset":55302972,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"10801-2",
+    "addr:postcode":78759,
+    "street":"North MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"Mo, We-Fr 08:00-17:00; Tu 07:30-17:00; Sa 08:30-11:30",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"-8793",
+    "website":"http://familyallergyATX.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8860396,30.3895703 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5330270625",
+    "type":"node",
+    "id":5330270625,
+    "amenity":"clinic",
+    "name":"The Austin Diagnostic Clinic",
+    "timestamp":"2018-01-10T01:28:13Z",
+    "version":1,
+    "changeset":55308806,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8473432,30.1851035 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/564536984",
+    "type":"node",
+    "id":564536984,
+    "amenity":"dentist",
+    "name":"Smiles by Dentistry",
+    "timestamp":"2009-11-16T17:23:27Z",
+    "version":2,
+    "changeset":3133766,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"130",
+    "addr:postcode":null,
+    "street":"Brodie Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7481855,30.4081273 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/863465762",
+    "type":"node",
+    "id":863465762,
+    "amenity":"dentist",
+    "name":"Omni Dental Group",
+    "timestamp":"2010-08-16T16:34:06Z",
+    "version":1,
+    "changeset":5510677,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7355481,30.315017 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1236793096",
+    "type":"node",
+    "id":1236793096,
+    "amenity":"dentist",
+    "name":"Austin Dental Works",
+    "timestamp":"2011-04-08T01:07:46Z",
+    "version":1,
+    "changeset":7800041,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7488709,30.3988286 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1249567757",
+    "type":"node",
+    "id":1249567757,
+    "amenity":"dentist",
+    "name":"Castle Dental",
+    "timestamp":"2011-04-18T05:36:09Z",
+    "version":1,
+    "changeset":7893754,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7472811,30.3997798 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1249567769",
+    "type":"node",
+    "id":1249567769,
+    "amenity":"dentist",
+    "name":"",
+    "timestamp":"2011-04-18T05:36:09Z",
+    "version":1,
+    "changeset":7893754,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7480254,30.4000021 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1249568535",
+    "type":"node",
+    "id":1249568535,
+    "amenity":"dentist",
+    "name":"Fastbraces",
+    "timestamp":"2011-04-18T05:36:30Z",
+    "version":1,
+    "changeset":7893754,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7189262,30.3636375 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2527535401",
+    "type":"node",
+    "id":2527535401,
+    "amenity":"dentist",
+    "name":"Lone Star Pediatric Dental",
+    "timestamp":"2013-11-11T05:14:17Z",
+    "version":1,
+    "changeset":18829101,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7440456,30.4443219 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2533220906",
+    "type":"node",
+    "id":2533220906,
+    "amenity":"dentist",
+    "name":"",
+    "timestamp":"2013-11-15T06:26:36Z",
+    "version":1,
+    "changeset":18908234,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5988964,30.4664595 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2654844272",
+    "type":"node",
+    "id":2654844272,
+    "amenity":"dentist",
+    "name":"Kids Dental Smiles",
+    "timestamp":"2014-02-04T22:33:53Z",
+    "version":1,
+    "changeset":20382536,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6760208,30.4043549 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2663954886",
+    "type":"node",
+    "id":2663954886,
+    "amenity":"dentist",
+    "name":"Tech Ridge Dental",
+    "timestamp":"2014-02-09T21:04:14Z",
+    "version":1,
+    "changeset":20473211,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.868636,30.2004295 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2793750812",
+    "type":"node",
+    "id":2793750812,
+    "amenity":"dentist",
+    "name":"Matthew Home Dentistry",
+    "timestamp":"2014-04-15T21:45:01Z",
+    "version":1,
+    "changeset":21718586,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7210869,30.3000283 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2920762431",
+    "type":"node",
+    "id":2920762431,
+    "amenity":"dentist",
+    "name":"Castle Dental",
+    "timestamp":"2014-06-17T18:56:30Z",
+    "version":1,
+    "changeset":22990934,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"Mo-Fr 08:00-5:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-458-3600",
+    "website":"www.castledental.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7082594,30.3053213 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2992260019",
+    "type":"node",
+    "id":2992260019,
+    "amenity":"dentist",
+    "name":"Central Texas Pediatric Dentistry",
+    "timestamp":"2014-08-02T13:55:25Z",
+    "version":1,
+    "changeset":24498661,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7082797,30.3052895 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2992260020",
+    "type":"node",
+    "id":2992260020,
+    "amenity":"dentist",
+    "name":"Dental Smiles Family and Cosmetic",
+    "timestamp":"2014-08-02T13:55:25Z",
+    "version":1,
+    "changeset":24498661,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6733163,30.4046817 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3157298458",
+    "type":"node",
+    "id":3157298458,
+    "amenity":"dentist",
+    "name":"Castle Dental",
+    "timestamp":"2014-10-30T01:31:50Z",
+    "version":1,
+    "changeset":26426977,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7486046,30.3079948 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513023",
+    "type":"node",
+    "id":4966513023,
+    "amenity":"dentist",
+    "name":"Austin Dental Center, PC",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2304",
+    "addr:postcode":78756,
+    "street":"Hancock Dr",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7523302,30.3082015 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513024",
+    "type":"node",
+    "id":4966513024,
+    "amenity":"dentist",
+    "name":"Brush 32 | Central Austin",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"3500",
+    "addr:postcode":78731,
+    "street":"Jefferson Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7456278,30.30289 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513025",
+    "type":"node",
+    "id":4966513025,
+    "amenity":"dentist",
+    "name":"Lone Star Pediatric Dental & Braces",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1015",
+    "addr:postcode":78705,
+    "street":"West 34th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7244365,30.28829 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513026",
+    "type":"node",
+    "id":4966513026,
+    "amenity":"dentist",
+    "name":"Midtown Dental Associates",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"3000",
+    "addr:postcode":78705,
+    "street":"North Interstate Highway 35 Service Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7281768,30.2913137 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513027",
+    "type":"node",
+    "id":4966513027,
+    "amenity":"dentist",
+    "name":"Aqua Dental",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"811",
+    "addr:postcode":78705,
+    "street":"East 32nd Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7281442,30.289376 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513028",
+    "type":"node",
+    "id":4966513028,
+    "amenity":"dentist",
+    "name":"Alpine Dental",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2915",
+    "addr:postcode":78705,
+    "street":"Medical Arts Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7192365,30.2799714 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513029",
+    "type":"node",
+    "id":4966513029,
+    "amenity":"dentist",
+    "name":"White Mason Mc Elveen & Associates: Mason Norman L DDS",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2113",
+    "addr:postcode":78702,
+    "street":"East Martin Luther King Jr Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7104508,30.2594937 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513030",
+    "type":"node",
+    "id":4966513030,
+    "amenity":"dentist",
+    "name":"Central Family Dental",
+    "timestamp":"2017-07-12T17:27:35Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2719",
+    "addr:postcode":78702,
+    "street":"East 7th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7211731,30.2619784 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513031",
+    "type":"node",
+    "id":4966513031,
+    "amenity":"dentist",
+    "name":"Access Dental of E 7th",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1923",
+    "addr:postcode":78702,
+    "street":"East 7th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Texas",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7325106,30.264242 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513032",
+    "type":"node",
+    "id":4966513032,
+    "amenity":"dentist",
+    "name":"East Austin Dental",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1000",
+    "addr:postcode":78702,
+    "street":"East 5th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7450967,30.2684618 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513033",
+    "type":"node",
+    "id":4966513033,
+    "amenity":"dentist",
+    "name":"Emergency Dentist Austin",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"221",
+    "addr:postcode":78701,
+    "street":"West 6th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7550664,30.2702377 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513034",
+    "type":"node",
+    "id":4966513034,
+    "amenity":"dentist",
+    "name":"FLOSS Dental",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1011",
+    "addr:postcode":78703,
+    "street":"West 5th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7587399,30.2628487 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513035",
+    "type":"node",
+    "id":4966513035,
+    "amenity":"dentist",
+    "name":"SoLa Dental of Austin",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"300",
+    "addr:postcode":78704,
+    "street":"South Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7861554,30.2711038 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513036",
+    "type":"node",
+    "id":4966513036,
+    "amenity":"dentist",
+    "name":"Dr. Joyce L. Wong, DDS",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2712",
+    "addr:postcode":78746,
+    "street":"Bee Caves Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7819839,30.2644955 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513037",
+    "type":"node",
+    "id":4966513037,
+    "amenity":"dentist",
+    "name":"Barton Oaks Dental Group",
+    "timestamp":"2017-07-12T17:27:36Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"901",
+    "addr:postcode":78746,
+    "street":"South MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7639452,30.2517362 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513038",
+    "type":"node",
+    "id":4966513038,
+    "amenity":"dentist",
+    "name":"SMILE 360",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1509",
+    "addr:postcode":78704,
+    "street":"South Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7811561,30.243182 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513039",
+    "type":"node",
+    "id":4966513039,
+    "amenity":"dentist",
+    "name":"Enamel Dentistry",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2717",
+    "addr:postcode":78704,
+    "street":"South Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7591267,30.2317486 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513040",
+    "type":"node",
+    "id":4966513040,
+    "amenity":"dentist",
+    "name":"ATX Family Dental - South Austin",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"3100",
+    "addr:postcode":78704,
+    "street":"South Congress Avenue",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7567937,30.2212463 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513041",
+    "type":"node",
+    "id":4966513041,
+    "amenity":"dentist",
+    "name":"Honest Family Dental",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"500",
+    "addr:postcode":78704,
+    "street":"East Ben White Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7304112,30.2297265 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513042",
+    "type":"node",
+    "id":4966513042,
+    "amenity":"dentist",
+    "name":"Brident Dental & Orthodontics",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2400",
+    "addr:postcode":78741,
+    "street":"East Oltorf Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7212518,30.2333959 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513043",
+    "type":"node",
+    "id":4966513043,
+    "amenity":"dentist",
+    "name":"River Rock Dental - East Riverside",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4410",
+    "addr:postcode":78741,
+    "street":"East Riverside Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.763821,30.2001363 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513044",
+    "type":"node",
+    "id":4966513044,
+    "amenity":"dentist",
+    "name":"Castle Dental",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5510",
+    "addr:postcode":78745,
+    "street":"I 35 Frontage Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7796908,30.2084193 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513045",
+    "type":"node",
+    "id":4966513045,
+    "amenity":"dentist",
+    "name":"Smile Center",
+    "timestamp":"2017-07-12T17:27:37Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"512",
+    "addr:postcode":78745,
+    "street":"West Stassney Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7951458,30.1999791 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513046",
+    "type":"node",
+    "id":4966513046,
+    "amenity":"dentist",
+    "name":"Omni Dental Group",
+    "timestamp":"2017-07-12T17:27:38Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1100",
+    "addr:postcode":78745,
+    "street":"West William Cannon Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.806476,30.2015532 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966513047",
+    "type":"node",
+    "id":4966513047,
+    "amenity":"dentist",
+    "name":"Vida Dental - South Austin",
+    "timestamp":"2017-07-12T17:27:38Z",
+    "version":1,
+    "changeset":50236266,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1901",
+    "addr:postcode":78745,
+    "street":"West William Cannon Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7463979,30.2559216 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865618",
+    "type":"node",
+    "id":4966865618,
+    "amenity":"dentist",
+    "name":"Sweet Tooth Dental",
+    "timestamp":"2017-07-12T21:17:42Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"515",
+    "addr:postcode":78704,
+    "street":"South Congress Avenue",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7487578,30.3081582 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5157878032",
+    "type":"node",
+    "id":5157878032,
+    "amenity":"dentist",
+    "name":"Ortho 360 Orthodontics",
+    "timestamp":"2017-10-09T21:27:58Z",
+    "version":1,
+    "changeset":52773178,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1500",
+    "addr:postcode":78731,
+    "street":"West 38th Street",
+    "cuisine":"",
+    "opening_hours":"Mo-We 07:45-16:30; Th 07:00-15:00; Fr 08:00-12:00",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"(512) 340-0360",
+    "website":"https://www.ortho360.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7740676,30.4964256 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5157904733",
+    "type":"node",
+    "id":5157904733,
+    "amenity":"dentist",
+    "name":"Ortho 360 Orthodontics: Avery Ranch Office",
+    "timestamp":"2017-10-09T21:35:39Z",
+    "version":1,
+    "changeset":52773335,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"10510",
+    "addr:postcode":78717,
+    "street":"West Parmer Lane",
+    "cuisine":"",
+    "opening_hours":"Mo-We 07:45-16:30; Th 07:00-15:00; Fr 08:00-12:00",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 716-0307",
+    "website":"https://www.ortho360.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.813333,30.285988 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5159335820",
+    "type":"node",
+    "id":5159335820,
+    "amenity":"dentist",
+    "name":"Smiles by Garcia",
+    "timestamp":"2017-10-10T16:47:32Z",
+    "version":1,
+    "changeset":52799749,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4407",
+    "addr:postcode":78746,
+    "street":"Bee Caves Road",
+    "cuisine":"",
+    "opening_hours":"Mo-Sa 09:00-17:00",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 402-5872",
+    "website":"https://www.smilesbygarcia.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8049885,30.4650322 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/859708748",
+    "type":"node",
+    "id":859708748,
+    "amenity":"doctors",
+    "name":"Urgent Care Plus",
+    "timestamp":"2010-08-14T06:44:57Z",
+    "version":1,
+    "changeset":5487730,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7441028,30.3909405 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1222479909",
+    "type":"node",
+    "id":1222479909,
+    "amenity":"doctors",
+    "name":"Lasik Plus",
+    "timestamp":"2011-03-27T23:36:11Z",
+    "version":1,
+    "changeset":7692268,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7472686,30.3986443 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1249568456",
+    "type":"node",
+    "id":1249568456,
+    "amenity":"doctors",
+    "name":"Austin Regional Clinic",
+    "timestamp":"2011-04-18T05:36:28Z",
+    "version":1,
+    "changeset":7893754,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7200921,30.3946938 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1254085985",
+    "type":"node",
+    "id":1254085985,
+    "amenity":"doctors",
+    "name":"SharpeVision modern LASIK",
+    "timestamp":"2017-01-25T00:25:24Z",
+    "version":2,
+    "changeset":45455239,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5996303,30.4667109 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2654844283",
+    "type":"node",
+    "id":2654844283,
+    "amenity":"doctors",
+    "name":"Seton Family of Doctors at Stone Hill",
+    "timestamp":"2014-02-04T22:33:54Z",
+    "version":1,
+    "changeset":20382536,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7211338,30.3009339 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2920762430",
+    "type":"node",
+    "id":2920762430,
+    "amenity":"doctors",
+    "name":"Back N Place Chiropractic",
+    "timestamp":"2014-06-17T18:56:30Z",
+    "version":1,
+    "changeset":22990934,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-467-2225",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7083785,30.3051194 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2992260024",
+    "type":"node",
+    "id":2992260024,
+    "amenity":"doctors",
+    "name":"Optometrist",
+    "timestamp":"2014-08-02T13:55:25Z",
+    "version":1,
+    "changeset":24498661,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6742927,30.4054385 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3159519431",
+    "type":"node",
+    "id":3159519431,
+    "amenity":"doctors",
+    "name":"Care Spot",
+    "timestamp":"2014-10-31T16:48:27Z",
+    "version":1,
+    "changeset":26466070,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7931858,30.2338295 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853554",
+    "type":"node",
+    "id":4966853554,
+    "amenity":"doctors",
+    "name":"Freedom Eye Care - Soroush Azadi, O.D.",
+    "timestamp":"2017-07-12T21:08:12Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4211",
+    "addr:postcode":78704,
+    "street":"South Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7943982,30.2309003 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853555",
+    "type":"node",
+    "id":4966853555,
+    "amenity":"doctors",
+    "name":"Austin Foot and Ankle Specialists",
+    "timestamp":"2017-07-12T21:08:12Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2312",
+    "addr:postcode":78745,
+    "street":"Western Trails Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7952458,30.2305666 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853556",
+    "type":"node",
+    "id":4966853556,
+    "amenity":"doctors",
+    "name":"Allergies & Asthma Clinic",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2312",
+    "addr:postcode":78745,
+    "street":"Western Trails Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7981601,30.2297359 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853557",
+    "type":"node",
+    "id":4966853557,
+    "amenity":"doctors",
+    "name":"South Austin Medical Clinic: Canon Todd A MD",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2555",
+    "addr:postcode":78745,
+    "street":"Western Trails Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7758102,30.2246256 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853558",
+    "type":"node",
+    "id":4966853558,
+    "amenity":"doctors",
+    "name":"Austin Gastroenterology",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4310",
+    "addr:postcode":78745,
+    "street":"James Casey Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.774493,30.223635 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853559",
+    "type":"node",
+    "id":4966853559,
+    "amenity":"doctors",
+    "name":"Austin Ear Nose & Throat Clinic South",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4315",
+    "addr:postcode":78745,
+    "street":"James Casey Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7737856,30.2247942 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853560",
+    "type":"node",
+    "id":4966853560,
+    "amenity":"doctors",
+    "name":"Broberg Eye Care",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4207",
+    "addr:postcode":78745,
+    "street":"James Casey Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7740864,30.2243165 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853561",
+    "type":"node",
+    "id":4966853561,
+    "amenity":"doctors",
+    "name":"Austin Center for Men's Health: Parviz Kavoussi, MD",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4303",
+    "addr:postcode":78745,
+    "street":"James Casey Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.790938,30.1588841 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853562",
+    "type":"node",
+    "id":4966853562,
+    "amenity":"doctors",
+    "name":"Master Eye Associates",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"9600",
+    "addr:postcode":78748,
+    "street":"Interstate 35 Frontage Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8236334,30.1711428 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853563",
+    "type":"node",
+    "id":4966853563,
+    "amenity":"doctors",
+    "name":"Austin Regional Clinic: ARC Southwest",
+    "timestamp":"2017-07-12T21:08:13Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1807",
+    "addr:postcode":78748,
+    "street":"W Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8709334,30.199775 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853564",
+    "type":"node",
+    "id":4966853564,
+    "amenity":"doctors",
+    "name":"Austin Diagnostic Clinic",
+    "timestamp":"2017-07-12T21:08:14Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5701",
+    "addr:postcode":78749,
+    "street":"West Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.86975,30.200361 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853565",
+    "type":"node",
+    "id":4966853565,
+    "amenity":"doctors",
+    "name":"SignatureCare Emergency Center- South Austin",
+    "timestamp":"2017-07-12T21:08:14Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5701",
+    "addr:postcode":78749,
+    "street":"West Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8591375,30.2069182 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853566",
+    "type":"node",
+    "id":4966853566,
+    "amenity":"doctors",
+    "name":"Texas Diabetes & Endocrinology",
+    "timestamp":"2017-07-12T21:08:14Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5000",
+    "addr:postcode":78749,
+    "street":"Davis Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.841331,30.220989 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853567",
+    "type":"node",
+    "id":4966853567,
+    "amenity":"doctors",
+    "name":"Total Men's Primary Care",
+    "timestamp":"2017-07-12T21:08:14Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4301",
+    "addr:postcode":78749,
+    "street":"West William Cannon Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8374098,30.2218495 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853568",
+    "type":"node",
+    "id":4966853568,
+    "amenity":"doctors",
+    "name":"Passport Health",
+    "timestamp":"2017-07-12T21:08:14Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"6600",
+    "addr:postcode":78749,
+    "street":"South MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8232254,30.2800735 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966853569",
+    "type":"node",
+    "id":4966853569,
+    "amenity":"doctors",
+    "name":"The Austin Diagnostic Clinic - Westlake",
+    "timestamp":"2017-07-12T21:08:14Z",
+    "version":1,
+    "changeset":50241084,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1250",
+    "addr:postcode":78746,
+    "street":"Capital of Texas Highway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7438919,30.2733881 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865611",
+    "type":"node",
+    "id":4966865611,
+    "amenity":"doctors",
+    "name":"Travis County Wellnes Clinic: Stewart Lynn N MD",
+    "timestamp":"2017-07-12T21:17:41Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1010",
+    "addr:postcode":78701,
+    "street":"Lavaca Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.753528,30.2743968 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865612",
+    "type":"node",
+    "id":4966865612,
+    "amenity":"doctors",
+    "name":"Premier Health and Wellness",
+    "timestamp":"2017-07-12T21:17:41Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1010",
+    "addr:postcode":78703,
+    "street":"West 9th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7376331,30.2726575 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865613",
+    "type":"node",
+    "id":4966865613,
+    "amenity":"doctors",
+    "name":"University Physicians Group - Trinity",
+    "timestamp":"2017-07-12T21:17:41Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"313",
+    "addr:postcode":78701,
+    "street":"East 12th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7274654,30.2595686 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865614",
+    "type":"node",
+    "id":4966865614,
+    "amenity":"doctors",
+    "name":"CommUnityCare - East",
+    "timestamp":"2017-07-12T21:17:41Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"211",
+    "addr:postcode":78702,
+    "street":"Comal Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7219653,30.2663259 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865615",
+    "type":"node",
+    "id":4966865615,
+    "amenity":"doctors",
+    "name":"Sandra Joy Anderson Community Health and Wellness Center",
+    "timestamp":"2017-07-12T21:17:41Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1705",
+    "addr:postcode":78702,
+    "street":"East 11th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7479726,30.2576335 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865616",
+    "type":"node",
+    "id":4966865616,
+    "amenity":"doctors",
+    "name":"Austin Travis County Mental Health: Anupindi Renu MD",
+    "timestamp":"2017-07-12T21:17:41Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"105",
+    "addr:postcode":78704,
+    "street":"W Riverside",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.742809,30.2631367 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966865617",
+    "type":"node",
+    "id":4966865617,
+    "amenity":"doctors",
+    "name":"Baylor Scott & White Clinic - Austin Downtown",
+    "timestamp":"2017-07-12T21:17:42Z",
+    "version":1,
+    "changeset":50241283,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"200",
+    "addr:postcode":78701,
+    "street":"East Cesar Chavez Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7441629,30.3052507 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873174",
+    "type":"node",
+    "id":4966873174,
+    "amenity":"doctors",
+    "name":"Austin Ear Nose & Throat Clinic",
+    "timestamp":"2017-07-12T21:27:55Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"3705",
+    "addr:postcode":78705,
+    "street":"Medical Parkway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7498431,30.309199 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873176",
+    "type":"node",
+    "id":4966873176,
+    "amenity":"doctors",
+    "name":"Austin Foot and Ankle Specialists",
+    "timestamp":"2017-07-12T21:27:55Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1600",
+    "addr:postcode":78731,
+    "street":"West 38th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7467126,30.3060546 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873177",
+    "type":"node",
+    "id":4966873177,
+    "amenity":"doctors",
+    "name":"Capital Medical Clinic: Aventa Tony MD",
+    "timestamp":"2017-07-12T21:27:55Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1301",
+    "addr:postcode":78705,
+    "street":"West 38th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.742403,30.3018024 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873178",
+    "type":"node",
+    "id":4966873178,
+    "amenity":"doctors",
+    "name":"ENT Specialists of Austin",
+    "timestamp":"2017-07-12T21:27:56Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"720",
+    "addr:postcode":78705,
+    "street":"West 34th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7310524,30.3131005 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873179",
+    "type":"node",
+    "id":4966873179,
+    "amenity":"doctors",
+    "name":"Orthopaedic Specialists of Austin",
+    "timestamp":"2017-07-12T21:27:56Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4611",
+    "addr:postcode":78751,
+    "street":"Guadalupe Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7072645,30.3054863 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873180",
+    "type":"node",
+    "id":4966873180,
+    "amenity":"doctors",
+    "name":"Central Texas Pediatric Orthopedics",
+    "timestamp":"2017-07-12T21:27:56Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1301",
+    "addr:postcode":78723,
+    "street":"Barbara Jordan Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7195051,30.2965702 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873181",
+    "type":"node",
+    "id":4966873181,
+    "amenity":"doctors",
+    "name":"Austin Eye Clinic: Wong Mitchel MD",
+    "timestamp":"2017-07-12T21:27:56Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1009",
+    "addr:postcode":78751,
+    "street":"East 40th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Texas",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7728155,30.2257145 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5152527704",
+    "type":"node",
+    "id":5152527704,
+    "amenity":"doctors",
+    "name":"Dr. Anthony R. Bittar, MD",
+    "timestamp":"2017-11-01T22:17:15Z",
+    "version":2,
+    "changeset":53436570,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"4101",
+    "addr:postcode":78745,
+    "street":"James Casey Street",
+    "cuisine":"",
+    "opening_hours":"Mo-Fr 08:00-17:00",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 448-4422",
+    "website":"https://anthonybittarmd.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7410784,30.3053184 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5402476036",
+    "type":"node",
+    "id":5402476036,
+    "amenity":"doctors",
+    "name":"Austin Sports Medicine and Orthopedics",
+    "timestamp":"2018-02-09T22:31:55Z",
+    "version":1,
+    "changeset":56229399,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"900",
+    "addr:postcode":78705,
+    "street":"West 38th Street",
+    "cuisine":"",
+    "opening_hours":"Mo-Fr 07:30-17:00",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 450-1300",
+    "website":"https://austinsportsmed.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7324471,30.2743149 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356700799",
+    "type":"node",
+    "id":356700799,
+    "amenity":"hospital",
+    "name":"Brackenridge Hospital",
+    "timestamp":"2012-05-05T20:53:08Z",
+    "version":3,
+    "changeset":11511739,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7261162,30.2896522 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356720567",
+    "type":"node",
+    "id":356720567,
+    "amenity":"hospital",
+    "name":"Saint Davids Hospital",
+    "timestamp":"2012-07-18T13:14:13Z",
+    "version":3,
+    "changeset":12282918,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7916722,30.2115988 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356815021",
+    "type":"node",
+    "id":356815021,
+    "amenity":"hospital",
+    "name":"The Oaks Treatment Center",
+    "timestamp":"2009-03-07T18:22:08Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7958328,30.2709189 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356815025",
+    "type":"node",
+    "id":356815025,
+    "amenity":"hospital",
+    "name":"Renaissance Womens Center of Austin",
+    "timestamp":"2009-07-03T03:52:16Z",
+    "version":2,
+    "changeset":1715005,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7430616,30.3121512 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356815047",
+    "type":"node",
+    "id":356815047,
+    "amenity":"hospital",
+    "name":"The Specialty Hospital of Austin",
+    "timestamp":"2009-03-07T18:22:09Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6772267,30.3382619 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356815051",
+    "type":"node",
+    "id":356815051,
+    "amenity":"hospital",
+    "name":"Summit Hospital of Central Texas",
+    "timestamp":"2009-03-07T18:22:09Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7427275,30.3115221 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854504",
+    "type":"node",
+    "id":356854504,
+    "amenity":"hospital",
+    "name":"Austin American Sleep Diagnostic Center",
+    "timestamp":"2009-03-07T19:20:15Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7410796,30.30591 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854509",
+    "type":"node",
+    "id":356854509,
+    "amenity":"hospital",
+    "name":"Austin Heart Center",
+    "timestamp":"2017-08-17T06:28:21Z",
+    "version":4,
+    "changeset":51194062,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.733919,30.2743706 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854516",
+    "type":"node",
+    "id":356854516,
+    "amenity":"hospital",
+    "name":"Austin Women's Hospital",
+    "timestamp":"2011-01-01T22:11:45Z",
+    "version":2,
+    "changeset":6833144,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8269516,30.2873225 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854546",
+    "type":"node",
+    "id":356854546,
+    "amenity":"hospital",
+    "name":"Saint Jude Medical Center",
+    "timestamp":"2009-03-07T19:20:19Z",
+    "version":1,
+    "changeset":751242,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7346834,30.2742901 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854554",
+    "type":"node",
+    "id":356854554,
+    "amenity":"hospital",
+    "name":"Seton Southwest-Shivers Center",
+    "timestamp":"2011-01-01T22:11:42Z",
+    "version":2,
+    "changeset":6833144,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7745796,30.2259375 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854558",
+    "type":"node",
+    "id":356854558,
+    "amenity":"hospital",
+    "name":"St . David's South Austin Medical Center",
+    "timestamp":"2012-11-13T10:53:45Z",
+    "version":3,
+    "changeset":13857617,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7494158,30.3536628 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356854563",
+    "type":"node",
+    "id":356854563,
+    "amenity":"hospital",
+    "name":"Texan Surgery Center",
+    "timestamp":"2012-03-09T16:28:50Z",
+    "version":3,
+    "changeset":10922008,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7483634,30.3060828 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/369120467",
+    "type":"node",
+    "id":369120467,
+    "amenity":"hospital",
+    "name":"Seton Medical Center H-4 Heliport;Seton Shoal Creek - Daughters of Charity",
+    "timestamp":"2014-10-23T17:59:09Z",
+    "version":3,
+    "changeset":26284126,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7061732,30.4116126 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/437344861",
+    "type":"node",
+    "id":437344861,
+    "amenity":"hospital",
+    "name":"St. David's Hospital",
+    "timestamp":"2010-08-11T12:21:44Z",
+    "version":2,
+    "changeset":5462269,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8916002,30.2269576 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1864551097",
+    "type":"node",
+    "id":1864551097,
+    "amenity":"hospital",
+    "name":"Seaton Southwest Hospital",
+    "timestamp":"2013-08-05T17:14:06Z",
+    "version":3,
+    "changeset":17230649,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8265122,30.2956596 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2215138890",
+    "type":"node",
+    "id":2215138890,
+    "amenity":"hospital",
+    "name":"The Hospital at Westlake Medical Center",
+    "timestamp":"2013-03-22T20:40:38Z",
+    "version":1,
+    "changeset":15458974,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5949405,30.4704455 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2654844287",
+    "type":"node",
+    "id":2654844287,
+    "amenity":"hospital",
+    "name":"St. David's Emergency Center",
+    "timestamp":"2014-02-04T22:33:54Z",
+    "version":1,
+    "changeset":20382536,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7878735,30.4491686 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4523908942",
+    "type":"node",
+    "id":4523908942,
+    "amenity":"hospital",
+    "name":"Austin Emergency Center - Anderson Mill",
+    "timestamp":"2016-11-26T21:26:59Z",
+    "version":1,
+    "changeset":43972101,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"13435",
+    "addr:postcode":78750,
+    "street":"US 183 #311",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7455094,30.3050714 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4966873175",
+    "type":"node",
+    "id":4966873175,
+    "amenity":"hospital",
+    "name":"Seton Medical Center Austin (Hospital)",
+    "timestamp":"2017-07-12T21:27:55Z",
+    "version":1,
+    "changeset":50241483,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1201",
+    "addr:postcode":78705,
+    "street":"West 38th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7605618,30.3052068 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/356699244",
+    "type":"node",
+    "id":356699244,
+    "amenity":"nursing home",
+    "name":"Austin State Supported Living Center",
+    "timestamp":"2013-12-14T08:03:11Z",
+    "version":3,
+    "changeset":19444617,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8228982,30.1741875 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/354685562",
+    "type":"node",
+    "id":354685562,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2011-07-23T21:39:30Z",
+    "version":2,
+    "changeset":8810410,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7145657,30.4245459 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/437414175",
+    "type":"node",
+    "id":437414175,
+    "amenity":"pharmacy",
+    "name":"Walgreen's",
+    "timestamp":"2009-07-08T18:40:16Z",
+    "version":1,
+    "changeset":1774507,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7774634,30.2464698 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/472239104",
+    "type":"node",
+    "id":472239104,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2010-09-20T04:41:10Z",
+    "version":2,
+    "changeset":5825752,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7407291,30.3346573 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530724690",
+    "type":"node",
+    "id":530724690,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T22:21:09Z",
+    "version":8,
+    "changeset":25696318,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"5808",
+    "addr:postcode":78756,
+    "street":"Burnet Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 454-6691",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7403883,30.3253668 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/564545102",
+    "type":"node",
+    "id":564545102,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2009-11-15T03:36:34Z",
+    "version":1,
+    "changeset":3118948,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6121984,30.4381099 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/878792548",
+    "type":"node",
+    "id":878792548,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-18T21:11:18Z",
+    "version":6,
+    "changeset":26179423,
+    "geometry/type":"Point",
+    "addr:city":"Pflugerville, TX",
+    "housenumber":"201",
+    "addr:postcode":78660,
+    "street":"Farm to Market 685",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 251-9037",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7701249,30.2474893 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919327834",
+    "type":"node",
+    "id":919327834,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2010-09-20T04:37:35Z",
+    "version":1,
+    "changeset":5825752,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7524166,30.2397 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919340665",
+    "type":"node",
+    "id":919340665,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2010-09-20T06:04:46Z",
+    "version":1,
+    "changeset":5826102,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7442148,30.393159 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1231748179",
+    "type":"node",
+    "id":1231748179,
+    "amenity":"pharmacy",
+    "name":"",
+    "timestamp":"2011-04-04T01:23:29Z",
+    "version":1,
+    "changeset":7760450,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7477385,30.4020038 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1430644782",
+    "type":"node",
+    "id":1430644782,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-22T14:28:28Z",
+    "version":3,
+    "changeset":26952797,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"10900",
+    "addr:postcode":78759,
+    "street":"Research Blvd",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-338-2241",
+    "website":"http://local.randalls.com/tx/austin-2490.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7073722,30.3127254 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428981",
+    "type":"node",
+    "id":1477428981,
+    "amenity":"pharmacy",
+    "name":"Walgreen's",
+    "timestamp":"2011-10-23T02:31:14Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7433241,30.2673907 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721328",
+    "type":"node",
+    "id":1481721328,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2011-10-26T21:57:16Z",
+    "version":1,
+    "changeset":9664575,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7395024,30.334053 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484010003",
+    "type":"node",
+    "id":1484010003,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2011-10-28T20:38:52Z",
+    "version":1,
+    "changeset":9680168,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7203949,30.3366404 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100621",
+    "type":"node",
+    "id":1484100621,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2011-10-28T22:15:26Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741148,30.3089652 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100635",
+    "type":"node",
+    "id":1484100635,
+    "amenity":"pharmacy",
+    "name":"Peoples Pharmacy",
+    "timestamp":"2011-10-28T22:15:28Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6903469,30.4145108 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1706120132",
+    "type":"node",
+    "id":1706120132,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2012-04-07T18:20:41Z",
+    "version":1,
+    "changeset":11217165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8232515,30.4588409 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1840613708",
+    "type":"node",
+    "id":1840613708,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2012-07-27T22:09:53Z",
+    "version":1,
+    "changeset":12517343,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8228024,30.4572382 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1840613709",
+    "type":"node",
+    "id":1840613709,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2012-07-27T22:09:53Z",
+    "version":1,
+    "changeset":12517343,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7398979,30.3897041 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2119487120",
+    "type":"node",
+    "id":2119487120,
+    "amenity":"pharmacy",
+    "name":"First Leap",
+    "timestamp":"2013-01-19T16:24:59Z",
+    "version":1,
+    "changeset":14709835,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"250",
+    "addr:postcode":78759,
+    "street":"9901 N Capital Of texas",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"First-leap.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7118318,30.2594408 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637711684",
+    "type":"node",
+    "id":2637711684,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2015-08-27T18:26:38Z",
+    "version":5,
+    "changeset":33627659,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"2701",
+    "addr:postcode":78702,
+    "street":"East 7th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 478-8086",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7692368,30.1884873 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637712276",
+    "type":"node",
+    "id":2637712276,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T22:14:36Z",
+    "version":4,
+    "changeset":25696238,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"6607",
+    "addr:postcode":78744,
+    "street":"I 35 Frontage Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 441-3692",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7196039,30.3003076 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637713219",
+    "type":"node",
+    "id":2637713219,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T22:27:52Z",
+    "version":3,
+    "changeset":25696413,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"1000",
+    "addr:postcode":78751,
+    "street":"East 41st Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 459-8308",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7724148,30.4344019 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637725562",
+    "type":"node",
+    "id":2637725562,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-08T16:28:52Z",
+    "version":5,
+    "changeset":25942258,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"12860",
+    "addr:postcode":78750,
+    "street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 506-9250",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6723013,30.4049837 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637729195",
+    "type":"node",
+    "id":2637729195,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-21T22:05:57Z",
+    "version":4,
+    "changeset":25590749,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"500",
+    "addr:postcode":78753,
+    "street":"West Canyon Ridge Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 973-8753",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6647791,30.4429827 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637731348",
+    "type":"node",
+    "id":2637731348,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-21T20:33:39Z",
+    "version":4,
+    "changeset":25588895,
+    "geometry/type":"Point",
+    "addr:city":"Pflugerville, TX",
+    "housenumber":"1434",
+    "addr:postcode":78660,
+    "street":"Wells Branch Parkway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 251-5286",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755375,30.2391235 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637734282",
+    "type":"node",
+    "id":2637734282,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-27T00:09:17Z",
+    "version":4,
+    "changeset":25697310,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"2400",
+    "addr:postcode":78704,
+    "street":"South Congress Avenue",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 442-1578",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8740286,30.2353505 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639149442",
+    "type":"node",
+    "id":2639149442,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T20:22:51Z",
+    "version":5,
+    "changeset":25694535,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"7010",
+    "addr:postcode":78735,
+    "street":"W Hwy 71",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 288-5713",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8771913,30.2027985 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639153809",
+    "type":"node",
+    "id":2639153809,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2018-02-22T16:40:20Z",
+    "version":7,
+    "changeset":56584629,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5800",
+    "addr:postcode":78749,
+    "street":"West Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 301-9772",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8246195,30.1753537 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639154504",
+    "type":"node",
+    "id":2639154504,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-22T03:34:07Z",
+    "version":3,
+    "changeset":25593623,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"2110",
+    "addr:postcode":78748,
+    "street":"West Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 282-0990",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6649452,30.3124268 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639155236",
+    "type":"node",
+    "id":2639155236,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T20:40:02Z",
+    "version":4,
+    "changeset":25694831,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"7112",
+    "addr:postcode":78723,
+    "street":"Ed Bluestein Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 926-0586",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6981724,30.364409 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639157235",
+    "type":"node",
+    "id":2639157235,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T21:43:12Z",
+    "version":3,
+    "changeset":25695742,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"9414",
+    "addr:postcode":78753,
+    "street":"North Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 837-9580",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7479711,30.3986607 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639158432",
+    "type":"node",
+    "id":2639158432,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-11-13T02:02:48Z",
+    "version":5,
+    "changeset":26747861,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"10710",
+    "addr:postcode":78759,
+    "street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 794-8227",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7424205,30.4419262 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639162494",
+    "type":"node",
+    "id":2639162494,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-21T21:28:21Z",
+    "version":4,
+    "changeset":25590075,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"6001",
+    "addr:postcode":78727,
+    "street":"West Parmer Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 249-8316",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.831538,30.2160177 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639163544",
+    "type":"node",
+    "id":2639163544,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T20:34:24Z",
+    "version":4,
+    "changeset":25694728,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"6900",
+    "addr:postcode":78745,
+    "street":"Brodie Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 891-8906",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8519975,30.403899 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2639164120",
+    "type":"node",
+    "id":2639164120,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-21T04:15:20Z",
+    "version":5,
+    "changeset":25571396,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"7301",
+    "addr:postcode":78726,
+    "street":"Ranch Road 620",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 336-7706",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.825335,30.2919758 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2640309723",
+    "type":"node",
+    "id":2640309723,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-07T04:57:15Z",
+    "version":4,
+    "changeset":25910545,
+    "geometry/type":"Point",
+    "addr:city":"Westlake Hills, TX",
+    "housenumber":"701",
+    "addr:postcode":78746,
+    "street":"Capital of Texas Highway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 329-5184",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8259343,30.4533746 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2644084556",
+    "type":"node",
+    "id":2644084556,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-07T05:04:57Z",
+    "version":5,
+    "changeset":25910602,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"11521",
+    "addr:postcode":78750,
+    "street":"Ranch Road 620",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 249-0577",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6598063,30.4811289 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2644275594",
+    "type":"node",
+    "id":2644275594,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-07T16:18:30Z",
+    "version":4,
+    "changeset":25920541,
+    "geometry/type":"Point",
+    "addr:city":"Round Rock, TX",
+    "housenumber":"603",
+    "addr:postcode":78664,
+    "street":"Louis Henna Blvd, TX 45 Frontage Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 828-0814",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6154823,30.4989931 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2644833538",
+    "type":"node",
+    "id":2644833538,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2015-08-04T06:48:16Z",
+    "version":5,
+    "changeset":33088691,
+    "geometry/type":"Point",
+    "addr:city":"Round Rock",
+    "housenumber":"3750",
+    "addr:postcode":78664,
+    "street":"Gattis School Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 341-3776",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7230968,30.5000498 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2644836348",
+    "type":"node",
+    "id":2644836348,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-18T21:01:50Z",
+    "version":4,
+    "changeset":26179239,
+    "geometry/type":"Point",
+    "addr:city":"Round Rock",
+    "housenumber":"16900",
+    "addr:postcode":78681,
+    "street":"Ranch-to-Market Road 620",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 238-7905",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7881576,30.4481657 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2653323525",
+    "type":"node",
+    "id":2653323525,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2014-02-04T05:30:49Z",
+    "version":1,
+    "changeset":20365759,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"13435",
+    "addr:postcode":78729,
+    "street":"N HWY 183",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.727009,30.241132 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2673754493",
+    "type":"node",
+    "id":2673754493,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2014-02-15T22:30:30Z",
+    "version":1,
+    "changeset":20586321,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8642143,30.1991724 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2728724600",
+    "type":"node",
+    "id":2728724600,
+    "amenity":"pharmacy",
+    "name":"Walgreens",
+    "timestamp":"2014-03-20T14:10:06Z",
+    "version":1,
+    "changeset":21210617,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7712134,30.4340281 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2734741586",
+    "type":"node",
+    "id":2734741586,
+    "amenity":"pharmacy",
+    "name":"Liberty Pharmacy",
+    "timestamp":"2014-03-22T20:01:38Z",
+    "version":1,
+    "changeset":21251419,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.789089,30.2380402 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2868784015",
+    "type":"node",
+    "id":2868784015,
+    "amenity":"pharmacy",
+    "name":"People's Pharmacy",
+    "timestamp":"2014-05-19T16:33:39Z",
+    "version":1,
+    "changeset":22428295,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8429416,30.2186262 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3027562110",
+    "type":"node",
+    "id":3027562110,
+    "amenity":"pharmacy",
+    "name":"Costco",
+    "timestamp":"2015-12-21T18:10:26Z",
+    "version":3,
+    "changeset":36091921,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7027376,30.4177189 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3089859229",
+    "type":"node",
+    "id":3089859229,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-21T21:56:24Z",
+    "version":2,
+    "changeset":25590599,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"12407",
+    "addr:postcode":78758,
+    "street":"North MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 339-6644",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7551726,30.352091 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3097849668",
+    "type":"node",
+    "id":3097849668,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T21:37:09Z",
+    "version":2,
+    "changeset":25695648,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"7025",
+    "addr:postcode":78731,
+    "street":"Village Center Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 502-8801",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7228495,30.2366306 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3098009907",
+    "type":"node",
+    "id":3098009907,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-09-26T23:51:36Z",
+    "version":3,
+    "changeset":25697202,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"2508",
+    "addr:postcode":78741,
+    "street":"East Riverside Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 448-3353",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8364137,30.2185926 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3108109538",
+    "type":"node",
+    "id":3108109538,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2014-10-02T21:17:37Z",
+    "version":1,
+    "changeset":25819892,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6979674,30.3009227 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3140490642",
+    "type":"node",
+    "id":3140490642,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2014-10-20T19:11:33Z",
+    "version":2,
+    "changeset":26220727,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"1801",
+    "addr:postcode":78723,
+    "street":"East 51st Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 474-2662",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7584278,30.3354326 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3196524636",
+    "type":"node",
+    "id":3196524636,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:08:14Z",
+    "version":2,
+    "changeset":26916985,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5311",
+    "addr:postcode":78731,
+    "street":"Balcones Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-302-2504",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8475973,30.1845604 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197123111",
+    "type":"node",
+    "id":3197123111,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:04:57Z",
+    "version":4,
+    "changeset":26916922,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"9911",
+    "addr:postcode":78748,
+    "street":"Brodie Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-280-1201",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7581427,30.371798 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197135585",
+    "type":"node",
+    "id":3197135585,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:05:46Z",
+    "version":3,
+    "changeset":26916943,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"8040",
+    "addr:postcode":78731,
+    "street":"Mesa Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-345-7238",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8368491,30.2227797 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197144727",
+    "type":"node",
+    "id":3197144727,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2017-09-01T19:43:12Z",
+    "version":6,
+    "changeset":51654244,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"6600",
+    "addr:postcode":78749,
+    "street":"South MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-891-4360",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7761823,30.2837684 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197145128",
+    "type":"node",
+    "id":3197145128,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:06:31Z",
+    "version":3,
+    "changeset":26916959,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"715",
+    "addr:postcode":78703,
+    "street":"Exposition Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-477-9045",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8839252,30.3892248 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197620287",
+    "type":"node",
+    "id":3197620287,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:10:11Z",
+    "version":4,
+    "changeset":26917036,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"5145",
+    "addr:postcode":78732,
+    "street":"Ranch Road 620",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-266-1392",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7904375,30.2294299 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197651937",
+    "type":"node",
+    "id":3197651937,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:11:11Z",
+    "version":2,
+    "changeset":26917053,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2025",
+    "addr:postcode":78704,
+    "street":"West Ben White Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-441-7865",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7493541,30.3065517 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197659649",
+    "type":"node",
+    "id":3197659649,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:12:10Z",
+    "version":3,
+    "changeset":26917070,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"1500",
+    "addr:postcode":78703,
+    "street":"West 35th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-458-5182",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6543265,30.4954095 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197735053",
+    "type":"node",
+    "id":3197735053,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-20T21:30:57Z",
+    "version":4,
+    "changeset":26917454,
+    "geometry/type":"Point",
+    "addr:city":"Round Rock",
+    "housenumber":"2051",
+    "addr:postcode":78664,
+    "street":"Gattis School Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-246-0510",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7991902,30.275626 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3198709653",
+    "type":"node",
+    "id":3198709653,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2014-11-21T15:32:43Z",
+    "version":2,
+    "changeset":26931121,
+    "geometry/type":"Point",
+    "addr:city":"West Lake Hills",
+    "housenumber":"3300",
+    "addr:postcode":78746,
+    "street":"Bee Caves Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-329-7408",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8295714,30.4830345 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3198829773",
+    "type":"node",
+    "id":3198829773,
+    "amenity":"pharmacy",
+    "name":"Randalls Pharmacy",
+    "timestamp":"2018-01-29T00:48:52Z",
+    "version":3,
+    "changeset":55845394,
+    "geometry/type":"Point",
+    "addr:city":"Cedar Park",
+    "housenumber":"1400",
+    "addr:postcode":78613,
+    "street":"Cypress Creek Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"512-506-9112",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7590733,30.2800157 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3956853930",
+    "type":"node",
+    "id":3956853930,
+    "amenity":"pharmacy",
+    "name":"Nau's Enfield Drug",
+    "timestamp":"2016-01-20T15:12:06Z",
+    "version":1,
+    "changeset":36703075,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8752831,30.0970446 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3987172761",
+    "type":"node",
+    "id":3987172761,
+    "amenity":"pharmacy",
+    "name":"CVS",
+    "timestamp":"2016-02-04T01:23:56Z",
+    "version":1,
+    "changeset":36989048,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8038501,30.4782788 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4398154587",
+    "type":"node",
+    "id":4398154587,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2016-09-12T21:10:49Z",
+    "version":1,
+    "changeset":42111153,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"14028",
+    "addr:postcode":78717,
+    "street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"(512) 249-9886",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5828978,30.5022238 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4694417586",
+    "type":"node",
+    "id":4694417586,
+    "amenity":"pharmacy",
+    "name":"H-E-B Pharmacy",
+    "timestamp":"2017-02-20T22:02:37Z",
+    "version":3,
+    "changeset":46257462,
+    "geometry/type":"Point",
+    "addr:city":"Hutto",
+    "housenumber":"5000",
+    "addr:postcode":78634,
+    "street":"Gattis School Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"512-251�??3173",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8329255,30.4823005 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4824313185",
+    "type":"node",
+    "id":4824313185,
+    "amenity":"pharmacy",
+    "name":"Wallgreens",
+    "timestamp":"2017-04-29T05:41:32Z",
+    "version":1,
+    "changeset":48246212,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Wallgreens",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.832781,30.141196 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/561487613",
+    "type":"node",
+    "id":561487613,
+    "amenity":"veterinary",
+    "name":"Manchaca Village Veterinary Care",
+    "timestamp":"2014-04-27T02:00:53Z",
+    "version":2,
+    "changeset":21967036,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"12117",
+    "addr:postcode":78748,
+    "street":"Manchaca Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"5122821326",
+    "website":"http://www.manchacavet.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7530864,30.4253904 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1606821142",
+    "type":"node",
+    "id":1606821142,
+    "amenity":"veterinary",
+    "name":"Emergency Animal Clinic",
+    "timestamp":"2014-01-30T14:27:00Z",
+    "version":2,
+    "changeset":20284462,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7474067,30.4082416 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2724700541",
+    "type":"node",
+    "id":2724700541,
+    "amenity":"veterinary",
+    "name":"Arbor Animal Clinic",
+    "timestamp":"2014-03-18T03:45:22Z",
+    "version":1,
+    "changeset":21167141,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8763618,30.0973964 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2833676713",
+    "type":"node",
+    "id":2833676713,
+    "amenity":"veterinary",
+    "name":"Cornerstone Animal Hospital",
+    "timestamp":"2014-05-03T13:55:14Z",
+    "version":1,
+    "changeset":22105362,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7251189,30.3767131 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3930556075",
+    "type":"node",
+    "id":3930556075,
+    "amenity":"veterinary",
+    "name":"Veterinary Surgical Solutions",
+    "timestamp":"2016-01-06T15:20:01Z",
+    "version":1,
+    "changeset":36405801,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.885063,30.3879174 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5330270627",
+    "type":"node",
+    "id":5330270627,
+    "amenity":"veterinary",
+    "name":"Animal Hospital",
+    "timestamp":"2018-01-10T01:28:13Z",
+    "version":1,
+    "changeset":55308806,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":null,
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

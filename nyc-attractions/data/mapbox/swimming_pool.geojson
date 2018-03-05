@@ -1,0 +1,369 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7708259,30.2636796 ]
+    },
+    "properties": {
+    "id":"node/3194262973",
+    "type":"node",
+    "id":3194262973,
+    "amenity":"diving_board",
+    "name":"",
+    "timestamp":"2014-11-18T18:27:14Z",
+    "version":1,
+    "changeset":26870340,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7575057,30.2768747 ]
+    },
+    "properties": {
+    "id":"node/356727184",
+    "type":"node",
+    "id":356727184,
+    "amenity":"swimming_pool",
+    "name":"West Austin Park",
+    "timestamp":"2013-01-10T20:46:06Z",
+    "version":3,
+    "changeset":14602904,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Parks and Recreation Department",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9116073,30.3448199 ]
+    },
+    "properties": {
+    "id":"node/1829364275",
+    "type":"node",
+    "id":1829364275,
+    "amenity":"swimming_pool",
+    "name":"Bella Mar Pool",
+    "timestamp":"2012-07-18T04:52:14Z",
+    "version":1,
+    "changeset":12274427,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9116105,30.3445067 ]
+    },
+    "properties": {
+    "id":"node/1829364279",
+    "type":"node",
+    "id":1829364279,
+    "amenity":"swimming_pool",
+    "name":"Bella Mar Splash Pool",
+    "timestamp":"2012-07-18T04:52:15Z",
+    "version":1,
+    "changeset":12274427,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6399297,30.4674831 ]
+    },
+    "properties": {
+    "id":"node/1849453291",
+    "type":"node",
+    "id":1849453291,
+    "amenity":"swimming_pool",
+    "name":"Windermere HOA North Pool",
+    "timestamp":"2012-08-03T06:12:43Z",
+    "version":1,
+    "changeset":12593915,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Windermere HOA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8851978,30.1932609 ]
+    },
+    "properties": {
+    "id":"node/1865061002",
+    "type":"node",
+    "id":1865061002,
+    "amenity":"swimming_pool",
+    "name":"Swimming Pool",
+    "timestamp":"2014-09-22T19:26:12Z",
+    "version":2,
+    "changeset":25610734,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6682684,30.5095138 ]
+    },
+    "properties": {
+    "id":"node/1938197226",
+    "type":"node",
+    "id":1938197226,
+    "amenity":"swimming_pool",
+    "name":"Lake Creek Pool",
+    "timestamp":"2012-11-23T20:39:31Z",
+    "version":3,
+    "changeset":14004382,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"City of Round Rock",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6883421,30.3596 ]
+    },
+    "properties": {
+    "id":"node/1991740714",
+    "type":"node",
+    "id":1991740714,
+    "amenity":"swimming_pool",
+    "name":"",
+    "timestamp":"2012-11-01T01:18:01Z",
+    "version":1,
+    "changeset":13706247,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7335082,30.4461183 ]
+    },
+    "properties": {
+    "id":"node/2153291983",
+    "type":"node",
+    "id":2153291983,
+    "amenity":"swimming_pool",
+    "name":"YMCA",
+    "timestamp":"2013-02-13T15:11:37Z",
+    "version":1,
+    "changeset":15018712,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"YMCA",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7996921,30.2124361 ]
+    },
+    "properties": {
+    "id":"node/2269568806",
+    "type":"node",
+    "id":2269568806,
+    "amenity":"swimming_pool",
+    "name":"Garrison Municipal Pool",
+    "timestamp":"2013-04-16T14:44:47Z",
+    "version":1,
+    "changeset":15750942,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"City of Austin, TX",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7026339,30.2925232 ]
+    },
+    "properties": {
+    "id":"node/2412619593",
+    "type":"node",
+    "id":2412619593,
+    "amenity":"swimming_pool",
+    "name":"Ella Wooten Pool",
+    "timestamp":"2013-08-09T21:59:38Z",
+    "version":1,
+    "changeset":17285453,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7585191,30.4277108 ]
+    },
+    "properties": {
+    "id":"node/2431517419",
+    "type":"node",
+    "id":2431517419,
+    "amenity":"swimming_pool",
+    "name":"",
+    "timestamp":"2013-08-25T20:39:33Z",
+    "version":1,
+    "changeset":17507015,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6831651,30.399806 ]
+    },
+    "properties": {
+    "id":"node/2450053899",
+    "type":"node",
+    "id":2450053899,
+    "amenity":"swimming_pool",
+    "name":"Swimming Pool",
+    "timestamp":"2013-09-08T01:33:46Z",
+    "version":1,
+    "changeset":17725948,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

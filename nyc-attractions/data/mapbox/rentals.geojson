@@ -1,0 +1,701 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7412692,30.2726325 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3142067743",
+    "type":"node",
+    "id":3142067743,
+    "amenity":"bicycle_rental",
+    "name":"Capitol Station / Congress & 11th",
+    "timestamp":"2014-10-21T16:38:00Z",
+    "version":1,
+    "changeset":26237915,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin B-cycle",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741805,30.2857656 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3285214638",
+    "type":"node",
+    "id":3285214638,
+    "amenity":"bicycle_rental",
+    "name":"",
+    "timestamp":"2015-01-13T02:52:23Z",
+    "version":1,
+    "changeset":28102140,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"B Cycle",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7682288,30.2658798 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3331447499",
+    "type":"node",
+    "id":3331447499,
+    "amenity":"bicycle_rental",
+    "name":"Bike Rent @ Zilker Park",
+    "timestamp":"2015-02-05T07:34:48Z",
+    "version":1,
+    "changeset":28625255,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7492582,30.2510467 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4162387693",
+    "type":"node",
+    "id":4162387693,
+    "amenity":"bicycle_rental",
+    "name":"City of Austin",
+    "timestamp":"2016-05-03T02:57:50Z",
+    "version":1,
+    "changeset":39057106,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7562583,30.2643744 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4166643557",
+    "type":"node",
+    "id":4166643557,
+    "amenity":"bicycle_rental",
+    "name":"Austin Bicycle Rental",
+    "timestamp":"2017-12-30T22:25:43Z",
+    "version":2,
+    "changeset":55046431,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7547555,30.2670196 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4168488965",
+    "type":"node",
+    "id":4168488965,
+    "amenity":"bicycle_rental",
+    "name":"Austin Bicycle Rental",
+    "timestamp":"2016-05-06T02:59:49Z",
+    "version":1,
+    "changeset":39133599,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7434996,30.2640745 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4304672633",
+    "type":"node",
+    "id":4304672633,
+    "amenity":"bicycle_rental",
+    "name":"",
+    "timestamp":"2016-07-15T15:17:59Z",
+    "version":1,
+    "changeset":40762716,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7533188,30.2695694 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4576632329",
+    "type":"node",
+    "id":4576632329,
+    "amenity":"bicycle_rental",
+    "name":"Austin B-cycle Station",
+    "timestamp":"2016-12-28T04:25:07Z",
+    "version":1,
+    "changeset":44721432,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.749839,30.2592629 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4583398532",
+    "type":"node",
+    "id":4583398532,
+    "amenity":"bicycle_rental",
+    "name":"Austin B-cycle Station",
+    "timestamp":"2017-01-01T00:10:43Z",
+    "version":1,
+    "changeset":44815468,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7535244,30.2596955 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4583404091",
+    "type":"node",
+    "id":4583404091,
+    "amenity":"bicycle_rental",
+    "name":"Austin B-cycle Station",
+    "timestamp":"2017-01-01T00:08:48Z",
+    "version":1,
+    "changeset":44815452,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7461278,30.258682 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4927752899",
+    "type":"node",
+    "id":4927752899,
+    "amenity":"bicycle_rental",
+    "name":"",
+    "timestamp":"2017-06-21T02:53:11Z",
+    "version":1,
+    "changeset":49708965,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7487389,30.2586982 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4927752900",
+    "type":"node",
+    "id":4927752900,
+    "amenity":"bicycle_rental",
+    "name":"",
+    "timestamp":"2017-06-21T02:53:11Z",
+    "version":1,
+    "changeset":49708965,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7496888,30.259433 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5311555938",
+    "type":"node",
+    "id":5311555938,
+    "amenity":"bicycle_rental",
+    "name":"Bicing",
+    "timestamp":"2017-12-30T05:47:11Z",
+    "version":1,
+    "changeset":55026926,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7425254,30.2545866 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5311566663",
+    "type":"node",
+    "id":5311566663,
+    "amenity":"bicycle_rental",
+    "name":"Austin B-cycle Station",
+    "timestamp":"2017-12-30T05:58:57Z",
+    "version":1,
+    "changeset":55027045,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7398982,30.2559588 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5312616173",
+    "type":"node",
+    "id":5312616173,
+    "amenity":"bicycle_rental",
+    "name":"Austin B-cycle Station",
+    "timestamp":"2017-12-30T21:38:16Z",
+    "version":1,
+    "changeset":55045574,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7517753,30.267753 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5312668589",
+    "type":"node",
+    "id":5312668589,
+    "amenity":"bicycle_rental",
+    "name":"Austin B-cycle Station",
+    "timestamp":"2017-12-30T22:27:06Z",
+    "version":1,
+    "changeset":55046463,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7674691,30.2643375 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3194262978",
+    "type":"node",
+    "id":3194262978,
+    "amenity":"boat_rental",
+    "name":"Zilker Park Boat Rental",
+    "timestamp":"2014-11-18T18:27:14Z",
+    "version":1,
+    "changeset":26870340,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7228796,30.3825751 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1227587532",
+    "type":"node",
+    "id":1227587532,
+    "amenity":"car_rental",
+    "name":"Enterprise",
+    "timestamp":"2013-11-11T05:15:25Z",
+    "version":2,
+    "changeset":18829101,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"Mo-Fr 07:30-18:00; Sa 09:00-12:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7585847,30.2713381 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721309",
+    "type":"node",
+    "id":1481721309,
+    "amenity":"car_rental",
+    "name":"Enterprise Car Rental",
+    "timestamp":"2011-10-26T21:57:14Z",
+    "version":1,
+    "changeset":9664575,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7194277,30.336002 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100622",
+    "type":"node",
+    "id":1484100622,
+    "amenity":"car_rental",
+    "name":"Enterprise Car Rental",
+    "timestamp":"2014-07-16T06:06:30Z",
+    "version":2,
+    "changeset":24174640,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8743993,30.2357219 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1857573553",
+    "type":"node",
+    "id":1857573553,
+    "amenity":"car_rental",
+    "name":"Avis & Budget",
+    "timestamp":"2013-10-29T04:19:42Z",
+    "version":2,
+    "changeset":18595463,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7277035,30.3714622 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2528868968",
+    "type":"node",
+    "id":2528868968,
+    "amenity":"car_rental",
+    "name":"Avis/Budget",
+    "timestamp":"2013-11-12T06:30:38Z",
+    "version":1,
+    "changeset":18849232,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.757671,30.2621525 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2723983762",
+    "type":"node",
+    "id":2723983762,
+    "amenity":"car_rental",
+    "name":"Enterprise",
+    "timestamp":"2014-03-17T19:40:08Z",
+    "version":1,
+    "changeset":21161649,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.865562,30.2331909 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3018379825",
+    "type":"node",
+    "id":3018379825,
+    "amenity":"car_rental",
+    "name":"Hertz Car Rental",
+    "timestamp":"2014-08-15T16:02:50Z",
+    "version":1,
+    "changeset":24770505,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

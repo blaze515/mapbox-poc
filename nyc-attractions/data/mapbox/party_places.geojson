@@ -1,0 +1,5167 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7385931,30.340426 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530786307",
+    "type":"node",
+    "id":530786307,
+    "amenity":"bar",
+    "name":"Poodle Dog Lounge",
+    "timestamp":"2009-10-14T19:19:10Z",
+    "version":1,
+    "changeset":2848494,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.736413,30.3446186 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530786552",
+    "type":"node",
+    "id":530786552,
+    "amenity":"bar",
+    "name":"Lala's",
+    "timestamp":"2009-10-14T19:19:56Z",
+    "version":1,
+    "changeset":2848494,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7393505,30.3018518 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/534455649",
+    "type":"node",
+    "id":534455649,
+    "amenity":"bar",
+    "name":"Nast'y",
+    "timestamp":"2009-10-17T22:15:57Z",
+    "version":1,
+    "changeset":2878438,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7633983,30.2536572 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/619550026",
+    "type":"node",
+    "id":619550026,
+    "amenity":"bar",
+    "name":"Saxon Pub",
+    "timestamp":"2015-01-10T20:23:30Z",
+    "version":4,
+    "changeset":28049230,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7286588,30.2640071 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/822469573",
+    "type":"node",
+    "id":822469573,
+    "amenity":"bar",
+    "name":"Rio Rita",
+    "timestamp":"2010-07-18T04:11:54Z",
+    "version":1,
+    "changeset":5247756,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74955,30.2505728 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919336508",
+    "type":"node",
+    "id":919336508,
+    "amenity":"bar",
+    "name":"",
+    "timestamp":"2010-09-20T05:41:45Z",
+    "version":1,
+    "changeset":5825975,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7263974,30.4020606 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1243907781",
+    "type":"node",
+    "id":1243907781,
+    "amenity":"bar",
+    "name":"CR?? Food & Wine Bar",
+    "timestamp":"2016-11-06T22:06:11Z",
+    "version":4,
+    "changeset":43452951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"11410 Century Oaks Terrace Suite #104",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7195839,30.3961623 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1245024970",
+    "type":"node",
+    "id":1245024970,
+    "amenity":"bar",
+    "name":"Detour",
+    "timestamp":"2011-04-15T02:42:43Z",
+    "version":1,
+    "changeset":7866393,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7039848,30.4004938 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1250747839",
+    "type":"node",
+    "id":1250747839,
+    "amenity":"bar",
+    "name":"Canary Roost",
+    "timestamp":"2011-04-19T05:25:06Z",
+    "version":1,
+    "changeset":7903294,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.736869,30.2668401 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481420715",
+    "type":"node",
+    "id":1481420715,
+    "amenity":"bar",
+    "name":"Emo's",
+    "timestamp":"2011-10-26T16:25:16Z",
+    "version":1,
+    "changeset":9661658,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7365068,30.267755 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481420720",
+    "type":"node",
+    "id":1481420720,
+    "amenity":"bar",
+    "name":"Beer Land",
+    "timestamp":"2011-10-26T16:25:16Z",
+    "version":1,
+    "changeset":9661658,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7364445,30.26794 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481420722",
+    "type":"node",
+    "id":1481420722,
+    "amenity":"bar",
+    "name":"Red Eyed Fly",
+    "timestamp":"2011-10-26T16:25:16Z",
+    "version":1,
+    "changeset":9661658,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7363666,30.2696184 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481420726",
+    "type":"node",
+    "id":1481420726,
+    "amenity":"bar",
+    "name":"Cheer Up Charlie's",
+    "timestamp":"2014-03-06T01:43:46Z",
+    "version":2,
+    "changeset":20941914,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"900",
+    "addr:postcode":78701,
+    "addr:street":"Red River Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 431-2133",
+    "website":"https://www.facebook.com/cheerupcharliesaustin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7377332,30.2665213 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633294",
+    "type":"node",
+    "id":1481633294,
+    "amenity":"bar",
+    "name":"Flamingo Cantina",
+    "timestamp":"2015-02-17T09:33:19Z",
+    "version":3,
+    "changeset":28904224,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 494-9336",
+    "website":"http://flamingocantina.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7379787,30.2665898 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633303",
+    "type":"node",
+    "id":1481633303,
+    "amenity":"bar",
+    "name":"Dirty Dog Bar",
+    "timestamp":"2015-02-17T09:33:19Z",
+    "version":4,
+    "changeset":28904224,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"https://dirtydogbar.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7381443,30.266636 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633305",
+    "type":"node",
+    "id":1481633305,
+    "amenity":"bar",
+    "name":"Coyote Ugly",
+    "timestamp":"2015-02-17T09:33:19Z",
+    "version":2,
+    "changeset":28904224,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"Mo-Th 17:00-2:00;Fr-Su 12:00-2:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.coyoteuglysaloon.com/austin/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7385615,30.266712 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633307",
+    "type":"node",
+    "id":1481633307,
+    "amenity":"bar",
+    "name":"Pete's Dueling Piano Bar",
+    "timestamp":"2014-11-20T21:42:53Z",
+    "version":2,
+    "changeset":26917687,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7389289,30.2671072 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633318",
+    "type":"node",
+    "id":1481633318,
+    "amenity":"bar",
+    "name":"Mooseknuckle",
+    "timestamp":"2015-02-16T10:26:56Z",
+    "version":2,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73981,30.2670792 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633328",
+    "type":"node",
+    "id":1481633328,
+    "amenity":"bar",
+    "name":"Blind Pig",
+    "timestamp":"2011-10-26T20:41:20Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.739796,30.2673492 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633334",
+    "type":"node",
+    "id":1481633334,
+    "amenity":"bar",
+    "name":"Shakespeare's",
+    "timestamp":"2015-02-17T07:02:40Z",
+    "version":3,
+    "changeset":28901697,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-472-1666",
+    "website":"http://www.shakespearesaustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74004,30.2670807 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633338",
+    "type":"node",
+    "id":1481633338,
+    "amenity":"bar",
+    "name":"311",
+    "timestamp":"2011-10-26T20:41:20Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7401125,30.2674486 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633341",
+    "type":"node",
+    "id":1481633341,
+    "amenity":"bar",
+    "name":"Vice",
+    "timestamp":"2015-02-17T07:02:40Z",
+    "version":2,
+    "changeset":28901697,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7405942,30.267299 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633357",
+    "type":"node",
+    "id":1481633357,
+    "amenity":"bar",
+    "name":"Darwin's",
+    "timestamp":"2011-10-26T20:41:21Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7407594,30.2672482 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633359",
+    "type":"node",
+    "id":1481633359,
+    "amenity":"bar",
+    "name":"Soho",
+    "timestamp":"2011-10-28T17:02:13Z",
+    "version":2,
+    "changeset":9678345,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7407252,30.2671957 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633360",
+    "type":"node",
+    "id":1481633360,
+    "amenity":"bar",
+    "name":"Chuggin' Monkey",
+    "timestamp":"2011-10-28T17:02:12Z",
+    "version":2,
+    "changeset":9678345,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7412007,30.2674314 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633370",
+    "type":"node",
+    "id":1481633370,
+    "amenity":"bar",
+    "name":"Buffalo Billiards",
+    "timestamp":"2011-10-26T20:41:21Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7411179,30.2677181 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633373",
+    "type":"node",
+    "id":1481633373,
+    "amenity":"bar",
+    "name":"B. D. Riley's Irish Pub & Restaurant",
+    "timestamp":"2015-02-16T09:12:08Z",
+    "version":3,
+    "changeset":28880417,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-494-1335",
+    "website":"http://bdrileys.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7454268,30.2685859 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633387",
+    "type":"node",
+    "id":1481633387,
+    "amenity":"bar",
+    "name":"Hi-Lo",
+    "timestamp":"2011-10-26T20:41:21Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7481472,30.2696906 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633424",
+    "type":"node",
+    "id":1481633424,
+    "amenity":"bar",
+    "name":"Little Woodrow's",
+    "timestamp":"2011-10-26T20:41:22Z",
+    "version":1,
+    "changeset":9663910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7491454,30.2700147 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633443",
+    "type":"node",
+    "id":1481633443,
+    "amenity":"bar",
+    "name":"Momo's",
+    "timestamp":"2011-10-28T17:02:13Z",
+    "version":2,
+    "changeset":9678345,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7634339,30.27407 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721293",
+    "type":"node",
+    "id":1481721293,
+    "amenity":"bar",
+    "name":"Donn's Depot",
+    "timestamp":"2014-11-16T23:04:58Z",
+    "version":2,
+    "changeset":26833310,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7530788,30.2695924 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721313",
+    "type":"node",
+    "id":1481721313,
+    "amenity":"bar",
+    "name":"Tinest Bar in Texas",
+    "timestamp":"2013-07-24T18:36:36Z",
+    "version":2,
+    "changeset":17079148,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7403564,30.2661815 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721316",
+    "type":"node",
+    "id":1481721316,
+    "amenity":"bar",
+    "name":"Antone's",
+    "timestamp":"2015-07-29T01:23:49Z",
+    "version":2,
+    "changeset":32945426,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7453298,30.2674644 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721318",
+    "type":"node",
+    "id":1481721318,
+    "amenity":"bar",
+    "name":"Lucky Lounge",
+    "timestamp":"2011-10-26T21:57:15Z",
+    "version":1,
+    "changeset":9664575,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7439557,30.2675086 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721325",
+    "type":"node",
+    "id":1481721325,
+    "amenity":"bar",
+    "name":"Basecamp",
+    "timestamp":"2017-07-03T04:22:49Z",
+    "version":2,
+    "changeset":49998137,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7434785,30.2669237 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721326",
+    "type":"node",
+    "id":1481721326,
+    "amenity":"bar",
+    "name":"Shiner's Saloon",
+    "timestamp":"2017-07-03T04:22:49Z",
+    "version":2,
+    "changeset":49998137,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7435033,30.2670626 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721327",
+    "type":"node",
+    "id":1481721327,
+    "amenity":"bar",
+    "name":"Lanai",
+    "timestamp":"2011-10-26T21:57:16Z",
+    "version":1,
+    "changeset":9664575,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7422828,30.2667198 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721329",
+    "type":"node",
+    "id":1481721329,
+    "amenity":"bar",
+    "name":"Canvas",
+    "timestamp":"2011-10-26T21:57:16Z",
+    "version":1,
+    "changeset":9664575,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7420908,30.2665872 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481721330",
+    "type":"node",
+    "id":1481721330,
+    "amenity":"bar",
+    "name":"HandleBar",
+    "timestamp":"2014-04-05T07:17:16Z",
+    "version":3,
+    "changeset":21508575,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"121",
+    "addr:postcode":78701,
+    "addr:street":"East 5th Street",
+    "cuisine":"",
+    "opening_hours":"Mo-Sa 14:00-02:00; Su 12:00-02:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://handlebaraustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7474697,30.2565437 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481848589",
+    "type":"node",
+    "id":1481848589,
+    "amenity":"bar",
+    "name":"Ego's",
+    "timestamp":"2011-10-26T23:53:23Z",
+    "version":1,
+    "changeset":9665008,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7615678,30.2268623 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481848695",
+    "type":"node",
+    "id":1481848695,
+    "amenity":"bar",
+    "name":"Stompin' Grounds Lounge",
+    "timestamp":"2011-10-26T23:53:26Z",
+    "version":1,
+    "changeset":9665008,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7397373,30.2612105 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483653697",
+    "type":"node",
+    "id":1483653697,
+    "amenity":"bar",
+    "name":"Chain Drive",
+    "timestamp":"2011-10-28T15:52:38Z",
+    "version":1,
+    "changeset":9677746,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7413623,30.2643747 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483653748",
+    "type":"node",
+    "id":1483653748,
+    "amenity":"bar",
+    "name":"Max's Wine Dive",
+    "timestamp":"2011-10-28T15:52:39Z",
+    "version":1,
+    "changeset":9677746,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7409562,30.2632742 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483653895",
+    "type":"node",
+    "id":1483653895,
+    "amenity":"bar",
+    "name":"Submerged",
+    "timestamp":"2011-10-28T15:52:41Z",
+    "version":1,
+    "changeset":9677746,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7436233,30.2670536 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483931120",
+    "type":"node",
+    "id":1483931120,
+    "amenity":"bar",
+    "name":"Sky Lounge",
+    "timestamp":"2017-07-03T04:22:49Z",
+    "version":2,
+    "changeset":49998137,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7440439,30.2657263 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483931134",
+    "type":"node",
+    "id":1483931134,
+    "amenity":"bar",
+    "name":"Cork & Co.",
+    "timestamp":"2011-10-28T19:30:28Z",
+    "version":1,
+    "changeset":9679537,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7354817,30.347507 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484010004",
+    "type":"node",
+    "id":1484010004,
+    "amenity":"bar",
+    "name":"Dallas Nightclub",
+    "timestamp":"2011-10-28T20:38:52Z",
+    "version":1,
+    "changeset":9680168,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.721924,30.3337186 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100625",
+    "type":"node",
+    "id":1484100625,
+    "amenity":"bar",
+    "name":"Yellow Rose",
+    "timestamp":"2011-10-28T22:15:27Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6905616,30.3737944 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204034",
+    "type":"node",
+    "id":1484204034,
+    "amenity":"bar",
+    "name":"El Tajuana Bar",
+    "timestamp":"2011-10-28T23:56:12Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8068296,30.4462553 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1485008739",
+    "type":"node",
+    "id":1485008739,
+    "amenity":"bar",
+    "name":"Anderson Mill Tavern",
+    "timestamp":"2011-10-29T20:08:50Z",
+    "version":1,
+    "changeset":9688204,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74564,30.2666443 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1489680206",
+    "type":"node",
+    "id":1489680206,
+    "amenity":"bar",
+    "name":"Rain",
+    "timestamp":"2015-07-29T01:23:49Z",
+    "version":3,
+    "changeset":32945426,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 494-1150",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7453718,30.2665655 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1489684089",
+    "type":"node",
+    "id":1489684089,
+    "amenity":"bar",
+    "name":"Oilcan Harry's",
+    "timestamp":"2015-07-29T01:23:49Z",
+    "version":4,
+    "changeset":32945426,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7443955,30.2704018 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1489746987",
+    "type":"node",
+    "id":1489746987,
+    "amenity":"bar",
+    "name":"Iron Bear",
+    "timestamp":"2015-07-29T01:23:49Z",
+    "version":2,
+    "changeset":32945426,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7824989,30.2285706 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1489753843",
+    "type":"node",
+    "id":1489753843,
+    "amenity":"bar",
+    "name":"Casino el Camino",
+    "timestamp":"2017-02-01T19:20:56Z",
+    "version":2,
+    "changeset":45724895,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7222217,30.3179356 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1528929607",
+    "type":"node",
+    "id":1528929607,
+    "amenity":"bar",
+    "name":"The Tigress",
+    "timestamp":"2011-12-02T23:41:47Z",
+    "version":1,
+    "changeset":10021019,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7271659,30.3690209 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1606680465",
+    "type":"node",
+    "id":1606680465,
+    "amenity":"bar",
+    "name":"Buddy's Place",
+    "timestamp":"2012-01-26T17:18:19Z",
+    "version":1,
+    "changeset":10505070,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7056784,30.4193127 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1706109779",
+    "type":"node",
+    "id":1706109779,
+    "amenity":"bar",
+    "name":"Weirdo's",
+    "timestamp":"2014-09-16T16:40:42Z",
+    "version":2,
+    "changeset":25483128,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"12408",
+    "addr:postcode":78758,
+    "addr:street":"North Mopac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"weirdosaustin.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7382003,30.2608187 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792574986",
+    "type":"node",
+    "id":1792574986,
+    "amenity":"bar",
+    "name":"Bar 96",
+    "timestamp":"2012-06-18T01:43:57Z",
+    "version":1,
+    "changeset":11932312,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7502351,30.2699463 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792579344",
+    "type":"node",
+    "id":1792579344,
+    "amenity":"bar",
+    "name":"Dogwood",
+    "timestamp":"2012-06-18T01:55:12Z",
+    "version":1,
+    "changeset":11932344,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7499377,30.2702132 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792579345",
+    "type":"node",
+    "id":1792579345,
+    "amenity":"bar",
+    "name":"The Brew Exchange",
+    "timestamp":"2012-06-18T01:55:12Z",
+    "version":1,
+    "changeset":11932344,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7502191,30.2703034 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792579346",
+    "type":"node",
+    "id":1792579346,
+    "amenity":"bar",
+    "name":"J Blacks",
+    "timestamp":"2012-06-18T01:55:12Z",
+    "version":1,
+    "changeset":11932344,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7493957,30.2697777 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792579347",
+    "type":"node",
+    "id":1792579347,
+    "amenity":"bar",
+    "name":"Key Bar",
+    "timestamp":"2012-06-18T01:55:12Z",
+    "version":1,
+    "changeset":11932344,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750077,30.2702734 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792579348",
+    "type":"node",
+    "id":1792579348,
+    "amenity":"bar",
+    "name":"The Ranch",
+    "timestamp":"2012-06-18T01:55:12Z",
+    "version":1,
+    "changeset":11932344,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6739345,30.4355021 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1809241015",
+    "type":"node",
+    "id":1809241015,
+    "amenity":"bar",
+    "name":"",
+    "timestamp":"2012-07-01T19:53:38Z",
+    "version":1,
+    "changeset":12079164,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6741598,30.4353358 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1809241019",
+    "type":"node",
+    "id":1809241019,
+    "amenity":"bar",
+    "name":"",
+    "timestamp":"2012-07-01T19:53:38Z",
+    "version":1,
+    "changeset":12079164,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7316207,30.264933 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1938976850",
+    "type":"node",
+    "id":1938976850,
+    "amenity":"bar",
+    "name":"Shangri La",
+    "timestamp":"2012-09-30T01:00:22Z",
+    "version":1,
+    "changeset":13303747,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7219593,30.3178517 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2245272850",
+    "type":"node",
+    "id":2245272850,
+    "amenity":"bar",
+    "name":"Workhorse Bar",
+    "timestamp":"2016-11-17T19:00:32Z",
+    "version":3,
+    "changeset":43740037,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"100",
+    "addr:postcode":null,
+    "addr:street":"East North Loop Boulevard",
+    "cuisine":"",
+    "opening_hours":"11am to 12am open 7 days a week",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512 323 5700",
+    "website":"www.workhorsebar.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7206057,30.3172224 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2245273261",
+    "type":"node",
+    "id":2245273261,
+    "amenity":"bar",
+    "name":"Drink Well",
+    "timestamp":"2013-04-02T19:33:59Z",
+    "version":1,
+    "changeset":15585951,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"North Loop Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.927152,30.4119737 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2428750552",
+    "type":"node",
+    "id":2428750552,
+    "amenity":"bar",
+    "name":"Frogs",
+    "timestamp":"2013-08-23T02:45:08Z",
+    "version":1,
+    "changeset":17464173,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7175883,30.284794 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2468907473",
+    "type":"node",
+    "id":2468907473,
+    "amenity":"bar",
+    "name":"Haymaker",
+    "timestamp":"2013-09-23T15:50:22Z",
+    "version":1,
+    "changeset":17993476,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"2310",
+    "addr:postcode":78722,
+    "addr:street":"Manor Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-707-2744",
+    "website":"http://www.haymakeraustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.734038,30.3155063 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2623033956",
+    "type":"node",
+    "id":2623033956,
+    "amenity":"bar",
+    "name":"Flying Saucer Pub",
+    "timestamp":"2014-01-15T04:23:59Z",
+    "version":1,
+    "changeset":20006717,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7291769,30.3662779 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2626566653",
+    "type":"node",
+    "id":2626566653,
+    "amenity":"bar",
+    "name":"Common Interest",
+    "timestamp":"2014-01-18T01:29:00Z",
+    "version":1,
+    "changeset":20060468,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741148,30.269053 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2675162870",
+    "type":"node",
+    "id":2675162870,
+    "amenity":"bar",
+    "name":"CU29 Cocktail Bar",
+    "timestamp":"2014-02-16T16:42:50Z",
+    "version":1,
+    "changeset":20598766,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7421243,30.2798438 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2726430202",
+    "type":"node",
+    "id":2726430202,
+    "amenity":"bar",
+    "name":"Dive",
+    "timestamp":"2014-10-23T17:22:58Z",
+    "version":2,
+    "changeset":26283128,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"1703",
+    "addr:postcode":78701,
+    "addr:street":"Guadalupe Street",
+    "cuisine":"",
+    "opening_hours":"4pm-2am",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-482-3483",
+    "website":"http://www.diveaustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7390069,30.267129 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181780232",
+    "type":"node",
+    "id":3181780232,
+    "amenity":"bar",
+    "name":"The Jackalope",
+    "timestamp":"2015-02-16T10:26:56Z",
+    "version":2,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"11:00-2:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.jackalopebar.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7411484,30.2868316 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181780254",
+    "type":"node",
+    "id":3181780254,
+    "amenity":"bar",
+    "name":"Cactus Cafe",
+    "timestamp":"2014-11-11T22:19:28Z",
+    "version":1,
+    "changeset":26723928,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"2247",
+    "addr:postcode":null,
+    "addr:street":"Guadalupe Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"The University of Texas at Austin",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7383075,30.2604906 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804689",
+    "type":"node",
+    "id":3181804689,
+    "amenity":"bar",
+    "name":"Bungalow",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7384009,30.2603206 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804690",
+    "type":"node",
+    "id":3181804690,
+    "amenity":"bar",
+    "name":"Container Bar",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7385023,30.2600133 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804691",
+    "type":"node",
+    "id":3181804691,
+    "amenity":"bar",
+    "name":"Clive Bar",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7382816,30.2595204 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804693",
+    "type":"node",
+    "id":3181804693,
+    "amenity":"bar",
+    "name":"Icenhauer's",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7386037,30.2597643 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804694",
+    "type":"node",
+    "id":3181804694,
+    "amenity":"bar",
+    "name":"THE BLACKHEART",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73855,30.2587408 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804696",
+    "type":"node",
+    "id":3181804696,
+    "amenity":"bar",
+    "name":"Lucille",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7388025,30.2581501 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804698",
+    "type":"node",
+    "id":3181804698,
+    "amenity":"bar",
+    "name":"Javelina",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7386658,30.2584292 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804699",
+    "type":"node",
+    "id":3181804699,
+    "amenity":"bar",
+    "name":"Half Step",
+    "timestamp":"2014-11-16T22:45:48Z",
+    "version":2,
+    "changeset":26833034,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7490664,30.2505001 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181872973",
+    "type":"node",
+    "id":3181872973,
+    "amenity":"bar",
+    "name":"The Continental Club",
+    "timestamp":"2014-11-11T23:11:58Z",
+    "version":1,
+    "changeset":26724851,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7360877,30.2700576 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3190821388",
+    "type":"node",
+    "id":3190821388,
+    "amenity":"bar",
+    "name":"Mohawk",
+    "timestamp":"2014-11-16T22:02:26Z",
+    "version":1,
+    "changeset":26832269,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"912",
+    "addr:postcode":null,
+    "addr:street":"Red River Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7376596,30.2665007 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3190873011",
+    "type":"node",
+    "id":3190873011,
+    "amenity":"bar",
+    "name":"Casino El Camino",
+    "timestamp":"2015-02-17T09:33:19Z",
+    "version":2,
+    "changeset":28904224,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"517",
+    "addr:postcode":null,
+    "addr:street":"East 6th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 469-9330",
+    "website":"http://www.casinoelcamino.net/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7307275,30.2643637 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3190873014",
+    "type":"node",
+    "id":3190873014,
+    "amenity":"bar",
+    "name":"Violet Crown",
+    "timestamp":"2014-11-16T22:45:48Z",
+    "version":1,
+    "changeset":26833034,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7498966,30.2696325 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3194175561",
+    "type":"node",
+    "id":3194175561,
+    "amenity":"bar",
+    "name":"Kung Fu Saloon",
+    "timestamp":"2014-11-18T17:34:41Z",
+    "version":1,
+    "changeset":26869074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"510",
+    "addr:postcode":null,
+    "addr:street":"Rio Grande Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7270591,30.262574 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197335002",
+    "type":"node",
+    "id":3197335002,
+    "amenity":"bar",
+    "name":"The White Horse",
+    "timestamp":"2014-11-20T17:52:22Z",
+    "version":1,
+    "changeset":26912931,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7247308,30.2617215 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197335003",
+    "type":"node",
+    "id":3197335003,
+    "amenity":"bar",
+    "name":"Yellow Jacket Social Club",
+    "timestamp":"2014-11-20T17:52:22Z",
+    "version":1,
+    "changeset":26912931,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7142604,30.3167177 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3240251853",
+    "type":"node",
+    "id":3240251853,
+    "amenity":"bar",
+    "name":"Barfly's",
+    "timestamp":"2014-12-17T21:45:07Z",
+    "version":1,
+    "changeset":27540126,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7495947,30.2670293 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3248363276",
+    "type":"node",
+    "id":3248363276,
+    "amenity":"bar",
+    "name":"Trifecta On 3rd",
+    "timestamp":"2016-02-26T06:39:39Z",
+    "version":2,
+    "changeset":37453193,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"Suite 30",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7408963,30.2676562 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353538563",
+    "type":"node",
+    "id":3353538563,
+    "amenity":"bar",
+    "name":"Bourbon Girl",
+    "timestamp":"2015-02-16T09:12:06Z",
+    "version":1,
+    "changeset":28880417,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-433-6983",
+    "website":"http://bourbongirlaustin.com/site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7410028,30.267686 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353538564",
+    "type":"node",
+    "id":3353538564,
+    "amenity":"bar",
+    "name":"Friends Bar",
+    "timestamp":"2015-02-16T09:12:06Z",
+    "version":1,
+    "changeset":28880417,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.friendsbar.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7405829,30.2675688 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353538811",
+    "type":"node",
+    "id":3353538811,
+    "amenity":"bar",
+    "name":"Recess Arcade Bar",
+    "timestamp":"2015-02-16T09:12:06Z",
+    "version":1,
+    "changeset":28880417,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://recessarcadebar.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7384055,30.2669612 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353621860",
+    "type":"node",
+    "id":3353621860,
+    "amenity":"bar",
+    "name":"Buckshot 6th St",
+    "timestamp":"2015-02-16T10:26:53Z",
+    "version":1,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"https://www.facebook.com/pages/Buckshot-6th-St/359712537432946"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7386248,30.2670224 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353621861",
+    "type":"node",
+    "id":3353621861,
+    "amenity":"bar",
+    "name":"Cheers Shot Bar",
+    "timestamp":"2015-02-16T10:26:53Z",
+    "version":1,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"51224990093",
+    "website":"https://www.facebook.com/cheersshotbar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7384416,30.2677385 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353621863",
+    "type":"node",
+    "id":3353621863,
+    "amenity":"bar",
+    "name":"MugShots",
+    "timestamp":"2015-02-16T10:26:53Z",
+    "version":1,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"Su 18:00-2:00;Mo 19:30-2:00;Tu,We 20:00-2:00;Th,Fr 17:00-2:00;Sa 19:00-2:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(512) 236-0008",
+    "website":"http://www.mugshotsaustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7400096,30.2674088 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355376969",
+    "type":"node",
+    "id":3355376969,
+    "amenity":"bar",
+    "name":"The Dizzy Rooster",
+    "timestamp":"2015-02-17T07:02:39Z",
+    "version":1,
+    "changeset":28901697,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-236-1667",
+    "website":"http://www.dizzyrooster.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7812614,30.4526852 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3489304831",
+    "type":"node",
+    "id":3489304831,
+    "amenity":"bar",
+    "name":"Stompin Grounds",
+    "timestamp":"2015-04-30T18:39:05Z",
+    "version":1,
+    "changeset":30668613,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"9112",
+    "addr:postcode":78729,
+    "addr:street":"Anderson Mill Road",
+    "cuisine":"",
+    "opening_hours":"11AM - 2AM",
+    "addr:state":"Texas",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7688434,30.2452596 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506565394",
+    "type":"node",
+    "id":3506565394,
+    "amenity":"bar",
+    "name":"ABGB",
+    "timestamp":"2015-05-09T08:18:24Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7448469,30.2669654 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3671114130",
+    "type":"node",
+    "id":3671114130,
+    "amenity":"bar",
+    "name":"Highland Lounge",
+    "timestamp":"2015-07-29T01:23:49Z",
+    "version":2,
+    "changeset":32945426,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"404",
+    "addr:postcode":78701,
+    "addr:street":"Colorado Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"+1 512 649 1212",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7208778,30.2802455 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676739744",
+    "type":"node",
+    "id":3676739744,
+    "amenity":"bar",
+    "name":"The Wheel",
+    "timestamp":"2015-08-01T19:31:48Z",
+    "version":1,
+    "changeset":33036140,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8266605,30.1692713 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3684952624",
+    "type":"node",
+    "id":3684952624,
+    "amenity":"bar",
+    "name":"Moontower Saloon",
+    "timestamp":"2016-04-17T22:55:56Z",
+    "version":2,
+    "changeset":38653331,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"10212",
+    "addr:postcode":78748,
+    "addr:street":"Manchaca Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"512-712-5661",
+    "website":"http://www.moontowersaloon.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.734055,30.308726 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3849707572",
+    "type":"node",
+    "id":3849707572,
+    "amenity":"bar",
+    "name":"",
+    "timestamp":"2016-09-07T07:26:19Z",
+    "version":2,
+    "changeset":41972598,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"4301",
+    "addr:postcode":78751,
+    "addr:street":"Guadalupe Street",
+    "cuisine":"pizza",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7494164,30.269614 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4103315889",
+    "type":"node",
+    "id":4103315889,
+    "amenity":"bar",
+    "name":"Dirty Bill's",
+    "timestamp":"2016-04-06T19:26:46Z",
+    "version":1,
+    "changeset":38361107,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"Rio Grande Street",
+    "cuisine":"",
+    "opening_hours":"Mo-Su 16:00-02:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7877719,30.2315416 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4284112989",
+    "type":"node",
+    "id":4284112989,
+    "amenity":"bar",
+    "name":"Radio",
+    "timestamp":"2016-07-05T13:09:45Z",
+    "version":1,
+    "changeset":40499586,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"4204",
+    "addr:postcode":null,
+    "addr:street":"Manchaca Road",
+    "cuisine":"coffee_shop",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://radiocoffeeandbeer.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7227584,30.4008451 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4294415010",
+    "type":"node",
+    "id":4294415010,
+    "amenity":"bar",
+    "name":"Kung Fu Saloon",
+    "timestamp":"2016-11-05T23:30:39Z",
+    "version":2,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"11501",
+    "addr:postcode":78758,
+    "addr:street":"Rock Rose",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512-719-3808",
+    "website":"http://kungfusaloonrockrose.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7228104,30.4013625 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4294415011",
+    "type":"node",
+    "id":4294415011,
+    "amenity":"bar",
+    "name":"St. Genevieve",
+    "timestamp":"2016-11-05T23:30:39Z",
+    "version":2,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"11500",
+    "addr:postcode":78758,
+    "addr:street":"Rock Rose",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512.659.5537",
+    "website":"http://stgen.co/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7079636,30.3098698 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4372493203",
+    "type":"node",
+    "id":4372493203,
+    "amenity":"bar",
+    "name":"Carousel Lounge",
+    "timestamp":"2016-08-28T22:30:55Z",
+    "version":1,
+    "changeset":41765621,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7355652,30.2662263 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4373172889",
+    "type":"node",
+    "id":4373172889,
+    "amenity":"bar",
+    "name":"Sidebar",
+    "timestamp":"2016-08-29T05:48:29Z",
+    "version":1,
+    "changeset":41769353,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7201589,30.3826286 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4401892190",
+    "type":"node",
+    "id":4401892190,
+    "amenity":"bar",
+    "name":"Adelbert's Brewery",
+    "timestamp":"2016-09-15T00:22:03Z",
+    "version":1,
+    "changeset":42161411,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":78758,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"5126621462",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7230038,30.4008427 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662932",
+    "type":"node",
+    "id":4484662932,
+    "amenity":"bar",
+    "name":"The Dogwood",
+    "timestamp":"2016-11-05T23:30:32Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7228646,30.4012164 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662997",
+    "type":"node",
+    "id":4484662997,
+    "amenity":"bar",
+    "name":"77 Degrees",
+    "timestamp":"2016-11-05T23:30:33Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7171334,30.2838523 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4608671826",
+    "type":"node",
+    "id":4608671826,
+    "amenity":"bar",
+    "name":"Butterfly Bar Austin",
+    "timestamp":"2017-01-14T23:15:16Z",
+    "version":1,
+    "changeset":45176241,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"2307",
+    "addr:postcode":78722,
+    "addr:street":"Manor Road",
+    "cuisine":"",
+    "opening_hours":"Mo-We 17:00-24:00; Th-Fi 16:00-24:00; Sat 17:00-24:00; Su 00:00-01:00, 17:00-24:00",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-478-5282",
+    "website":"http://butterflybaraustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7198329,30.2740933 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4629753600",
+    "type":"node",
+    "id":4629753600,
+    "amenity":"bar",
+    "name":"Rio Rita",
+    "timestamp":"2017-01-24T17:15:11Z",
+    "version":1,
+    "changeset":45442232,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"1203",
+    "addr:postcode":78702,
+    "addr:street":"Chicon Street",
+    "cuisine":"",
+    "opening_hours":"10:00AM-02:00AM",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7196183,30.2739294 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4629753601",
+    "type":"node",
+    "id":4629753601,
+    "amenity":"bar",
+    "name":"King Bee",
+    "timestamp":"2017-01-24T17:15:11Z",
+    "version":1,
+    "changeset":45442232,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"1906",
+    "addr:postcode":78702,
+    "addr:street":"East 12th Street",
+    "cuisine":"",
+    "opening_hours":"05:00PM-02:00AM",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7189042,30.2840875 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4629753609",
+    "type":"node",
+    "id":4629753609,
+    "amenity":"bar",
+    "name":"Techo",
+    "timestamp":"2017-01-24T17:15:11Z",
+    "version":1,
+    "changeset":45442232,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7204049,30.2738014 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4629976380",
+    "type":"node",
+    "id":4629976380,
+    "amenity":"bar",
+    "name":"Dozen Street",
+    "timestamp":"2017-01-24T18:28:10Z",
+    "version":1,
+    "changeset":45444430,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"1808",
+    "addr:postcode":78702,
+    "addr:street":"East 12th Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7632098,30.253929 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4633656619",
+    "type":"node",
+    "id":4633656619,
+    "amenity":"bar",
+    "name":"Backbeat",
+    "timestamp":"2017-01-25T23:24:08Z",
+    "version":1,
+    "changeset":45493959,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7521152,30.2434873 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4642598289",
+    "type":"node",
+    "id":4642598289,
+    "amenity":"bar",
+    "name":"",
+    "timestamp":"2017-01-29T18:24:32Z",
+    "version":1,
+    "changeset":45628257,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7688789,30.2492382 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4653522069",
+    "type":"node",
+    "id":4653522069,
+    "amenity":"bar",
+    "name":"The Golden Goose",
+    "timestamp":"2017-02-01T18:35:27Z",
+    "version":1,
+    "changeset":45723792,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7157502,30.353008 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4661437094",
+    "type":"node",
+    "id":4661437094,
+    "amenity":"bar",
+    "name":"Cap City Comedy",
+    "timestamp":"2017-02-04T01:23:55Z",
+    "version":1,
+    "changeset":45794723,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8276455,30.17217 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4737356821",
+    "type":"node",
+    "id":4737356821,
+    "amenity":"bar",
+    "name":"Sam's Town Point",
+    "timestamp":"2017-03-17T05:15:20Z",
+    "version":2,
+    "changeset":46917579,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6992,30.2517205 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4740601824",
+    "type":"node",
+    "id":4740601824,
+    "amenity":"bar",
+    "name":"electric house",
+    "timestamp":"2017-03-17T21:36:29Z",
+    "version":1,
+    "changeset":46942661,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8253349,30.1720418 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4924979809",
+    "type":"node",
+    "id":4924979809,
+    "amenity":"bar",
+    "name":"Indian Roller",
+    "timestamp":"2017-06-19T19:57:16Z",
+    "version":1,
+    "changeset":49675712,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"10006",
+    "addr:postcode":78748,
+    "addr:street":"Manchaca Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6689591,30.2023117 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933514986",
+    "type":"node",
+    "id":4933514986,
+    "amenity":"bar",
+    "name":"Earl Campbell's Sports Bar",
+    "timestamp":"2017-06-24T03:46:58Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7435171,30.266771 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4948072434",
+    "type":"node",
+    "id":4948072434,
+    "amenity":"bar",
+    "name":"Speakeasy",
+    "timestamp":"2017-07-03T04:22:48Z",
+    "version":1,
+    "changeset":49998137,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.786557,30.4451874 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5129341103",
+    "type":"node",
+    "id":5129341103,
+    "amenity":"bar",
+    "name":"Third Base",
+    "timestamp":"2017-09-25T20:14:59Z",
+    "version":1,
+    "changeset":52366651,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"13301",
+    "addr:postcode":78750,
+    "addr:street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7407745,30.2676222 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481633361",
+    "type":"node",
+    "id":1481633361,
+    "amenity":"nightclub",
+    "name":"Parish",
+    "timestamp":"2015-02-16T09:12:08Z",
+    "version":2,
+    "changeset":28880417,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://theparishaustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7388595,30.2670878 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353622096",
+    "type":"node",
+    "id":3353622096,
+    "amenity":"nightclub",
+    "name":"The 512 on 6th",
+    "timestamp":"2015-02-16T10:26:54Z",
+    "version":1,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"(281) 685 1838",
+    "website":"http://www.the512on6th.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7385355,30.2669974 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353622097",
+    "type":"node",
+    "id":3353622097,
+    "amenity":"nightclub",
+    "name":"Vulcan Gas Company",
+    "timestamp":"2015-02-16T10:26:54Z",
+    "version":1,
+    "changeset":28881870,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-297-2051",
+    "website":"http://vulcanatx.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7402177,30.2674669 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355376965",
+    "type":"node",
+    "id":3355376965,
+    "amenity":"nightclub",
+    "name":"Amped Austin",
+    "timestamp":"2015-02-17T07:02:39Z",
+    "version":1,
+    "changeset":28901697,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-431-1491",
+    "website":"http://www.ampedaustin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.740116,30.2674385 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355376966",
+    "type":"node",
+    "id":3355376966,
+    "amenity":"nightclub",
+    "name":"KRAVE",
+    "timestamp":"2015-02-17T07:02:39Z",
+    "version":1,
+    "changeset":28901697,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-487-4567",
+    "website":"https://www.facebook.com/KRAVEaustin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7367597,30.2672572 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355462801",
+    "type":"node",
+    "id":3355462801,
+    "amenity":"nightclub",
+    "name":"Plush",
+    "timestamp":"2015-02-17T08:22:23Z",
+    "version":1,
+    "changeset":28902910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-478-0099",
+    "website":"http://www.plushatx.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7362621,30.2671346 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355462828",
+    "type":"node",
+    "id":3355462828,
+    "amenity":"nightclub",
+    "name":"Red 7",
+    "timestamp":"2015-02-17T08:22:24Z",
+    "version":1,
+    "changeset":28902910,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://red7austin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.737528,30.266464 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3355524476",
+    "type":"node",
+    "id":3355524476,
+    "amenity":"nightclub",
+    "name":"The Velveeta Room",
+    "timestamp":"2015-02-17T09:33:17Z",
+    "version":1,
+    "changeset":28904224,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512-469-9116",
+    "website":"http://thevelveetaroom.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7363223,30.2778151 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/281362888",
+    "type":"node",
+    "id":281362888,
+    "amenity":"pub",
+    "name":"Scholz Garten",
+    "timestamp":"2017-05-26T14:48:32Z",
+    "version":7,
+    "changeset":49004527,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"1607",
+    "addr:postcode":78701,
+    "addr:street":"San Jacinto Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7434073,30.2656956 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/336605818",
+    "type":"node",
+    "id":336605818,
+    "amenity":"pub",
+    "name":"The Elephant Room",
+    "timestamp":"2011-10-28T19:30:28Z",
+    "version":3,
+    "changeset":9679537,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.772558,30.277787 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/436638602",
+    "type":"node",
+    "id":436638602,
+    "amenity":"pub",
+    "name":"Deep Eddy Cabaret",
+    "timestamp":"2009-07-07T22:47:45Z",
+    "version":1,
+    "changeset":1767096,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7649939,30.2744656 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/439770180",
+    "type":"node",
+    "id":439770180,
+    "amenity":"pub",
+    "name":"Mean Eyed Cat",
+    "timestamp":"2014-12-18T01:23:47Z",
+    "version":2,
+    "changeset":27542562,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7958917,30.2361072 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/480621433",
+    "type":"node",
+    "id":480621433,
+    "amenity":"pub",
+    "name":"Pinthouse Pizza",
+    "timestamp":"2017-11-03T18:38:04Z",
+    "version":5,
+    "changeset":53486429,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"4236",
+    "addr:postcode":78704,
+    "addr:street":"South Lamar Boulevard",
+    "cuisine":"",
+    "opening_hours":"Su-We 11:23:00; Th-Sa 11:00-00:00",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"512-502-5808",
+    "website":"http://pinthousepizza.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7395201,30.3219573 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530781360",
+    "type":"node",
+    "id":530781360,
+    "amenity":"pub",
+    "name":"Billy's on Burnet Road",
+    "timestamp":"2009-10-14T19:09:29Z",
+    "version":1,
+    "changeset":2848494,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7511616,30.2770185 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/533738462",
+    "type":"node",
+    "id":533738462,
+    "amenity":"pub",
+    "name":"The Tavern",
+    "timestamp":"2009-10-16T15:36:39Z",
+    "version":1,
+    "changeset":2865367,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7458683,30.2664861 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/664391508",
+    "type":"node",
+    "id":664391508,
+    "amenity":"pub",
+    "name":"The Gingerman",
+    "timestamp":"2010-03-12T07:41:30Z",
+    "version":1,
+    "changeset":4104037,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6908665,30.1637939 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/768057907",
+    "type":"node",
+    "id":768057907,
+    "amenity":"pub",
+    "name":"VFW Post 8925",
+    "timestamp":"2010-06-09T20:57:31Z",
+    "version":4,
+    "changeset":4949265,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7346937,30.291373 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/806741778",
+    "type":"node",
+    "id":806741778,
+    "amenity":"pub",
+    "name":"Posse East",
+    "timestamp":"2017-07-14T15:49:37Z",
+    "version":4,
+    "changeset":50286745,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"2900",
+    "addr:postcode":78705,
+    "addr:street":"Duval Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7301822,30.2644797 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/822469576",
+    "type":"node",
+    "id":822469576,
+    "amenity":"pub",
+    "name":"Sputnik",
+    "timestamp":"2012-09-30T01:02:53Z",
+    "version":2,
+    "changeset":13303747,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7668091,30.4349765 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/859224391",
+    "type":"node",
+    "id":859224391,
+    "amenity":"pub",
+    "name":"Water Tank",
+    "timestamp":"2010-08-13T19:02:23Z",
+    "version":1,
+    "changeset":5484809,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7618499,30.2550216 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919327569",
+    "type":"node",
+    "id":919327569,
+    "amenity":"pub",
+    "name":"Gibson's",
+    "timestamp":"2015-01-10T20:23:30Z",
+    "version":3,
+    "changeset":28049230,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7711763,30.2484023 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919327915",
+    "type":"node",
+    "id":919327915,
+    "amenity":"pub",
+    "name":"Black Sheep Lodge",
+    "timestamp":"2010-12-13T20:37:30Z",
+    "version":2,
+    "changeset":6652238,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7605219,30.2276776 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919399580",
+    "type":"node",
+    "id":919399580,
+    "amenity":"pub",
+    "name":"Opal Devine's",
+    "timestamp":"2010-09-20T07:17:21Z",
+    "version":1,
+    "changeset":5826480,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7202505,30.3942228 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1254086005",
+    "type":"node",
+    "id":1254086005,
+    "amenity":"pub",
+    "name":"Chi'lantro",
+    "timestamp":"2017-01-25T00:25:24Z",
+    "version":2,
+    "changeset":45455239,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7097916,30.4124945 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1479752724",
+    "type":"node",
+    "id":1479752724,
+    "amenity":"pub",
+    "name":"The Hideout Pub",
+    "timestamp":"2011-10-25T01:09:58Z",
+    "version":1,
+    "changeset":9648603,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7380295,30.2637792 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481420712",
+    "type":"node",
+    "id":1481420712,
+    "amenity":"pub",
+    "name":"Moonshine Bar & Grill",
+    "timestamp":"2014-11-11T22:19:28Z",
+    "version":3,
+    "changeset":26723928,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"303",
+    "addr:postcode":null,
+    "addr:street":"Red River Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6966608,30.4154407 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1706120126",
+    "type":"node",
+    "id":1706120126,
+    "amenity":"pub",
+    "name":"",
+    "timestamp":"2012-04-07T18:20:40Z",
+    "version":1,
+    "changeset":11217165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7499012,30.428533 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1769252530",
+    "type":"node",
+    "id":1769252530,
+    "amenity":"pub",
+    "name":"Riatta Bar and Grill",
+    "timestamp":"2012-05-29T09:29:39Z",
+    "version":2,
+    "changeset":11735689,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8177903,30.2306304 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1789560743",
+    "type":"node",
+    "id":1789560743,
+    "amenity":"pub",
+    "name":"Doc's Backyard",
+    "timestamp":"2012-06-27T07:58:57Z",
+    "version":2,
+    "changeset":12034003,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://eatdrinkdocs.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7390631,30.3187523 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2142168077",
+    "type":"node",
+    "id":2142168077,
+    "amenity":"pub",
+    "name":"Pinthouse Pizza",
+    "timestamp":"2017-11-03T18:35:44Z",
+    "version":3,
+    "changeset":53486377,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"4729",
+    "addr:postcode":78756,
+    "addr:street":"Burnet Road",
+    "cuisine":"",
+    "opening_hours":"Su-We 11:00-23:00; Th-Sa 11:00-00:00",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"+1 512 436 9605",
+    "website":"http://pinthousepizza.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7674191,30.2241986 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2267088296",
+    "type":"node",
+    "id":2267088296,
+    "amenity":"pub",
+    "name":"Bender Bar & Grill",
+    "timestamp":"2013-04-14T15:10:53Z",
+    "version":1,
+    "changeset":15725891,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"321 W Ben White Blvd #300",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.benderbar.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.718977,30.3383262 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2443667091",
+    "type":"node",
+    "id":2443667091,
+    "amenity":"pub",
+    "name":"Black Star Co-op",
+    "timestamp":"2013-09-02T22:27:45Z",
+    "version":1,
+    "changeset":17645054,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7447105,30.4454731 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2663832708",
+    "type":"node",
+    "id":2663832708,
+    "amenity":"pub",
+    "name":"Little Woodrow's",
+    "timestamp":"2014-02-09T20:31:15Z",
+    "version":1,
+    "changeset":20472633,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738379,30.2588937 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804695",
+    "type":"node",
+    "id":3181804695,
+    "amenity":"pub",
+    "name":"Banger's Sausage House & Beer Garden",
+    "timestamp":"2014-11-11T22:31:37Z",
+    "version":1,
+    "changeset":26724157,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7388721,30.2579578 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3181804697",
+    "type":"node",
+    "id":3181804697,
+    "amenity":"pub",
+    "name":"Craft Pride",
+    "timestamp":"2017-12-19T03:11:28Z",
+    "version":3,
+    "changeset":54747374,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"61",
+    "addr:postcode":null,
+    "addr:street":"Rainey Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512 428 5571",
+    "website":"http://www.craftprideaustin.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7428611,30.3110713 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3190821385",
+    "type":"node",
+    "id":3190821385,
+    "amenity":"pub",
+    "name":"Draught House Pub & Brewery",
+    "timestamp":"2016-02-03T15:35:30Z",
+    "version":3,
+    "changeset":36979673,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"4112",
+    "addr:postcode":78756,
+    "addr:street":"Medical Parkway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.draughthouse.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7416188,30.2900325 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3190845087",
+    "type":"node",
+    "id":3190845087,
+    "amenity":"pub",
+    "name":"Hole in the Wall",
+    "timestamp":"2014-11-16T22:22:32Z",
+    "version":1,
+    "changeset":26832642,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7675241,30.229239 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3280950479",
+    "type":"node",
+    "id":3280950479,
+    "amenity":"pub",
+    "name":"Porter House",
+    "timestamp":"2015-01-10T19:41:02Z",
+    "version":1,
+    "changeset":28048337,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7389772,30.2676594 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3353571481",
+    "type":"node",
+    "id":3353571481,
+    "amenity":"pub",
+    "name":"The Chicago House",
+    "timestamp":"2015-02-16T09:43:04Z",
+    "version":1,
+    "changeset":28880939,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":"http://thechicagohouse.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.760365,30.2414943 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3506562129",
+    "type":"node",
+    "id":3506562129,
+    "amenity":"pub",
+    "name":"G & S Lounge",
+    "timestamp":"2015-05-09T08:14:43Z",
+    "version":1,
+    "changeset":30929951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7410143,30.2985824 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3986299290",
+    "type":"node",
+    "id":3986299290,
+    "amenity":"pub",
+    "name":"Hopfields",
+    "timestamp":"2016-02-03T15:11:38Z",
+    "version":1,
+    "changeset":36979269,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"3110",
+    "addr:postcode":78705,
+    "addr:street":"Guadalupe Street",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7153907,30.2625671 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3986338016",
+    "type":"node",
+    "id":3986338016,
+    "amenity":"pub",
+    "name":"Gourmands Neighborhood Pub",
+    "timestamp":"2016-02-03T15:35:29Z",
+    "version":1,
+    "changeset":36979673,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"2316",
+    "addr:postcode":78702,
+    "addr:street":"Webberville Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.lovethysandwich.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7147683,30.2628918 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3986338017",
+    "type":"node",
+    "id":3986338017,
+    "amenity":"pub",
+    "name":"The Dog & Duck Pub",
+    "timestamp":"2016-02-03T15:35:29Z",
+    "version":1,
+    "changeset":36979673,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "addr:housenumber":"2400",
+    "addr:postcode":78702,
+    "addr:street":"Webberville Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":"http://www.dogandduckpub.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7229226,30.4011056 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4294415009",
+    "type":"node",
+    "id":4294415009,
+    "amenity":"pub",
+    "name":"Jack & Ginger's",
+    "timestamp":"2016-11-05T23:30:40Z",
+    "version":2,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"11500",
+    "addr:postcode":78758,
+    "addr:street":"Rock Rose",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"512.350.3738",
+    "website":"http://jackandgingers.pub/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7887279,30.240283 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4633503636",
+    "type":"node",
+    "id":4633503636,
+    "amenity":"pub",
+    "name":"Red's Porch",
+    "timestamp":"2017-01-25T22:05:39Z",
+    "version":1,
+    "changeset":45492113,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7933574,30.2363158 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4633504660",
+    "type":"node",
+    "id":4633504660,
+    "amenity":"pub",
+    "name":"The Park",
+    "timestamp":"2017-01-25T22:06:46Z",
+    "version":1,
+    "changeset":45492141,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7459197,30.2661402 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4906655821",
+    "type":"node",
+    "id":4906655821,
+    "amenity":"pub",
+    "name":"The Ginger Man",
+    "timestamp":"2017-06-09T20:45:25Z",
+    "version":1,
+    "changeset":49407470,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":78701,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6648916,30.2023824 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4933515636",
+    "type":"node",
+    "id":4933515636,
+    "amenity":"pub",
+    "name":"Saxon Pub",
+    "timestamp":"2017-06-24T03:47:00Z",
+    "version":1,
+    "changeset":49785897,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":null,
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

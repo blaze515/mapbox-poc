@@ -1,0 +1,4123 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7517291,30.4307052 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2533220764",
+    "type":"node",
+    "id":2533220764,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2013-11-15T06:26:34Z",
+    "version":1,
+    "changeset":18908234,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6770823,30.4047542 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2663954951",
+    "type":"node",
+    "id":2663954951,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-02-09T21:04:15Z",
+    "version":1,
+    "changeset":20473211,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6763273,30.4051546 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2663955013",
+    "type":"node",
+    "id":2663955013,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-02-09T21:04:15Z",
+    "version":1,
+    "changeset":20473211,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7187452,30.3389257 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2724591912",
+    "type":"node",
+    "id":2724591912,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-03-18T02:32:33Z",
+    "version":1,
+    "changeset":21166847,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7618885,30.3692223 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2743753163",
+    "type":"node",
+    "id":2743753163,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-03-25T23:53:29Z",
+    "version":1,
+    "changeset":21316095,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7967957,30.2162023 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3145693336",
+    "type":"node",
+    "id":3145693336,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-10-23T15:23:12Z",
+    "version":1,
+    "changeset":26280472,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7890772,30.228507 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3146181185",
+    "type":"node",
+    "id":3146181185,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-10-23T18:57:20Z",
+    "version":1,
+    "changeset":26285362,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7710415,30.2480145 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3146848803",
+    "type":"node",
+    "id":3146848803,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-10-24T03:34:58Z",
+    "version":1,
+    "changeset":26291457,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.762587,30.254038 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3146848823",
+    "type":"node",
+    "id":3146848823,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-10-24T03:34:59Z",
+    "version":1,
+    "changeset":26291457,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7426125,30.2754726 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3147715680",
+    "type":"node",
+    "id":3147715680,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-10-24T16:38:01Z",
+    "version":1,
+    "changeset":26303846,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7398186,30.3341505 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3162314193",
+    "type":"node",
+    "id":3162314193,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-02T03:49:12Z",
+    "version":1,
+    "changeset":26495612,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7258802,30.3746585 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3163670654",
+    "type":"node",
+    "id":3163670654,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-02T21:11:54Z",
+    "version":1,
+    "changeset":26513361,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7484973,30.3940266 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3163997620",
+    "type":"node",
+    "id":3163997620,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-03T03:44:15Z",
+    "version":1,
+    "changeset":26517788,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7494705,30.3996316 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3163997635",
+    "type":"node",
+    "id":3163997635,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-03T03:44:15Z",
+    "version":1,
+    "changeset":26517788,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7401038,30.333727 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3170408406",
+    "type":"node",
+    "id":3170408406,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-06T14:37:16Z",
+    "version":1,
+    "changeset":26594049,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7441461,30.2752254 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3173020279",
+    "type":"node",
+    "id":3173020279,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-07T19:51:26Z",
+    "version":1,
+    "changeset":26623822,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7717433,30.2480358 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3179439127",
+    "type":"node",
+    "id":3179439127,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-10T19:03:25Z",
+    "version":1,
+    "changeset":26694998,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7670027,30.2228161 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152055",
+    "type":"node",
+    "id":3197152055,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:32Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7664151,30.2228283 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152057",
+    "type":"node",
+    "id":3197152057,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:32Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7662584,30.2230829 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152272",
+    "type":"node",
+    "id":3197152272,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:32Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7667928,30.2231566 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152274",
+    "type":"node",
+    "id":3197152274,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:32Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7661143,30.2233113 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152285",
+    "type":"node",
+    "id":3197152285,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:32Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7666834,30.2233245 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152286",
+    "type":"node",
+    "id":3197152286,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:32Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7665871,30.2234951 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152296",
+    "type":"node",
+    "id":3197152296,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:33Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7662756,30.2234998 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152298",
+    "type":"node",
+    "id":3197152298,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:33Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7664403,30.2236218 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3197152308",
+    "type":"node",
+    "id":3197152308,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-20T15:11:33Z",
+    "version":1,
+    "changeset":26909877,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7529112,30.2394142 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3205074249",
+    "type":"node",
+    "id":3205074249,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-25T19:07:47Z",
+    "version":1,
+    "changeset":27028797,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7498695,30.2486191 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3205079275",
+    "type":"node",
+    "id":3205079275,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-25T19:07:48Z",
+    "version":1,
+    "changeset":27028797,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7369921,30.3043776 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3205332685",
+    "type":"node",
+    "id":3205332685,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-25T21:51:34Z",
+    "version":1,
+    "changeset":27032561,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.732255,30.314799 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3205332710",
+    "type":"node",
+    "id":3205332710,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-11-25T21:51:35Z",
+    "version":1,
+    "changeset":27032561,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7030273,30.4008266 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3214784773",
+    "type":"node",
+    "id":3214784773,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-01T20:47:01Z",
+    "version":1,
+    "changeset":27165067,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7030183,30.4008372 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3214784774",
+    "type":"node",
+    "id":3214784774,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-01T20:47:01Z",
+    "version":1,
+    "changeset":27165067,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7190002,30.3379395 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3216031093",
+    "type":"node",
+    "id":3216031093,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-02T16:54:22Z",
+    "version":1,
+    "changeset":27183932,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7325388,30.3145762 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3216081566",
+    "type":"node",
+    "id":3216081566,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-02T17:23:37Z",
+    "version":1,
+    "changeset":27184499,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7377662,30.3035835 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3216142603",
+    "type":"node",
+    "id":3216142603,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-02T18:15:22Z",
+    "version":1,
+    "changeset":27185381,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7487787,30.2588516 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3216429948",
+    "type":"node",
+    "id":3216429948,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-02T20:14:06Z",
+    "version":1,
+    "changeset":27187380,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7543846,30.2380498 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3217451782",
+    "type":"node",
+    "id":3217451782,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-03T14:24:10Z",
+    "version":1,
+    "changeset":27200974,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7489897,30.2686973 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3225934846",
+    "type":"node",
+    "id":3225934846,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-09T02:44:25Z",
+    "version":1,
+    "changeset":27347633,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7396086,30.2652354 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3229761205",
+    "type":"node",
+    "id":3229761205,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-12-13T22:59:31Z",
+    "version":2,
+    "changeset":54610123,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7396326,30.2652426 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3229761207",
+    "type":"node",
+    "id":3229761207,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-11T14:14:19Z",
+    "version":1,
+    "changeset":27399217,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7398154,30.2652945 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3229761212",
+    "type":"node",
+    "id":3229761212,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-12-13T22:59:32Z",
+    "version":2,
+    "changeset":54610123,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7398395,30.2653018 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3229761213",
+    "type":"node",
+    "id":3229761213,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-11T14:14:19Z",
+    "version":1,
+    "changeset":27399217,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7621313,30.2481511 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3239657413",
+    "type":"node",
+    "id":3239657413,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2014-12-17T14:43:48Z",
+    "version":1,
+    "changeset":27531841,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7192857,30.3382203 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3324002493",
+    "type":"node",
+    "id":3324002493,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-01-31T19:26:38Z",
+    "version":1,
+    "changeset":28530898,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7387726,30.2793042 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676716314",
+    "type":"node",
+    "id":3676716314,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:09:18Z",
+    "version":1,
+    "changeset":33035734,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738854,30.2790883 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676716315",
+    "type":"node",
+    "id":3676716315,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:09:18Z",
+    "version":1,
+    "changeset":33035734,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7393336,30.2790381 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676716316",
+    "type":"node",
+    "id":3676716316,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:09:18Z",
+    "version":1,
+    "changeset":33035734,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7392275,30.279638 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676716317",
+    "type":"node",
+    "id":3676716317,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:09:18Z",
+    "version":1,
+    "changeset":33035734,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7380177,30.2814136 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676723888",
+    "type":"node",
+    "id":3676723888,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:15:54Z",
+    "version":1,
+    "changeset":33035848,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7363655,30.2849689 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676723889",
+    "type":"node",
+    "id":3676723889,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:15:54Z",
+    "version":1,
+    "changeset":33035848,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7364181,30.2886744 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676723890",
+    "type":"node",
+    "id":3676723890,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-10T22:48:39Z",
+    "version":2,
+    "changeset":43547217,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7370012,30.2889213 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3676723891",
+    "type":"node",
+    "id":3676723891,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2015-08-01T19:15:54Z",
+    "version":1,
+    "changeset":33035848,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7367352,30.2888313 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3952968286",
+    "type":"node",
+    "id":3952968286,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-01-18T03:36:10Z",
+    "version":1,
+    "changeset":36648196,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7816489,30.4316198 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4292593729",
+    "type":"node",
+    "id":4292593729,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-07-09T07:29:48Z",
+    "version":1,
+    "changeset":40606879,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.723065,30.400623 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4294415029",
+    "type":"node",
+    "id":4294415029,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-07-10T12:13:50Z",
+    "version":1,
+    "changeset":40629344,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7445368,30.264091 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4304662811",
+    "type":"node",
+    "id":4304662811,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-07-15T15:10:29Z",
+    "version":1,
+    "changeset":40762584,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7447084,30.2638298 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4304662812",
+    "type":"node",
+    "id":4304662812,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-07-15T15:10:29Z",
+    "version":1,
+    "changeset":40762584,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7435726,30.2640942 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4304672634",
+    "type":"node",
+    "id":4304672634,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-07-15T15:17:59Z",
+    "version":1,
+    "changeset":40762716,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750445,30.288102 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4372697908",
+    "type":"node",
+    "id":4372697908,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-08-28T22:52:14Z",
+    "version":1,
+    "changeset":41765903,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7356876,30.289917 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4490850789",
+    "type":"node",
+    "id":4490850789,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-09T15:28:45Z",
+    "version":1,
+    "changeset":43514392,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7389207,30.2898684 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4490998189",
+    "type":"node",
+    "id":4490998189,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-09T17:04:58Z",
+    "version":1,
+    "changeset":43516158,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7313834,30.2890696 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4491033183",
+    "type":"node",
+    "id":4491033183,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-09T17:27:39Z",
+    "version":1,
+    "changeset":43516602,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7334182,30.285586 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4493392151",
+    "type":"node",
+    "id":4493392151,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-10T23:18:22Z",
+    "version":1,
+    "changeset":43547647,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7347315,30.2911898 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4495591735",
+    "type":"node",
+    "id":4495591735,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T00:11:37Z",
+    "version":1,
+    "changeset":43572990,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7333925,30.2869605 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496338938",
+    "type":"node",
+    "id":4496338938,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T07:40:26Z",
+    "version":1,
+    "changeset":43576151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7334126,30.2863884 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496338939",
+    "type":"node",
+    "id":4496338939,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T07:40:26Z",
+    "version":1,
+    "changeset":43576151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7338475,30.2835034 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496338942",
+    "type":"node",
+    "id":4496338942,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T07:40:26Z",
+    "version":1,
+    "changeset":43576151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7338468,30.2834159 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496338943",
+    "type":"node",
+    "id":4496338943,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T07:40:26Z",
+    "version":1,
+    "changeset":43576151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7413445,30.2857371 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4496346021",
+    "type":"node",
+    "id":4496346021,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T07:54:15Z",
+    "version":1,
+    "changeset":43576292,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7329243,30.3579715 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4497642218",
+    "type":"node",
+    "id":4497642218,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-12T23:46:52Z",
+    "version":1,
+    "changeset":43592213,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7335909,30.3007436 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4499112796",
+    "type":"node",
+    "id":4499112796,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-13T20:49:00Z",
+    "version":1,
+    "changeset":43615385,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741675,30.2954028 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4499377568",
+    "type":"node",
+    "id":4499377568,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-14T00:12:07Z",
+    "version":1,
+    "changeset":43619095,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7375797,30.287736 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4502672675",
+    "type":"node",
+    "id":4502672675,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-15T16:57:38Z",
+    "version":1,
+    "changeset":43675411,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7365506,30.2874002 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4502672676",
+    "type":"node",
+    "id":4502672676,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-15T16:57:38Z",
+    "version":1,
+    "changeset":43675411,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7355342,30.2873609 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4502672677",
+    "type":"node",
+    "id":4502672677,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-15T16:57:38Z",
+    "version":1,
+    "changeset":43675411,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7076367,30.2670186 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4503239703",
+    "type":"node",
+    "id":4503239703,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-15T22:43:17Z",
+    "version":1,
+    "changeset":43683190,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7073541,30.2666534 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4503239707",
+    "type":"node",
+    "id":4503239707,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-15T22:43:17Z",
+    "version":1,
+    "changeset":43683190,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7421685,30.2961163 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4512860379",
+    "type":"node",
+    "id":4512860379,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-20T22:37:46Z",
+    "version":1,
+    "changeset":43834013,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7266591,30.3048129 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4518000649",
+    "type":"node",
+    "id":4518000649,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-23T21:34:00Z",
+    "version":1,
+    "changeset":43906476,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7263596,30.3048785 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4518000650",
+    "type":"node",
+    "id":4518000650,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2016-11-23T21:34:00Z",
+    "version":1,
+    "changeset":43906476,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8721495,30.1857415 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4747353326",
+    "type":"node",
+    "id":4747353326,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-03-21T17:35:43Z",
+    "version":1,
+    "changeset":47046403,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7665969,30.2227837 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4760799983",
+    "type":"node",
+    "id":4760799983,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-03-28T22:24:15Z",
+    "version":1,
+    "changeset":47244195,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"CapMetro",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7960159,30.2361065 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4760806109",
+    "type":"node",
+    "id":4760806109,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-03-28T22:28:26Z",
+    "version":1,
+    "changeset":47244260,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7381381,30.4328408 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4953927981",
+    "type":"node",
+    "id":4953927981,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-07-06T03:47:29Z",
+    "version":1,
+    "changeset":50073338,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7373066,30.4316694 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4953927982",
+    "type":"node",
+    "id":4953927982,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-07-06T03:47:29Z",
+    "version":1,
+    "changeset":50073338,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7391065,30.2781691 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5058269722",
+    "type":"node",
+    "id":5058269722,
+    "amenity":"bicycle_parking",
+    "name":"",
+    "timestamp":"2017-08-25T13:49:54Z",
+    "version":1,
+    "changeset":51435238,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7760083,30.2831904 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/436637704",
+    "type":"node",
+    "id":436637704,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2009-07-07T22:43:08Z",
+    "version":1,
+    "changeset":1767071,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9193721,30.3108021 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/444672240",
+    "type":"node",
+    "id":444672240,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2015-04-15T14:38:24Z",
+    "version":2,
+    "changeset":30240249,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8894731,30.2986252 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/444672618",
+    "type":"node",
+    "id":444672618,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2009-07-21T04:44:05Z",
+    "version":1,
+    "changeset":1890935,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8380032,30.140174 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/477118070",
+    "type":"node",
+    "id":477118070,
+    "amenity":"parking",
+    "name":"McCoy's Building Supply Parking Lot",
+    "timestamp":"2009-08-30T04:03:01Z",
+    "version":1,
+    "changeset":2308381,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8375312,30.1395357 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/477127279",
+    "type":"node",
+    "id":477127279,
+    "amenity":"parking",
+    "name":"Manchaca Baptist Church Parking Lot",
+    "timestamp":"2009-08-30T04:25:03Z",
+    "version":1,
+    "changeset":2308381,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8480973,30.1830925 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/565517990",
+    "type":"node",
+    "id":565517990,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2009-11-16T17:25:11Z",
+    "version":1,
+    "changeset":3133822,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.848578,30.1835006 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/565520186",
+    "type":"node",
+    "id":565520186,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2009-11-16T17:31:56Z",
+    "version":1,
+    "changeset":3133822,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8484922,30.1842796 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/565520188",
+    "type":"node",
+    "id":565520188,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2009-11-16T17:31:56Z",
+    "version":1,
+    "changeset":3133822,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8477626,30.1851328 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/565520192",
+    "type":"node",
+    "id":565520192,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2009-11-16T17:31:57Z",
+    "version":1,
+    "changeset":3133822,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7281092,30.4079967 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/694295415",
+    "type":"node",
+    "id":694295415,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-04-12T14:48:17Z",
+    "version":1,
+    "changeset":4405054,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7059613,30.4134076 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/728497549",
+    "type":"node",
+    "id":728497549,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-08-11T12:21:43Z",
+    "version":2,
+    "changeset":5462269,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.706912,30.4126838 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/728497550",
+    "type":"node",
+    "id":728497550,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-05-10T13:36:24Z",
+    "version":1,
+    "changeset":4659365,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7077917,30.4116892 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/728497551",
+    "type":"node",
+    "id":728497551,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-05-10T13:36:24Z",
+    "version":1,
+    "changeset":4659365,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7082155,30.4109027 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/728497552",
+    "type":"node",
+    "id":728497552,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-05-10T13:36:24Z",
+    "version":1,
+    "changeset":4659365,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7239815,30.2931069 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/826577048",
+    "type":"node",
+    "id":826577048,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-07-20T19:04:06Z",
+    "version":1,
+    "changeset":5273340,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7236971,30.2941398 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/826577053",
+    "type":"node",
+    "id":826577053,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-07-20T19:04:06Z",
+    "version":1,
+    "changeset":5273340,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7067986,30.409798 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/854524500",
+    "type":"node",
+    "id":854524500,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2010-08-11T12:21:44Z",
+    "version":1,
+    "changeset":5462269,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.727034,30.3936665 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1226387170",
+    "type":"node",
+    "id":1226387170,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2011-03-31T05:07:15Z",
+    "version":1,
+    "changeset":7722894,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7574901,30.4487448 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1769269228",
+    "type":"node",
+    "id":1769269228,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2012-05-29T08:37:56Z",
+    "version":1,
+    "changeset":11735229,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6794164,30.4497649 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792231931",
+    "type":"node",
+    "id":1792231931,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2012-06-17T19:02:46Z",
+    "version":1,
+    "changeset":11929032,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.698785,30.4038121 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792251922",
+    "type":"node",
+    "id":1792251922,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2012-06-17T19:20:14Z",
+    "version":1,
+    "changeset":11929358,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6906662,30.4140712 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1809128753",
+    "type":"node",
+    "id":1809128753,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2012-07-01T18:08:12Z",
+    "version":1,
+    "changeset":12079164,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6774133,30.5083127 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1937242614",
+    "type":"node",
+    "id":1937242614,
+    "amenity":"parking",
+    "name":"Downtown Parking Garage",
+    "timestamp":"2013-05-17T19:40:42Z",
+    "version":2,
+    "changeset":16172090,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"City of Round Rock",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6816847,30.5063452 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1938254669",
+    "type":"node",
+    "id":1938254669,
+    "amenity":"parking",
+    "name":"Baca Center Parking Garage",
+    "timestamp":"2013-05-17T19:45:39Z",
+    "version":2,
+    "changeset":16172154,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"City of Round Rock",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.681003,30.5070774 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2153242500",
+    "type":"node",
+    "id":2153242500,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2013-05-17T19:45:16Z",
+    "version":2,
+    "changeset":16172151,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8257559,30.1747374 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637321852",
+    "type":"node",
+    "id":2637321852,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2014-01-25T20:57:43Z",
+    "version":1,
+    "changeset":20200438,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8091618,30.244574 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2668093927",
+    "type":"node",
+    "id":2668093927,
+    "amenity":"parking",
+    "name":"South Barton Creek Greenbelt Parking",
+    "timestamp":"2014-02-12T04:31:02Z",
+    "version":1,
+    "changeset":20515372,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6084709,30.2551007 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2724718787",
+    "type":"node",
+    "id":2724718787,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2014-03-18T04:37:22Z",
+    "version":1,
+    "changeset":21167408,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8136374,30.2743112 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3156231503",
+    "type":"node",
+    "id":3156231503,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2014-10-29T14:09:23Z",
+    "version":1,
+    "changeset":26412626,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.880663,30.397335 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3649331926",
+    "type":"node",
+    "id":3649331926,
+    "amenity":"parking",
+    "name":"Tom Hughes Park",
+    "timestamp":"2015-07-13T18:01:30Z",
+    "version":1,
+    "changeset":32609266,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.786606,30.2632066 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4726023534",
+    "type":"node",
+    "id":4726023534,
+    "amenity":"parking",
+    "name":"Three Barton Skyway Parking Garage",
+    "timestamp":"2017-03-09T13:50:15Z",
+    "version":1,
+    "changeset":46710241,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7467699,30.2172463 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5294778716",
+    "type":"node",
+    "id":5294778716,
+    "amenity":"parking",
+    "name":"",
+    "timestamp":"2017-12-20T00:37:32Z",
+    "version":1,
+    "changeset":54774322,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7236372,30.404732 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1235364631",
+    "type":"node",
+    "id":1235364631,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2014-10-28T23:49:58Z",
+    "version":6,
+    "changeset":26402551,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7173214,30.4057115 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1250747815",
+    "type":"node",
+    "id":1250747815,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-02-11T01:43:05Z",
+    "version":4,
+    "changeset":37138030,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.717794,30.4067396 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1250747858",
+    "type":"node",
+    "id":1250747858,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-02-11T01:43:05Z",
+    "version":4,
+    "changeset":37138030,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7176064,30.405941 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1250747889",
+    "type":"node",
+    "id":1250747889,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-02-11T01:43:05Z",
+    "version":4,
+    "changeset":37138030,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7249828,30.4022668 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1253013408",
+    "type":"node",
+    "id":1253013408,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-06T22:06:11Z",
+    "version":2,
+    "changeset":43452951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7244242,30.4024154 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1253013472",
+    "type":"node",
+    "id":1253013472,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-06T22:06:11Z",
+    "version":2,
+    "changeset":43452951,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7238739,30.4036709 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1253013565",
+    "type":"node",
+    "id":1253013565,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-02-11T01:43:05Z",
+    "version":4,
+    "changeset":37138030,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7243129,30.400883 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2536058151",
+    "type":"node",
+    "id":2536058151,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2017-01-27T21:32:37Z",
+    "version":3,
+    "changeset":45575484,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7216225,30.4000854 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3153602582",
+    "type":"node",
+    "id":3153602582,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:40Z",
+    "version":2,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7225679,30.4002464 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3153602583",
+    "type":"node",
+    "id":3153602583,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:38Z",
+    "version":2,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7199888,30.4060104 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3155435330",
+    "type":"node",
+    "id":3155435330,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2017-07-17T18:52:41Z",
+    "version":3,
+    "changeset":50359803,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.72025,30.4067468 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3155435344",
+    "type":"node",
+    "id":3155435344,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-01-08T15:57:26Z",
+    "version":2,
+    "changeset":36447630,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7375489,30.2732158 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3953925715",
+    "type":"node",
+    "id":3953925715,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-01-18T17:51:20Z",
+    "version":1,
+    "changeset":36662972,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7376974,30.2739167 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3953925716",
+    "type":"node",
+    "id":3953925716,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-01-18T17:51:20Z",
+    "version":1,
+    "changeset":36662972,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7373077,30.2741198 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3953925718",
+    "type":"node",
+    "id":3953925718,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-01-18T17:51:20Z",
+    "version":1,
+    "changeset":36662972,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7229923,30.4039399 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662544",
+    "type":"node",
+    "id":4484662544,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:30Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7195714,30.4034068 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662579",
+    "type":"node",
+    "id":4484662579,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:31Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7222242,30.4047667 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662912",
+    "type":"node",
+    "id":4484662912,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:31Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7227386,30.4045829 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484662923",
+    "type":"node",
+    "id":4484662923,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:32Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7223053,30.4039348 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484663016",
+    "type":"node",
+    "id":4484663016,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:33Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7224064,30.4004302 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484663020",
+    "type":"node",
+    "id":4484663020,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:34Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7199982,30.4047836 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484663063",
+    "type":"node",
+    "id":4484663063,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:34Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7228833,30.4022567 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4484663066",
+    "type":"node",
+    "id":4484663066,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-05T23:30:34Z",
+    "version":1,
+    "changeset":43432554,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7502106,30.2595655 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4492546504",
+    "type":"node",
+    "id":4492546504,
+    "amenity":"parking_entrance",
+    "name":"",
+    "timestamp":"2016-11-10T14:56:09Z",
+    "version":1,
+    "changeset":43537011,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}

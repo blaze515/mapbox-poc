@@ -1,0 +1,5718 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7139776,30.2716654 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2933557259",
+    "type":"node",
+    "id":2933557259,
+    "amenity":"charging_station",
+    "name":"Charge Point Charging Station",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Charge Point",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7139788,30.2716895 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2933557260",
+    "type":"node",
+    "id":2933557260,
+    "amenity":"charging_station",
+    "name":"Charge Point Charging Station",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Charge Point",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7513066,30.3339618 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3712026248",
+    "type":"node",
+    "id":3712026248,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7513789,30.3339707 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3712026249",
+    "type":"node",
+    "id":3712026249,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7718826,30.2644837 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3712041721",
+    "type":"node",
+    "id":3712041721,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7718582,30.2644885 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3712041722",
+    "type":"node",
+    "id":3712041722,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7747526,30.2664702 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3712042635",
+    "type":"node",
+    "id":3712042635,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7747446,30.2665106 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3712042636",
+    "type":"node",
+    "id":3712042636,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-08-27T14:23:19Z",
+    "version":2,
+    "changeset":33622474,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8549298,30.2180385 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3907587316",
+    "type":"node",
+    "id":3907587316,
+    "amenity":"charging_station",
+    "name":"2 stations",
+    "timestamp":"2015-12-24T04:28:02Z",
+    "version":1,
+    "changeset":36138503,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7534364,30.2597184 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3911989119",
+    "type":"node",
+    "id":3911989119,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T05:39:58Z",
+    "version":1,
+    "changeset":36188671,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7692775,30.2650182 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3911998364",
+    "type":"node",
+    "id":3911998364,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T05:37:58Z",
+    "version":1,
+    "changeset":36188657,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7806715,30.2646898 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3911998426",
+    "type":"node",
+    "id":3911998426,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T05:37:59Z",
+    "version":1,
+    "changeset":36188657,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7740762,30.2619309 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3911998427",
+    "type":"node",
+    "id":3911998427,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T05:37:59Z",
+    "version":1,
+    "changeset":36188657,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8000059,30.2315268 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913294344",
+    "type":"node",
+    "id":3913294344,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:26:52Z",
+    "version":1,
+    "changeset":36205191,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8109899,30.2281221 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913294350",
+    "type":"node",
+    "id":3913294350,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:26:52Z",
+    "version":1,
+    "changeset":36205191,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75208,30.2584376 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913317463",
+    "type":"node",
+    "id":3913317463,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:12:20Z",
+    "version":1,
+    "changeset":36204906,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7493932,30.2575887 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913317464",
+    "type":"node",
+    "id":3913317464,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:12:20Z",
+    "version":1,
+    "changeset":36204906,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7516891,30.2565271 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913319414",
+    "type":"node",
+    "id":3913319414,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:15:29Z",
+    "version":1,
+    "changeset":36204971,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.747569,30.2602423 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913319415",
+    "type":"node",
+    "id":3913319415,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:15:29Z",
+    "version":1,
+    "changeset":36204971,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7549186,30.2389244 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913321632",
+    "type":"node",
+    "id":3913321632,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:21:23Z",
+    "version":1,
+    "changeset":36205081,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7470791,30.2520621 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913322774",
+    "type":"node",
+    "id":3913322774,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:20:08Z",
+    "version":1,
+    "changeset":36205056,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8202555,30.235051 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913334409",
+    "type":"node",
+    "id":3913334409,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:32:30Z",
+    "version":1,
+    "changeset":36205281,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8223048,30.2324419 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913334410",
+    "type":"node",
+    "id":3913334410,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:32:30Z",
+    "version":1,
+    "changeset":36205281,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8400602,30.2203091 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913334411",
+    "type":"node",
+    "id":3913334411,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:32:30Z",
+    "version":1,
+    "changeset":36205281,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8417071,30.2194339 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913334412",
+    "type":"node",
+    "id":3913334412,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:32:30Z",
+    "version":1,
+    "changeset":36205281,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8561397,30.1892639 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913334413",
+    "type":"node",
+    "id":3913334413,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2015-12-27T20:32:30Z",
+    "version":1,
+    "changeset":36205281,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.841397,30.2201505 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4161965545",
+    "type":"node",
+    "id":4161965545,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2016-05-02T19:30:55Z",
+    "version":1,
+    "changeset":39050380,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7980425,30.2322856 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4168517610",
+    "type":"node",
+    "id":4168517610,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2016-05-06T03:56:44Z",
+    "version":1,
+    "changeset":39133980,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.754131,30.2668738 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4202227489",
+    "type":"node",
+    "id":4202227489,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2016-05-23T13:41:59Z",
+    "version":1,
+    "changeset":39510026,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7542009,30.2669215 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4202227490",
+    "type":"node",
+    "id":4202227490,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2016-05-23T13:43:55Z",
+    "version":2,
+    "changeset":39510067,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"811 1/2",
+    "addr:postcode":"",
+    "street":"Electric Drive",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7407812,30.308474 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4712050947",
+    "type":"node",
+    "id":4712050947,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2017-03-01T17:46:04Z",
+    "version":1,
+    "changeset":46500082,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6990043,30.3025201 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4765294132",
+    "type":"node",
+    "id":4765294132,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2017-03-30T22:06:21Z",
+    "version":1,
+    "changeset":47307842,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6987203,30.3029898 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4765294133",
+    "type":"node",
+    "id":4765294133,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2017-03-30T22:06:21Z",
+    "version":1,
+    "changeset":47307842,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Austin Energy",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8584085,30.2906242 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4776831610",
+    "type":"node",
+    "id":4776831610,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2017-04-08T12:06:02Z",
+    "version":2,
+    "changeset":47566125,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Omni Barton Creek Resort & Spa",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8584086,30.290612 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4776831611",
+    "type":"node",
+    "id":4776831611,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2017-04-05T13:07:00Z",
+    "version":1,
+    "changeset":47475902,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Omni Barton Creek Resort & Spa",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8584081,30.2905681 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4776831612",
+    "type":"node",
+    "id":4776831612,
+    "amenity":"charging_station",
+    "name":"",
+    "timestamp":"2017-04-05T13:07:00Z",
+    "version":1,
+    "changeset":47475902,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Omni Barton Creek Resort & Spa",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7417023,30.4435595 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/340469022",
+    "type":"node",
+    "id":340469022,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2014-04-10T03:02:34Z",
+    "version":3,
+    "changeset":21599243,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7757719,30.4437782 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/357163072",
+    "type":"node",
+    "id":357163072,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-03-08T11:29:46Z",
+    "version":1,
+    "changeset":755546,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6938947,30.322392 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/358532219",
+    "type":"node",
+    "id":358532219,
+    "amenity":"fuel",
+    "name":"Exxon Tigermart",
+    "timestamp":"2009-03-12T04:46:49Z",
+    "version":3,
+    "changeset":793420,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7631321,30.2526429 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/385449463",
+    "type":"node",
+    "id":385449463,
+    "amenity":"fuel",
+    "name":"Mobil",
+    "timestamp":"2016-12-29T01:24:45Z",
+    "version":3,
+    "changeset":44744853,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7723502,30.2784386 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/436633130",
+    "type":"node",
+    "id":436633130,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-07-07T22:15:09Z",
+    "version":1,
+    "changeset":1766894,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7731416,30.2781502 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/436638601",
+    "type":"node",
+    "id":436638601,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-07-07T22:47:45Z",
+    "version":1,
+    "changeset":1767096,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7163365,30.4209097 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/437331347",
+    "type":"node",
+    "id":437331347,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-07-08T16:01:04Z",
+    "version":1,
+    "changeset":1773295,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7424494,30.3087776 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530952192",
+    "type":"node",
+    "id":530952192,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-10-14T22:27:46Z",
+    "version":1,
+    "changeset":2850434,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741428,30.3150759 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530952794",
+    "type":"node",
+    "id":530952794,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-10-14T22:28:21Z",
+    "version":1,
+    "changeset":2850434,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7561549,30.337142 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530954141",
+    "type":"node",
+    "id":530954141,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2013-06-19T19:28:12Z",
+    "version":2,
+    "changeset":16621165,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Shell",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7567729,30.337468 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530954317",
+    "type":"node",
+    "id":530954317,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-10-14T22:30:16Z",
+    "version":1,
+    "changeset":2850447,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.758335,30.3361568 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530954513",
+    "type":"node",
+    "id":530954513,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-10-14T22:30:28Z",
+    "version":1,
+    "changeset":2850447,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7586784,30.3381865 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530954738",
+    "type":"node",
+    "id":530954738,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-10-14T22:30:42Z",
+    "version":1,
+    "changeset":2850447,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738159,30.3593074 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/530963345",
+    "type":"node",
+    "id":530963345,
+    "amenity":"fuel",
+    "name":"Chevron Gas",
+    "timestamp":"2014-10-15T08:24:35Z",
+    "version":3,
+    "changeset":26089694,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"2909",
+    "addr:postcode":"78757",
+    "street":"West Anderson Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Tetco",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7422939,30.2947933 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/534447808",
+    "type":"node",
+    "id":534447808,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2009-10-17T21:44:08Z",
+    "version":1,
+    "changeset":2878222,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7452894,30.3015074 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/534450403",
+    "type":"node",
+    "id":534450403,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-28T22:15:28Z",
+    "version":2,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.774562,30.5087316 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/588029480",
+    "type":"node",
+    "id":588029480,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2009-12-12T20:17:15Z",
+    "version":1,
+    "changeset":3358392,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7485491,30.4003501 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/599493169",
+    "type":"node",
+    "id":599493169,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2013-02-18T21:25:48Z",
+    "version":5,
+    "changeset":15082545,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8062153,30.2032588 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/668901084",
+    "type":"node",
+    "id":668901084,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2016-12-30T04:15:12Z",
+    "version":4,
+    "changeset":44774749,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"1950",
+    "addr:postcode":"",
+    "street":"West William Cannon Drive",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7910877,30.4481065 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/858687847",
+    "type":"node",
+    "id":858687847,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2018-01-30T09:30:10Z",
+    "version":2,
+    "changeset":55887226,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"13466",
+    "addr:postcode":"",
+    "street":"Research Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7857819,30.4504537 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/858687930",
+    "type":"node",
+    "id":858687930,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2010-08-13T15:26:23Z",
+    "version":1,
+    "changeset":5482981,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8032972,30.4657446 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/859708742",
+    "type":"node",
+    "id":859708742,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2010-08-14T06:44:56Z",
+    "version":1,
+    "changeset":5487730,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7902718,30.4697211 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/859708780",
+    "type":"node",
+    "id":859708780,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2010-12-27T06:51:48Z",
+    "version":2,
+    "changeset":6774558,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7938403,30.4481621 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/862103514",
+    "type":"node",
+    "id":862103514,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2010-08-15T22:40:31Z",
+    "version":1,
+    "changeset":5505160,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7170285,30.3600188 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/862104465",
+    "type":"node",
+    "id":862104465,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2010-08-15T22:40:58Z",
+    "version":1,
+    "changeset":5505160,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7161171,30.3601793 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/862104476",
+    "type":"node",
+    "id":862104476,
+    "amenity":"fuel",
+    "name":"Conoco",
+    "timestamp":"2010-08-15T22:40:59Z",
+    "version":1,
+    "changeset":5505160,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7481882,30.4164846 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/863464444",
+    "type":"node",
+    "id":863464444,
+    "amenity":"fuel",
+    "name":"7-Eleven",
+    "timestamp":"2015-01-27T17:41:33Z",
+    "version":4,
+    "changeset":28447236,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7462082,30.4027988 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/864883557",
+    "type":"node",
+    "id":864883557,
+    "amenity":"fuel",
+    "name":"Great Hills Shell",
+    "timestamp":"2010-08-17T16:09:54Z",
+    "version":1,
+    "changeset":5519067,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6201344,30.4397663 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/879234543",
+    "type":"node",
+    "id":879234543,
+    "amenity":"fuel",
+    "name":"Shell Gas Station",
+    "timestamp":"2010-08-28T02:26:24Z",
+    "version":2,
+    "changeset":5612718,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7926931,30.4613137 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/879883511",
+    "type":"node",
+    "id":879883511,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2010-08-26T01:19:30Z",
+    "version":1,
+    "changeset":5595305,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.633169,30.414195 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/906634721",
+    "type":"node",
+    "id":906634721,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2010-09-11T08:37:31Z",
+    "version":1,
+    "changeset":5747755,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7594581,30.2418674 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919330532",
+    "type":"node",
+    "id":919330532,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2015-02-04T15:45:08Z",
+    "version":3,
+    "changeset":28613088,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7421705,30.2342716 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919331378",
+    "type":"node",
+    "id":919331378,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2015-02-04T16:06:13Z",
+    "version":2,
+    "changeset":28613427,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7642732,30.2436622 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919339807",
+    "type":"node",
+    "id":919339807,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2010-09-20T05:57:20Z",
+    "version":1,
+    "changeset":5826051,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7629748,30.2233882 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919364345",
+    "type":"node",
+    "id":919364345,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2014-06-11T00:25:04Z",
+    "version":2,
+    "changeset":22861284,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7648309,30.2224982 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919364594",
+    "type":"node",
+    "id":919364594,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2014-06-11T00:21:00Z",
+    "version":2,
+    "changeset":22861259,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7700934,30.2261832 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919369450",
+    "type":"node",
+    "id":919369450,
+    "amenity":"fuel",
+    "name":"7 Eleven Gas",
+    "timestamp":"2014-06-11T00:16:23Z",
+    "version":2,
+    "changeset":22861233,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7528039,30.212365 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919378095",
+    "type":"node",
+    "id":919378095,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2015-02-04T15:32:03Z",
+    "version":2,
+    "changeset":28612878,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.763762,30.223951 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/919402417",
+    "type":"node",
+    "id":919402417,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2014-06-11T00:23:10Z",
+    "version":2,
+    "changeset":22861269,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8144398,30.4630994 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1067213551",
+    "type":"node",
+    "id":1067213551,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2012-12-08T22:30:45Z",
+    "version":3,
+    "changeset":14206693,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8206221,30.4609108 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1069301830",
+    "type":"node",
+    "id":1069301830,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2010-12-28T15:42:17Z",
+    "version":1,
+    "changeset":6788196,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7646006,30.4773715 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1071892197",
+    "type":"node",
+    "id":1071892197,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2010-12-30T02:04:03Z",
+    "version":1,
+    "changeset":6805388,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.725858,30.3048085 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1236793258",
+    "type":"node",
+    "id":1236793258,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2011-04-08T01:07:53Z",
+    "version":1,
+    "changeset":7800041,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6675625,30.4564922 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475511892",
+    "type":"node",
+    "id":1475511892,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2011-10-22T00:28:48Z",
+    "version":1,
+    "changeset":9620812,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.66504,30.4553463 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475511894",
+    "type":"node",
+    "id":1475511894,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2011-10-22T00:28:49Z",
+    "version":1,
+    "changeset":9620812,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6700137,30.4404144 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475511899",
+    "type":"node",
+    "id":1475511899,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-22T00:28:49Z",
+    "version":1,
+    "changeset":9620812,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6721796,30.4250609 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475511902",
+    "type":"node",
+    "id":1475511902,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2011-10-22T00:28:49Z",
+    "version":1,
+    "changeset":9620812,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6707724,30.4246471 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475511903",
+    "type":"node",
+    "id":1475511903,
+    "amenity":"fuel",
+    "name":"Citgo",
+    "timestamp":"2011-10-22T00:28:49Z",
+    "version":1,
+    "changeset":9620812,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6709929,30.4237189 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1475511904",
+    "type":"node",
+    "id":1475511904,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-22T00:28:50Z",
+    "version":1,
+    "changeset":9620812,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6740054,30.4060934 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477370127",
+    "type":"node",
+    "id":1477370127,
+    "amenity":"fuel",
+    "name":"H-E-B Gas",
+    "timestamp":"2017-05-04T01:33:18Z",
+    "version":5,
+    "changeset":48379685,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6755728,30.3764544 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477370200",
+    "type":"node",
+    "id":1477370200,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2011-10-23T00:45:42Z",
+    "version":1,
+    "changeset":9628921,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687045,30.3581602 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477389966",
+    "type":"node",
+    "id":1477389966,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2011-10-23T01:02:41Z",
+    "version":1,
+    "changeset":9628957,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6891559,30.3582333 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477389975",
+    "type":"node",
+    "id":1477389975,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2011-10-23T01:02:42Z",
+    "version":1,
+    "changeset":9628957,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6886737,30.359026 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477389976",
+    "type":"node",
+    "id":1477389976,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-23T01:02:42Z",
+    "version":1,
+    "changeset":9628957,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6904654,30.3597624 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428951",
+    "type":"node",
+    "id":1477428951,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2011-10-23T02:31:12Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6914101,30.3602347 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428952",
+    "type":"node",
+    "id":1477428952,
+    "amenity":"fuel",
+    "name":"Conoco",
+    "timestamp":"2011-10-23T02:31:12Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7047075,30.3333536 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428964",
+    "type":"node",
+    "id":1477428964,
+    "amenity":"fuel",
+    "name":"Conoco",
+    "timestamp":"2011-10-23T02:31:13Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7050333,30.3327913 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428965",
+    "type":"node",
+    "id":1477428965,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2011-10-23T02:31:13Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7012871,30.3359684 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428969",
+    "type":"node",
+    "id":1477428969,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-23T02:31:13Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7079782,30.3182934 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428971",
+    "type":"node",
+    "id":1477428971,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-23T02:31:14Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7066751,30.3186815 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428978",
+    "type":"node",
+    "id":1477428978,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2011-10-23T02:31:14Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7193471,30.2944218 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428984",
+    "type":"node",
+    "id":1477428984,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2011-10-23T02:31:15Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7198553,30.2954119 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428985",
+    "type":"node",
+    "id":1477428985,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-23T02:31:15Z",
+    "version":1,
+    "changeset":9629105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7344171,30.2644475 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1477428996",
+    "type":"node",
+    "id":1477428996,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2013-07-24T18:54:02Z",
+    "version":2,
+    "changeset":17079385,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7263411,30.3759961 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1479713176",
+    "type":"node",
+    "id":1479713176,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2011-10-25T00:38:25Z",
+    "version":1,
+    "changeset":9648550,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7153155,30.3301392 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1480646361",
+    "type":"node",
+    "id":1480646361,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-26T00:30:14Z",
+    "version":1,
+    "changeset":9656975,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7289884,30.3299172 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1480681441",
+    "type":"node",
+    "id":1480681441,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2011-10-26T02:02:45Z",
+    "version":1,
+    "changeset":9657088,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73132,30.33092 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1480681442",
+    "type":"node",
+    "id":1480681442,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-26T02:02:45Z",
+    "version":1,
+    "changeset":9657088,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.726767,30.3258326 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1480681444",
+    "type":"node",
+    "id":1480681444,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-26T02:02:45Z",
+    "version":1,
+    "changeset":9657088,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73721,30.2545513 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481364404",
+    "type":"node",
+    "id":1481364404,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2011-10-26T15:09:17Z",
+    "version":1,
+    "changeset":9661067,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7620977,30.2269931 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1481848680",
+    "type":"node",
+    "id":1481848680,
+    "amenity":"fuel",
+    "name":"Mobil",
+    "timestamp":"2016-12-29T01:10:38Z",
+    "version":2,
+    "changeset":44744685,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7522018,30.2747296 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483930984",
+    "type":"node",
+    "id":1483930984,
+    "amenity":"fuel",
+    "name":"11-Jul",
+    "timestamp":"2011-10-28T19:30:24Z",
+    "version":1,
+    "changeset":9679537,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7524435,30.2752498 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483930993",
+    "type":"node",
+    "id":1483930993,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2011-10-28T19:30:25Z",
+    "version":1,
+    "changeset":9679537,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7514959,30.277145 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1483931030",
+    "type":"node",
+    "id":1483931030,
+    "amenity":"fuel",
+    "name":"Conoco",
+    "timestamp":"2011-10-28T19:30:26Z",
+    "version":1,
+    "changeset":9679537,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7148333,30.3437298 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100619",
+    "type":"node",
+    "id":1484100619,
+    "amenity":"fuel",
+    "name":"Corner Store",
+    "timestamp":"2011-10-28T22:15:26Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.728965,30.3212445 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100631",
+    "type":"node",
+    "id":1484100631,
+    "amenity":"fuel",
+    "name":"Phillips 66",
+    "timestamp":"2011-10-28T22:15:27Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7305297,30.3188317 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100632",
+    "type":"node",
+    "id":1484100632,
+    "amenity":"fuel",
+    "name":"11-Jul",
+    "timestamp":"2011-10-28T22:15:27Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7435652,30.3041548 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484100636",
+    "type":"node",
+    "id":1484100636,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2011-10-28T22:15:28Z",
+    "version":1,
+    "changeset":9680701,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7153206,30.3087503 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484125178",
+    "type":"node",
+    "id":1484125178,
+    "amenity":"fuel",
+    "name":"Shamrock",
+    "timestamp":"2011-10-28T22:52:51Z",
+    "version":1,
+    "changeset":9680865,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7154407,30.3077757 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484125189",
+    "type":"node",
+    "id":1484125189,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-28T22:52:51Z",
+    "version":1,
+    "changeset":9680865,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7085908,30.3508346 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484203975",
+    "type":"node",
+    "id":1484203975,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2011-10-28T23:56:09Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7042034,30.3541419 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484203977",
+    "type":"node",
+    "id":1484203977,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2011-10-28T23:56:10Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.702657,30.355893 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484203983",
+    "type":"node",
+    "id":1484203983,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2011-10-28T23:56:10Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7003142,30.3581007 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484203987",
+    "type":"node",
+    "id":1484203987,
+    "amenity":"fuel",
+    "name":"11-Jul",
+    "timestamp":"2011-10-28T23:56:10Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6996515,30.3579589 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484203988",
+    "type":"node",
+    "id":1484203988,
+    "amenity":"fuel",
+    "name":"Food Mart",
+    "timestamp":"2011-10-28T23:56:10Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6963737,30.363181 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484203997",
+    "type":"node",
+    "id":1484203997,
+    "amenity":"fuel",
+    "name":"H-E-B Gas",
+    "timestamp":"2014-09-26T21:39:32Z",
+    "version":4,
+    "changeset":25695686,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.692279,30.3707566 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204030",
+    "type":"node",
+    "id":1484204030,
+    "amenity":"fuel",
+    "name":"11-Jul",
+    "timestamp":"2013-02-16T15:35:35Z",
+    "version":2,
+    "changeset":15052716,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6912275,30.3739964 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204032",
+    "type":"node",
+    "id":1484204032,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2011-10-28T23:56:12Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6894067,30.3772009 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204057",
+    "type":"node",
+    "id":1484204057,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2011-10-28T23:56:13Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6878512,30.3800463 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1484204058",
+    "type":"node",
+    "id":1484204058,
+    "amenity":"fuel",
+    "name":"Shamrock",
+    "timestamp":"2011-10-28T23:56:13Z",
+    "version":1,
+    "changeset":9681074,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5610449,30.3486184 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1485207377",
+    "type":"node",
+    "id":1485207377,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2014-03-23T15:55:07Z",
+    "version":2,
+    "changeset":21266889,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.757463,30.2445333 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1537305072",
+    "type":"node",
+    "id":1537305072,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2011-12-08T20:58:27Z",
+    "version":1,
+    "changeset":10068632,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6856335,30.4456164 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1733086673",
+    "type":"node",
+    "id":1733086673,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2012-04-27T15:41:09Z",
+    "version":1,
+    "changeset":11433466,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6749322,30.4354046 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1733124916",
+    "type":"node",
+    "id":1733124916,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2012-07-01T19:53:38Z",
+    "version":2,
+    "changeset":12079164,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6975439,30.4081193 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792251929",
+    "type":"node",
+    "id":1792251929,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2014-04-10T02:49:48Z",
+    "version":2,
+    "changeset":21599146,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6967251,30.407853 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792251932",
+    "type":"node",
+    "id":1792251932,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2014-04-10T02:49:34Z",
+    "version":2,
+    "changeset":21599143,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6606307,30.4564152 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1792531740",
+    "type":"node",
+    "id":1792531740,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2012-06-17T23:38:04Z",
+    "version":1,
+    "changeset":11931826,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8175227,30.4620895 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1840613691",
+    "type":"node",
+    "id":1840613691,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2012-07-27T22:09:51Z",
+    "version":1,
+    "changeset":12517343,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8777383,30.2367204 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1857557819",
+    "type":"node",
+    "id":1857557819,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2013-08-05T17:39:05Z",
+    "version":2,
+    "changeset":17230649,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8811581,30.2416793 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1857558318",
+    "type":"node",
+    "id":1857558318,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2013-08-05T17:39:49Z",
+    "version":2,
+    "changeset":17230649,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8880717,30.2295451 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1857893246",
+    "type":"node",
+    "id":1857893246,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2015-04-12T15:40:22Z",
+    "version":3,
+    "changeset":30165903,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9116295,30.2346898 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1857894319",
+    "type":"node",
+    "id":1857894319,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2013-08-05T17:14:52Z",
+    "version":2,
+    "changeset":17230649,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8297857,30.2140419 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1862500533",
+    "type":"node",
+    "id":1862500533,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2013-08-19T01:53:51Z",
+    "version":2,
+    "changeset":17404588,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8302203,30.2133512 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1862500873",
+    "type":"node",
+    "id":1862500873,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2013-08-19T01:54:14Z",
+    "version":2,
+    "changeset":17404588,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9240349,30.1941065 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1864607589",
+    "type":"node",
+    "id":1864607589,
+    "amenity":"fuel",
+    "name":"Shamrock",
+    "timestamp":"2013-08-19T01:42:01Z",
+    "version":2,
+    "changeset":17404588,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9252366,30.1929566 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/1864608286",
+    "type":"node",
+    "id":1864608286,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2015-12-25T18:14:03Z",
+    "version":3,
+    "changeset":36163245,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6856736,30.5001476 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2153246657",
+    "type":"node",
+    "id":2153246657,
+    "amenity":"fuel",
+    "name":"7-Eleven",
+    "timestamp":"2013-02-13T14:35:42Z",
+    "version":1,
+    "changeset":15018712,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6957105,30.4884575 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2153297362",
+    "type":"node",
+    "id":2153297362,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2013-02-13T15:16:49Z",
+    "version":1,
+    "changeset":15018712,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7466757,30.4141938 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2161738944",
+    "type":"node",
+    "id":2161738944,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2013-08-28T14:15:35Z",
+    "version":2,
+    "changeset":17555606,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Shell",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7457076,30.416539 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2161740894",
+    "type":"node",
+    "id":2161740894,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2013-02-18T21:30:38Z",
+    "version":1,
+    "changeset":15082545,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6890941,30.2181654 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2193106610",
+    "type":"node",
+    "id":2193106610,
+    "amenity":"fuel",
+    "name":"EXXON",
+    "timestamp":"2015-06-10T18:42:03Z",
+    "version":2,
+    "changeset":31879022,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"7715",
+    "addr:postcode":"78704",
+    "street":"East Ben White Boulevard",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7635783,30.3427145 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2352597259",
+    "type":"node",
+    "id":2352597259,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2015-12-16T19:17:54Z",
+    "version":2,
+    "changeset":35995747,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"Shell",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7532066,30.3538732 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2352597273",
+    "type":"node",
+    "id":2352597273,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2015-11-21T20:53:50Z",
+    "version":2,
+    "changeset":35497009,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8258273,30.1742901 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2400983708",
+    "type":"node",
+    "id":2400983708,
+    "amenity":"fuel",
+    "name":"H-E-B Gas",
+    "timestamp":"2017-08-17T16:18:10Z",
+    "version":5,
+    "changeset":51209983,
+    "geometry/type":"Point",
+    "addr:city":"Austin, TX",
+    "housenumber":"2110",
+    "addr:postcode":"78748",
+    "street":"West Slaughter Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.823473,30.173261 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2401629532",
+    "type":"node",
+    "id":2401629532,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2013-07-30T15:50:07Z",
+    "version":1,
+    "changeset":17154635,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9266104,30.4124069 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2428747988",
+    "type":"node",
+    "id":2428747988,
+    "amenity":"fuel",
+    "name":"Hudson Bend Grocery",
+    "timestamp":"2013-08-23T02:35:18Z",
+    "version":1,
+    "changeset":17464145,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.829919,30.2958404 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2452399373",
+    "type":"node",
+    "id":2452399373,
+    "amenity":"fuel",
+    "name":"Speedy Stop",
+    "timestamp":"2015-12-09T05:22:58Z",
+    "version":2,
+    "changeset":35839090,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8376102,30.2996283 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2452403696",
+    "type":"node",
+    "id":2452403696,
+    "amenity":"fuel",
+    "name":"Chevron Gas",
+    "timestamp":"2015-12-09T05:22:58Z",
+    "version":2,
+    "changeset":35839090,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8397774,30.3035292 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2452403983",
+    "type":"node",
+    "id":2452403983,
+    "amenity":"fuel",
+    "name":"Texaco Gas",
+    "timestamp":"2015-12-09T05:22:58Z",
+    "version":2,
+    "changeset":35839090,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7693058,30.190619 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2539993855",
+    "type":"node",
+    "id":2539993855,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2016-06-24T22:06:11Z",
+    "version":2,
+    "changeset":40272681,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8325137,30.4437848 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2581965355",
+    "type":"node",
+    "id":2581965355,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2013-12-16T03:30:13Z",
+    "version":1,
+    "changeset":19475599,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6948872,30.45029 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2598044744",
+    "type":"node",
+    "id":2598044744,
+    "amenity":"fuel",
+    "name":"Fasttrends Inc.",
+    "timestamp":"2013-12-28T09:43:35Z",
+    "version":1,
+    "changeset":19675847,
+    "geometry/type":"Point",
+    "addr:city":"Austin",
+    "housenumber":"14611",
+    "addr:postcode":"TX 78728",
+    "street":"North MoPac Expressway",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"+1 512 246 9800",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8404322,30.1794926 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637299321",
+    "type":"node",
+    "id":2637299321,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2014-01-25T20:38:34Z",
+    "version":1,
+    "changeset":20200137,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.822978,30.1759443 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637312501",
+    "type":"node",
+    "id":2637312501,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2014-01-25T20:48:32Z",
+    "version":1,
+    "changeset":20200311,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7995862,30.1719164 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637341040",
+    "type":"node",
+    "id":2637341040,
+    "amenity":"fuel",
+    "name":"TETCO",
+    "timestamp":"2014-01-25T21:10:28Z",
+    "version":1,
+    "changeset":20200657,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7890022,30.1666339 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2637351371",
+    "type":"node",
+    "id":2637351371,
+    "amenity":"fuel",
+    "name":"Walmart",
+    "timestamp":"2014-01-25T21:18:24Z",
+    "version":1,
+    "changeset":20200771,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.702878,30.225175 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2673726566",
+    "type":"node",
+    "id":2673726566,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2014-02-15T22:24:08Z",
+    "version":1,
+    "changeset":20586223,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.703448,30.224644 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2673730311",
+    "type":"node",
+    "id":2673730311,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2014-02-15T22:24:56Z",
+    "version":1,
+    "changeset":20586235,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.703601,30.225316 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2673733758",
+    "type":"node",
+    "id":2673733758,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2014-02-15T22:25:44Z",
+    "version":1,
+    "changeset":20586252,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7591983,30.2591718 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2723999250",
+    "type":"node",
+    "id":2723999250,
+    "amenity":"fuel",
+    "name":"Signature Gas",
+    "timestamp":"2014-03-17T19:48:10Z",
+    "version":1,
+    "changeset":21161799,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7629578,30.2541603 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2724009175",
+    "type":"node",
+    "id":2724009175,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2014-03-17T19:54:59Z",
+    "version":1,
+    "changeset":21161922,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8637583,30.3178706 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2728694088",
+    "type":"node",
+    "id":2728694088,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2014-03-20T13:44:11Z",
+    "version":1,
+    "changeset":21210240,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.720129,30.231886 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2808850701",
+    "type":"node",
+    "id":2808850701,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2016-02-04T19:34:03Z",
+    "version":2,
+    "changeset":37006035,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.728393,30.24134 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2808856601",
+    "type":"node",
+    "id":2808856601,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2014-04-22T15:20:34Z",
+    "version":1,
+    "changeset":21864846,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6599188,30.3290494 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2911241093",
+    "type":"node",
+    "id":2911241093,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2014-06-11T14:31:02Z",
+    "version":1,
+    "changeset":22872716,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7045351,30.3130568 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2970355216",
+    "type":"node",
+    "id":2970355216,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2014-07-19T16:34:06Z",
+    "version":1,
+    "changeset":24241127,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7050096,30.312811 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/2970355217",
+    "type":"node",
+    "id":2970355217,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2014-07-19T16:34:06Z",
+    "version":1,
+    "changeset":24241127,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8645769,30.2292699 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3018371707",
+    "type":"node",
+    "id":3018371707,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2014-08-15T15:56:07Z",
+    "version":1,
+    "changeset":24770353,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6164239,30.4971267 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3095709151",
+    "type":"node",
+    "id":3095709151,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2014-09-25T14:39:17Z",
+    "version":1,
+    "changeset":25666716,
+    "geometry/type":"Point",
+    "addr:city":"Round Rock",
+    "housenumber":"3701",
+    "addr:postcode":"78664",
+    "street":"Gattis School Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"High Country Market",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7228866,30.2347106 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3140524460",
+    "type":"node",
+    "id":3140524460,
+    "amenity":"fuel",
+    "name":"H-E-B Gas",
+    "timestamp":"2014-10-20T19:22:32Z",
+    "version":1,
+    "changeset":26220953,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7517589,30.2428085 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3240529918",
+    "type":"node",
+    "id":3240529918,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2015-02-04T16:00:13Z",
+    "version":2,
+    "changeset":28613334,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7516876,30.2430919 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3240529919",
+    "type":"node",
+    "id":3240529919,
+    "amenity":"fuel",
+    "name":"7-Eleven",
+    "timestamp":"2015-02-04T16:00:36Z",
+    "version":3,
+    "changeset":28613341,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7190809,30.3140597 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3241618919",
+    "type":"node",
+    "id":3241618919,
+    "amenity":"fuel",
+    "name":"Snappy Mart",
+    "timestamp":"2014-12-18T20:31:47Z",
+    "version":1,
+    "changeset":27558103,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8168663,30.1857287 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3253103393",
+    "type":"node",
+    "id":3253103393,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2015-02-04T15:26:10Z",
+    "version":2,
+    "changeset":28612731,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7641443,30.303249 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3330116840",
+    "type":"node",
+    "id":3330116840,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2015-02-04T16:19:11Z",
+    "version":1,
+    "changeset":28613671,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7243642,30.306675 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3442936356",
+    "type":"node",
+    "id":3442936356,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2015-04-07T15:33:04Z",
+    "version":1,
+    "changeset":30042422,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7672009,30.1893881 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3470064404",
+    "type":"node",
+    "id":3470064404,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2015-04-21T18:42:41Z",
+    "version":1,
+    "changeset":30386996,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.722118,30.234045 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3764482157",
+    "type":"node",
+    "id":3764482157,
+    "amenity":"fuel",
+    "name":"Chevron",
+    "timestamp":"2015-09-29T21:44:42Z",
+    "version":1,
+    "changeset":34336129,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6409625,30.4726844 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3895762343",
+    "type":"node",
+    "id":3895762343,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2015-12-16T21:31:26Z",
+    "version":1,
+    "changeset":35998271,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"7Eleven",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7208667,30.2796498 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3913801023",
+    "type":"node",
+    "id":3913801023,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2015-12-28T02:17:04Z",
+    "version":1,
+    "changeset":36210345,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7821583,30.2439885 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/3921308712",
+    "type":"node",
+    "id":3921308712,
+    "amenity":"fuel",
+    "name":"7-Eleven",
+    "timestamp":"2016-05-02T22:53:12Z",
+    "version":2,
+    "changeset":39054977,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7883042,30.2292982 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4093997759",
+    "type":"node",
+    "id":4093997759,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2016-04-02T22:15:12Z",
+    "version":1,
+    "changeset":38257105,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7969402,30.1400753 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4136958211",
+    "type":"node",
+    "id":4136958211,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2016-04-20T20:52:22Z",
+    "version":1,
+    "changeset":38739471,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"24/7",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7049986,30.3981582 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4259261516",
+    "type":"node",
+    "id":4259261516,
+    "amenity":"fuel",
+    "name":"Valero",
+    "timestamp":"2016-06-22T20:09:29Z",
+    "version":1,
+    "changeset":40213577,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7197,30.3902211 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4264803470",
+    "type":"node",
+    "id":4264803470,
+    "amenity":"fuel",
+    "name":"Texaco",
+    "timestamp":"2016-06-25T18:41:29Z",
+    "version":1,
+    "changeset":40286996,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"2601",
+    "addr:postcode":"78758",
+    "street":"West Braker Lane",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6436226,30.1301689 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4357973503",
+    "type":"node",
+    "id":4357973503,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2017-10-22T20:06:33Z",
+    "version":2,
+    "changeset":53161417,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8880318,30.2462252 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4584064505",
+    "type":"node",
+    "id":4584064505,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2017-01-01T16:47:23Z",
+    "version":1,
+    "changeset":44826015,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8606414,30.490269 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4824258280",
+    "type":"node",
+    "id":4824258280,
+    "amenity":"fuel",
+    "name":"Shell",
+    "timestamp":"2017-04-29T05:04:09Z",
+    "version":1,
+    "changeset":48245779,
+    "geometry/type":"Point",
+    "addr:city":"Cedar Park",
+    "housenumber":"",
+    "addr:postcode":"78613",
+    "street":"Anderson Mill Road",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"TX",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8319995,30.4817342 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/4824302789",
+    "type":"node",
+    "id":4824302789,
+    "amenity":"fuel",
+    "name":"Randall's Gas",
+    "timestamp":"2017-04-29T05:38:12Z",
+    "version":2,
+    "changeset":48246163,
+    "geometry/type":"Point",
+    "addr:city":"Cedar Park",
+    "housenumber":"1400",
+    "addr:postcode":"78613",
+    "street":"Cypress Creek Road",
+    "cuisine":"",
+    "opening_hours":"24hrs",
+    "addr:state":"Tx",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8332288,30.4812951 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5369203704",
+    "type":"node",
+    "id":5369203704,
+    "amenity":"fuel",
+    "name":"",
+    "timestamp":"2018-01-29T11:25:30Z",
+    "version":2,
+    "changeset":55856382,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8322158,30.4808736 ]
+    },
+    "properties": {
+    "type":"Feature",
+    "id":"node/5369214617",
+    "type":"node",
+    "id":5369214617,
+    "amenity":"fuel",
+    "name":"Exxon",
+    "timestamp":"2018-01-29T11:25:30Z",
+    "version":2,
+    "changeset":55856382,
+    "geometry/type":"Point",
+    "addr:city":"",
+    "housenumber":"",
+    "addr:postcode":"",
+    "street":"",
+    "cuisine":"",
+    "opening_hours":"",
+    "addr:state":"",
+    "operator":"",
+    "phone":"",
+    "website":""
+    }
+  }
+]
+}
